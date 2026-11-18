@@ -53,6 +53,54 @@
     }
   },
   {
+    "slug": "citi-81-trillion-mistake",
+    "cat": "business",
+    "headline": "Bank Accidentally Puts $81 Trillion Into a Customer's Account Instead of $280",
+    "dek": "One employee typed it. A second checked it. Neither noticed the extra 11 zeros.",
+    "date": "2025-02-28",
+    "location": "New York, USA",
+    "read": 2,
+    "body": [
+      "Everyone has made a typo at work. Few have made one worth almost three times the entire US economy.",
+      "In April 2024, Citigroup credited a customer account with $81 trillion. The amount was supposed to be $280. The Financial Times revealed the blunder in February 2025, and other outlets including CBS News followed up.",
+      "Here is the part that makes it truly special. The payment was entered by one employee and then reviewed by a second. Neither spotted the problem, and the transaction was approved to go through the next day.",
+      {
+        "h2": "Caught by employee number three"
+      },
+      "About 90 minutes after it posted, a third employee noticed something slightly off about an $81 trillion balance. The transaction was reversed a few hours later.",
+      {
+        "img2": true
+      },
+      "Citi said no money ever actually left the bank, describing the cause as an inputting error between two of its own internal ledger accounts. It reported the incident to US regulators as a near miss, the term for a wrong payment that gets caught and recovered.",
+      {
+        "quote": "According to an internal report cited by the FT, Citi had 10 near misses of $1 billion or more in 2024. That was an improvement on the year before."
+      },
+      "For perspective, the entire US economy produced about $29 trillion in 2024. For a few hours, one account at Citi held nearly three of them."
+    ],
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/citi-mistakenly-credited-81-trillion-to-customer-account/"
+      }
+    ],
+    "img": {
+      "file": "File:Citibank Chinatown.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citibank_Chinatown.jpg",
+      "author": "Uris",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "A Citibank branch with blue signage on a Manhattan street corner"
+    },
+    "img2": {
+      "file": "File:Eccles Building (26088200676).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eccles_Building_%2826088200676%29.jpg",
+      "author": "Federal Reserve",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Federal_Reserve",
+      "alt": "The white marble Federal Reserve Eccles Building in Washington, D.C."
+    }
+  },
+  {
     "slug": "drunk-raccoon-liquor-store",
     "cat": "culture",
     "headline": "Raccoon Breaks Into Liquor Store, Drinks the Scotch Shelf Dry, Passes Out in the Bathroom",
@@ -102,55 +150,51 @@
     }
   },
   {
-    "slug": "beavers-build-government-dam-for-free",
-    "cat": "politics",
-    "headline": "Beavers Finish Government's 7-Year Dam Project Overnight, Save Taxpayers $1.2 Million",
-    "dek": "Officials spent years on permits and land talks. A family of rodents spent a couple of nights on it and did a better job.",
-    "date": "2025-02-11",
-    "location": "Brdy Protected Landscape Area, Czech Republic",
+    "slug": "chalamet-lookalike-contest",
+    "cat": "culture",
+    "headline": "Hundreds of Timothée Chalamet Clones Swarm a NYC Park, Cops Shut It Down, Then the Real Timothée Shows Up",
+    "dek": "The prize was $50. The crowd was enormous. The police were not amused. The actor himself was.",
+    "date": "2024-10-27",
+    "location": "New York City, USA",
     "read": 3,
     "body": [
-      "Every government has a project that seems to take forever. In the Czech Republic, one of them was finally finished, and not by anyone on the payroll.",
-      "Conservation officials had wanted to build barriers near the Klabava River, on a former army training ground south-west of Prague that became a protected area in 2016. The goal was to shield the river, and its critically endangered crayfish, from sediment and acidic water draining out of two nearby ponds, and to create a wetland along the way.",
-      "The plan was drawn up in 2018. It was approved. It had a budget of about 30 million koruna, roughly $1.2 million. And then it sat there for years, stuck in negotiations over land and permits between military forest managers and the river basin authority.",
+      "It started as a joke. It ended with police, handcuffs, a $500 fine and the arrival of the one man nobody expected to see.",
+      "On Sunday, October 27, 2024, a YouTube personality hosted a Timothée Chalamet look-alike contest near Washington Square Park in Manhattan. The prize was a modest $50. Flyers went up around the city, an online invite collected thousands of RSVPs, and hundreds of people turned out to watch.",
+      "The contestants came prepared. There were curly-haired Willy Wonkas, desert-ready Dune heroes and a great many sharp cheekbones.",
       {
-        "h2": "Enter the beavers"
+        "h2": "Then the police arrived"
       },
-      "Before a single excavator arrived, a local beaver family of around eight animals took matters into their own paws. They built at least four dams across a drainage gully soldiers had once dug, with more under construction.",
+      "Just as the look-alikes started walking a red carpet, police ordered the crowd to break up. Organisers were fined $500 for holding an unpermitted costume contest, and at least one contestant was led away in handcuffs.",
       {
         "img2": true
       },
-      "The resulting network of pools and channels covers about twice the area the human planners had in mind. The head of the protected-area administration said the beavers had created the habitat almost overnight, with no paperwork and at no cost, saving the state the entire 30 million crowns.",
       {
-        "quote": "A zoologist pointed out the key difference: beavers can build a dam in a night or two, while people need permits and funding first."
+        "quote": "Then, out of nowhere, the real Timothée Chalamet walked in, flanked by bodyguards, and posed for photos with his doppelgängers."
       },
-      "Officials said they do not expect any conflict with their new unpaid contractors for at least a decade. The nearest farmland that could be affected is far from the site. The beavers have not submitted an invoice."
+      "Undeterred, the contest moved to a nearby playground. More than a dozen hopefuls took to a makeshift stage, and four finalists were quizzed on their French, their plans to improve the world and their intentions toward Kylie Jenner.",
+      "The winner, a 21-year-old from Staten Island in a purple Wonka outfit who threw candy from a briefcase, walked away with a novelty cheque made out to Best Tim. One of the producers summed it up: what began as a silly joke turned into total pandemonium."
     ],
     "sources": [
       {
-        "name": "Fortune (AFP)",
-        "url": "https://fortune.com/europe/2025/02/12/czech-beaver-family-save-government-1-2-million-dam-project-prague-flooding-climate-change/"
-      },
-      {
-        "name": "Radio Prague International",
-        "url": "https://english.radio.cz/node/8841536"
+        "name": "Boston.com (Associated Press)",
+        "url": "https://www.boston.com/news/entertainment/2024/10/27/actor-timothee-chalamet-crashes-his-own-look-alike-contest-after-police-shut-down-crowded-event/"
       }
     ],
     "img": {
-      "file": "File:Biber am Fahrländer See.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biber_am_Fahrl%C3%A4nder_See.jpg",
-      "author": "Stephan Sprinz",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A wet Eurasian beaver sitting in green grass at the water's edge"
+      "file": "File:NYC - Washington Square Park - Arch.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYC_-_Washington_Square_Park_-_Arch.jpg",
+      "author": "Jean-Christophe BENOIST",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "alt": "The marble Washington Square Arch in New York under a blue sky"
     },
     "img2": {
-      "file": "File:Beaver Dam On Rozhdestvenka River.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaver_Dam_On_Rozhdestvenka_River.jpg",
-      "author": "Eduard Kosarev",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A beaver dam of woven sticks holding back a small river"
+      "file": "File:Washington Square Park (51659533217).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Washington_Square_Park_%2851659533217%29.jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "The Washington Square Park fountain with the arch behind it"
     }
   },
   {
@@ -206,6 +250,110 @@
     }
   },
   {
+    "slug": "human-washing-machine-japan",
+    "cat": "tech",
+    "headline": "Japan Now Sells a Washing Machine for Humans, and Its Maker Says It Cleans Your Soul",
+    "dek": "You lie in a pod, close the lid and get washed like a load of laundry. It costs about $385,000.",
+    "date": "2025-11-28",
+    "location": "Osaka, Japan",
+    "read": 3,
+    "body": [
+      "Showers are fine. Baths are nice. But have you ever wanted to be washed exactly like a pair of socks? Japan has you covered.",
+      "In late November 2025, the Osaka company Science Co. began selling its Mirai Ningen Sentakki, which translates as Future Human Washing Machine. You lie down inside a pod, close the lid, and it cleans you the way a washing machine cleans clothes. There is, thankfully, no spin cycle.",
+      "While you soak, music plays and the machine monitors your heartbeat and other vital signs. A company spokesperson told AFP that it washes not only your body but also your soul.",
+      {
+        "h2": "From Expo novelty to real product"
+      },
+      "A prototype was one of the hits of Expo 2025 in Osaka, which drew more than 27 million visitors. Demand to try it was so high that people had to win a lottery for a turn.",
+      {
+        "img2": true
+      },
+      "The idea is not new. It is an update of a human-washing machine shown at the last Osaka Expo in 1970, which inspired the company's president when he was ten years old.",
+      {
+        "quote": "The company only decided to make it for real after a US resort company asked whether it would ever be sold."
+      },
+      "Only about 50 units are planned, at a reported price of around ¥60 million, or roughly $385,000 each. An Osaka hotel bought the first one and rents it out in a private spa room, and an electronics chain ordered another to lure shoppers into its stores. Each wash takes about 20 minutes and includes bubbles and a warm mist. Detergent, presumably, is optional."
+    ],
+    "sources": [
+      {
+        "name": "The Star (AFP)",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/29/human-washing-machine-goes-on-sale-in-japan"
+      },
+      {
+        "name": "Time Out Osaka",
+        "url": "https://www.timeout.com/osaka/news/try-a-futuristic-bath-in-a-human-washing-machine-at-this-osaka-hotel-121125"
+      }
+    ],
+    "img": {
+      "file": "File:Washing machine (6912749857).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Washing_machine_%286912749857%29.jpg",
+      "author": "Toms Sk.",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A front-loading washing machine with its round door open"
+    },
+    "img2": {
+      "file": "File:Expo 2025 Grand Ring 03.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Expo_2025_Grand_Ring_03.JPG",
+      "author": "Abasaa",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "alt": "The giant wooden Grand Ring of Expo 2025 Osaka reflected in water"
+    }
+  },
+  {
+    "slug": "beavers-build-government-dam-for-free",
+    "cat": "politics",
+    "headline": "Beavers Finish Government's 7-Year Dam Project Overnight, Save Taxpayers $1.2 Million",
+    "dek": "Officials spent years on permits and land talks. A family of rodents spent a couple of nights on it and did a better job.",
+    "date": "2025-02-11",
+    "location": "Brdy Protected Landscape Area, Czech Republic",
+    "read": 3,
+    "body": [
+      "Every government has a project that seems to take forever. In the Czech Republic, one of them was finally finished, and not by anyone on the payroll.",
+      "Conservation officials had wanted to build barriers near the Klabava River, on a former army training ground south-west of Prague that became a protected area in 2016. The goal was to shield the river, and its critically endangered crayfish, from sediment and acidic water draining out of two nearby ponds, and to create a wetland along the way.",
+      "The plan was drawn up in 2018. It was approved. It had a budget of about 30 million koruna, roughly $1.2 million. And then it sat there for years, stuck in negotiations over land and permits between military forest managers and the river basin authority.",
+      {
+        "h2": "Enter the beavers"
+      },
+      "Before a single excavator arrived, a local beaver family of around eight animals took matters into their own paws. They built at least four dams across a drainage gully soldiers had once dug, with more under construction.",
+      {
+        "img2": true
+      },
+      "The resulting network of pools and channels covers about twice the area the human planners had in mind. The head of the protected-area administration said the beavers had created the habitat almost overnight, with no paperwork and at no cost, saving the state the entire 30 million crowns.",
+      {
+        "quote": "A zoologist pointed out the key difference: beavers can build a dam in a night or two, while people need permits and funding first."
+      },
+      "Officials said they do not expect any conflict with their new unpaid contractors for at least a decade. The nearest farmland that could be affected is far from the site. The beavers have not submitted an invoice."
+    ],
+    "sources": [
+      {
+        "name": "Fortune (AFP)",
+        "url": "https://fortune.com/europe/2025/02/12/czech-beaver-family-save-government-1-2-million-dam-project-prague-flooding-climate-change/"
+      },
+      {
+        "name": "Radio Prague International",
+        "url": "https://english.radio.cz/node/8841536"
+      }
+    ],
+    "img": {
+      "file": "File:Biber am Fahrländer See.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biber_am_Fahrl%C3%A4nder_See.jpg",
+      "author": "Stephan Sprinz",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "A wet Eurasian beaver sitting in green grass at the water's edge"
+    },
+    "img2": {
+      "file": "File:Beaver Dam On Rozhdestvenka River.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaver_Dam_On_Rozhdestvenka_River.jpg",
+      "author": "Eduard Kosarev",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A beaver dam of woven sticks holding back a small river"
+    }
+  },
+  {
     "slug": "kitkat-truck-heist",
     "cat": "business",
     "headline": "Thieves Steal 12 Tonnes of KitKats, All 413,793 Bars, and Vanish Without a Trace",
@@ -255,103 +403,107 @@
     }
   },
   {
-    "slug": "cat-mailed-to-amazon",
-    "cat": "business",
-    "headline": "Couple Accidentally Mails Their Cat to Amazon in a Box of Boots. She Survives 6 Days and 600 Miles",
-    "dek": "The returns warehouse opened the package expecting steel-toed boots. It found a calico instead.",
-    "date": "2024-04-24",
-    "location": "Lehi, Utah to Jurupa Valley, California, USA",
+    "slug": "spain-trains-too-big-for-tunnels",
+    "cat": "politics",
+    "headline": "Spain Orders €258 Million of New Trains, Then Finds Out They Won't Fit Through the Tunnels",
+    "dek": "Someone got the measurements wrong. Two of the country's top transport officials lost their jobs.",
+    "date": "2023-02-21",
+    "location": "Asturias and Cantabria, Spain",
     "read": 3,
     "body": [
-      "Every cat owner knows cats love boxes. One family in Utah learned exactly how far that love can take a cat: about 630 miles.",
-      "On April 10, 2024, a man in Lehi, Utah, packed five pairs of steel-toed work boots back into a large box to return them to Amazon. What he did not notice was Galena, the family's six-year-old indoor calico and a well-known box enthusiast, who had quietly climbed in with them.",
-      "The box was sealed and shipped. The family spent the next week searching for their cat, putting up posters and posting appeals on social media, with no idea she was riding UPS across state lines.",
+      "Measure twice, cut once. It is advice every carpenter knows, and apparently advice nobody passed on to Spain's railways.",
+      "In June 2020, Renfe, Spain's state rail operator, ordered 31 new commuter trains worth about €258 million from the Spanish manufacturer CAF. They were meant for the narrow-gauge lines that wind through the mountains of Asturias and Cantabria in the north of the country.",
+      "There was just one problem. The measurements CAF had been given were wrong. In March 2021, the manufacturer realised the trains would be too wide to pass through some of the tunnels on the route, and stopped building.",
       {
-        "h2": "Return to sender"
+        "h2": "Blame the 19th century"
       },
-      "On April 16, a worker at an Amazon returns warehouse in Jurupa Valley, California, opened the box and found a cat where the boots should have been. An off-duty employee who rescues cats on the side came in with food and a carrier and took her home.",
+      "The tunnels in question were dug in the 1800s, and their dimensions do not match modern standards. Somewhere between the old tunnels and the new trains, nobody checked.",
       {
         "img2": true
       },
-      "Galena had spent roughly six days in the box with no food or water. A vet found her a little thinner and mildly dehydrated but otherwise fine, with normal bloodwork. Her microchip led the vet straight to her owners, who at first assumed the phone call was a prank.",
+      "When the story finally became public in February 2023, the fallout was swift. The president of Renfe and Spain's secretary of state for transport both resigned, after two senior rail officials had already been fired.",
       {
-        "quote": "The owners credited three small miracles: a split seam that let in air, mild weather, and the warehouse worker who took her in."
+        "quote": "Cantabria's regional president called it a monumental botch, demanded that heads roll, and asked for compensation."
       },
-      "The couple flew to California for the reunion, then drove about ten hours home with Galena. Their advice to other pet owners: get your pets microchipped, and triple-check your Amazon boxes."
+      "The government and Renfe insisted no money had been wasted because the error was caught before any trains were built. Delivery of the new trains slipped from 2024 to 2026, and rail officials launched an inquiry into how a nine-figure order ended up depending on the wrong tape measure."
     ],
     "sources": [
       {
-        "name": "CNN via ABC 17 News",
-        "url": "https://abc17news.com/news/national-world/cnn-national/2024/04/30/a-utah-couple-accidentally-shipped-their-cat-with-an-amazon-return-a-week-and-3-miracles-later-they-were-on-a-plane-to-meet-a-stranger/"
+        "name": "RTÉ News (AFP)",
+        "url": "https://www.rte.ie/news/world/2023/0222/1358104-spain-train/"
       },
       {
-        "name": "KSL",
-        "url": "https://www.ksl.com/article/50990757"
+        "name": "The Local Spain",
+        "url": "https://www.thelocal.es/20230221/spains-rail-chief-quits-over-trains-too-big-for-tunnels-scandal/"
       }
     ],
     "img": {
-      "file": "File:2020-10-06 18 08 14 A Calico cat in a box in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-10-06_18_08_14_A_Calico_cat_in_a_box_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
-      "author": "Famartin",
+      "file": "File:Estación Puente de los Fierros (Asturias).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Estaci%C3%B3n_Puente_de_los_Fierros_%28Asturias%29.jpg",
+      "author": "Savh",
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A calico cat sitting inside an open cardboard box, looking up"
+      "alt": "A red-and-white commuter train at a misty mountain station in Asturias, Spain"
     },
     "img2": {
-      "file": "File:Calico cat, - Assisi, Italy.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calico_cat%2C_-_Assisi%2C_Italy.jpg",
-      "author": "Terragio67",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A calico cat crouching on a stone step in front of a wooden door"
+      "file": "File:Cercanías@Nueva Montaña.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cercan%C3%ADas%40Nueva_Monta%C3%B1a.jpg",
+      "author": "LMLM",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "A narrow-gauge commuter train pulling into a station in Santander, Cantabria"
     }
   },
   {
-    "slug": "neil-the-seal-privacy",
+    "slug": "godzilla-egg-japan-beach",
     "cat": "world",
-    "headline": "Officials Beg Fans to Respect the Privacy of Neil, a 1-Ton Seal Who Fights Parked Cars",
-    "dek": "He bends bollards, smashes barriers and lies in the road. He also has more TikTok followers than Tasmania has people.",
-    "date": "2026-07-02",
-    "location": "Hobart, Tasmania, Australia",
-    "read": 3,
+    "headline": "Godzilla Egg? Giant Mystery Metal Ball Washes Up on Japanese Beach and the Bomb Squad Is Called In",
+    "dek": "The internet guessed bombs, UFOs and kaiju. An oceanographer took one look and solved it.",
+    "date": "2023-02-22",
+    "location": "Hamamatsu, Japan",
+    "read": 2,
     "body": [
-      "Most celebrities ask for privacy after a scandal. Neil has had a dozen scandals, and he is a seal, so officials are asking on his behalf.",
-      "Neil is a five-year-old male southern elephant seal weighing around 1,000 kilograms, about as much as a small car. Twice a year, after months of feeding at sea, he hauls himself ashore for a tour of beachside towns in southern Tasmania. His latest visit was his twelfth.",
-      "His TikTok following of 1.4 million is more than double Tasmania's entire human population. His criminal record is similarly impressive.",
+      "When a giant metal sphere appears on your beach, you have two options. Ignore it, or call the bomb squad. Japan chose the bomb squad.",
+      "In February 2023, a hollow iron ball almost 1.5 metres wide was discovered on a beach in Hamamatsu, south-west of Tokyo. A local jogger told the broadcaster NHK it had been sitting there for about a month, and that it would not move when he pushed it.",
+      "Police sealed off the beach and sent in explosives experts. X-rays showed the ball was hollow and not dangerous, but officials did not say what it actually was. The internet was happy to fill the gap.",
       {
-        "h2": "The charge sheet"
+        "h2": "Godzilla, UFO or spy?"
       },
-      "Over his visits, Neil has bent traffic bollards, damaged a sign warning the public about seals, flattened a fence he tried to vault, picked fights with parked cars and smashed through barriers built specifically to keep him off the roads. He enjoys lying in the middle of the street, occasionally bringing an entire town to a halt, and keeps returning to a favourite sidewalk puddle even after rangers relocate him.",
+      "Social media users dubbed it a Godzilla egg. Other theories included a bomb, an alien craft and something from outer space. It did not help that Japan was already on edge over suspected spy balloons.",
       {
         "img2": true
       },
-      "At a news conference in Hobart, a state wildlife official asked fans to give Neil some space, calling his fame a double-edged sword. He warned that people risk loving Neil to death, and asked the public to stop revealing which town the seal is currently in.",
+      "The city eventually concluded it was most likely a foreign-made buoy. An oceanographer in Scotland agreed, telling the BBC he recognised it immediately as the kind of float used to hold ocean instruments.",
       {
-        "quote": "A seal scientist explained that young males practise for adult dominance battles. With no rivals around, Neil practises on cars."
+        "quote": "He explained that such buoys can drift for decades and lose their markings, and look a lot like old sea mines, minus the spikes."
       },
-      "Some fans online have embraced him as an anti-authority hero. A local resident called him one of the area's biggest exports. If he reaches adulthood, Neil could grow to about five metres long and triple his weight, which is bad news for the bollards."
+      "Within days, a heavy lifting machine hauled the ball away to be stored and later disposed of. One official said they were relieved it was finally gone. Godzilla, as far as we know, has not come looking for it."
     ],
     "sources": [
       {
-        "name": "Hawaiʻi Public Radio (Associated Press)",
-        "url": "https://www.hawaiipublicradio.org/national-international/2026-07-02/australian-officials-ask-fans-to-respect-the-privacy-of-neil-a-trouble-making-seal"
+        "name": "CBS News",
+        "url": "https://cbsnews.com/amp/colorado/news/ball-discovered-beach-in-japan-investigation-hamamatsu-city"
+      },
+      {
+        "name": "RNZ (BBC)",
+        "url": "https://www.rnz.co.nz/news/world/484814/japan-s-mystery-ball-removed-from-the-beach"
       }
     ],
     "img": {
-      "file": "File:Mirounga leonina.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirounga_leonina.jpg",
-      "author": "Butterfly austral - Serge Ouachée",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A young southern elephant seal lying on snow with its mouth wide open"
+      "file": "File:Nakatajima Sand Dunes 03.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakatajima_Sand_Dunes_03.jpg",
+      "author": "Kubo Michal",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "alt": "An empty sandy beach and dunes on the Hamamatsu coast"
     },
     "img2": {
-      "file": "File:SouthShetland-2016-Livingston Island (Hannah Point)–Southern elephant seal (Mirounga leonina) 02.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SouthShetland-2016-Livingston_Island_%28Hannah_Point%29%E2%80%93Southern_elephant_seal_%28Mirounga_leonina%29_02.jpg",
-      "author": "Andrew Shiva / Wikipedia",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A mud-caked southern elephant seal yawning widely on a beach"
+      "file": "File:Mooring ball in Portencross car park - geograph.org.uk - 5856123.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mooring_ball_in_Portencross_car_park_-_geograph.org.uk_-_5856123.jpg",
+      "author": "Thomas Nugent",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A large rusty spherical mooring buoy on a seaside lawn"
     }
   },
   {
@@ -459,6 +611,418 @@
     }
   },
   {
+    "slug": "lost-space-tomato-found",
+    "cat": "science",
+    "headline": "Astronaut Accused of Secretly Eating a Space Tomato Is Cleared When It Turns Up 8 Months Later",
+    "dek": "It floated away on the International Space Station. Everyone assumed he ate it. He didn't.",
+    "date": "2023-12-06",
+    "location": "International Space Station",
+    "read": 3,
+    "body": [
+      "It is one of the great mysteries of modern spaceflight. Not dark matter. Not black holes. A missing tomato.",
+      "NASA astronaut Frank Rubio harvested a tiny tomato grown aboard the International Space Station, put it in a bag, and took it out to show some students. He thought he had velcroed it back in place afterwards. He had not. It floated off into the station and vanished.",
+      "Rubio spent 18 to 20 hours searching for it without success and concluded it had probably dried out beyond recognition. His crewmates, and much of the internet, had a different theory: he ate it. He denied this.",
+      {
+        "h2": "Exonerated in orbit"
+      },
+      "Rubio went on to spend more than a year in space, a record for an American astronaut, after a problem with his Soyuz spacecraft doubled his planned stay. He returned to Earth with the tomato question still hanging over him.",
+      {
+        "img2": true
+      },
+      "Then, on December 6, 2023, during a livestream for the station's 25th anniversary, astronaut Jasmin Moghbeli announced that the crew had found it.",
+      {
+        "quote": "Moghbeli told viewers the crew could finally exonerate their former crewmate."
+      },
+      "NASA later revealed there were actually two lost tomatoes, found together in a plastic bag, dehydrated and slightly squished but free of visible mould. The station is bigger than a six-bedroom house, which leaves plenty of corners for fruit to hide. The famous tomatoes were thrown away rather than brought home, ending their journey with no honours at all."
+    ],
+    "sources": [
+      {
+        "name": "CBS News",
+        "url": "https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/"
+      },
+      {
+        "name": "Space.com",
+        "url": "https://www.space.com/nasa-international-space-station-lost-tomatoes-photo-video"
+      }
+    ],
+    "img": {
+      "file": "File:STS-134 International Space Station after undocking.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/STS-134_International_Space_Station_after_undocking.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "alt": "The International Space Station orbiting above Earth's clouds"
+    },
+    "img2": {
+      "file": "File:Veg-05 (1).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Veg-05_%281%29.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "alt": "Dwarf tomato plants growing under pink LED lights aboard the space station"
+    }
+  },
+  {
+    "slug": "carlsen-jeans-disqualified",
+    "cat": "sports",
+    "headline": "World's Best Chess Player Gets Kicked Out of World Championship for Wearing Jeans. The Jeans Then Sell for $36,100",
+    "dek": "He refused to change. Officials refused to budge. Then they changed the rules and he came back.",
+    "date": "2024-12-28",
+    "location": "New York, USA",
+    "read": 3,
+    "body": [
+      "Chess is a game of strategy, patience and, it turns out, trousers.",
+      "In December 2024, world number one Magnus Carlsen arrived at the FIDE World Rapid and Blitz Championships in New York wearing a shirt, a blazer and jeans. He said he had come straight from a lunch meeting. The tournament's dress code explicitly banned jeans.",
+      "Officials fined him $200 and told him to change. Carlsen offered to change the next day. Officials said now. He refused, calling it a matter of principle, and was left out of the next round's pairings, which meant he was out of the event.",
+      {
+        "h2": "The great denim stand-off"
+      },
+      "Chess's governing body said the rule applied equally to everyone, pointing out that another grandmaster had been fined the same day for wearing sports shoes and had simply gone and changed.",
+      {
+        "img2": true
+      },
+      "Carlsen at first said he was done with the whole thing and joked he would head somewhere with better weather. Then FIDE relaxed its ban on jeans, and he came back for the blitz event. He made the final, and after three drawn sudden-death games he and his opponent agreed to share the title, a first for an over-the-board world championship.",
+      {
+        "quote": "The jeans themselves went on eBay a few months later and sold for $36,100, with the money going to charity."
+      },
+      "Bidding sat at $14,100 for days before 29 bids in under half an hour sent the price soaring. The buyer also paid $74 for shipping, which feels like the most reasonable part of the entire story."
+    ],
+    "sources": [
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2024/12/28/nx-s1-5241802/chess-jeans-magnus-carlsen-quits-championship"
+      },
+      {
+        "name": "Chess.com",
+        "url": "https://www.chess.com/news/view/carlsen-world-famous-jeans-auctioned-after-bidding-war"
+      }
+    ],
+    "img": {
+      "file": "File:Schachfiguren, König -- 2022 -- 0017.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg",
+      "author": "Dietmar Rabich / Wikimedia Commons / \"Schachfiguren, König -- 2022 -- 0017\"",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Wooden chess pieces with the white king in sharp focus"
+    },
+    "img2": {
+      "file": "File:Close-Up of Denim Jeans.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Close-Up_of_Denim_Jeans.jpg",
+      "author": "Partonez",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Close-up of blue denim fabric"
+    }
+  },
+  {
+    "slug": "cat-mailed-to-amazon",
+    "cat": "business",
+    "headline": "Couple Accidentally Mails Their Cat to Amazon in a Box of Boots. She Survives 6 Days and 600 Miles",
+    "dek": "The returns warehouse opened the package expecting steel-toed boots. It found a calico instead.",
+    "date": "2024-04-24",
+    "location": "Lehi, Utah to Jurupa Valley, California, USA",
+    "read": 3,
+    "body": [
+      "Every cat owner knows cats love boxes. One family in Utah learned exactly how far that love can take a cat: about 630 miles.",
+      "On April 10, 2024, a man in Lehi, Utah, packed five pairs of steel-toed work boots back into a large box to return them to Amazon. What he did not notice was Galena, the family's six-year-old indoor calico and a well-known box enthusiast, who had quietly climbed in with them.",
+      "The box was sealed and shipped. The family spent the next week searching for their cat, putting up posters and posting appeals on social media, with no idea she was riding UPS across state lines.",
+      {
+        "h2": "Return to sender"
+      },
+      "On April 16, a worker at an Amazon returns warehouse in Jurupa Valley, California, opened the box and found a cat where the boots should have been. An off-duty employee who rescues cats on the side came in with food and a carrier and took her home.",
+      {
+        "img2": true
+      },
+      "Galena had spent roughly six days in the box with no food or water. A vet found her a little thinner and mildly dehydrated but otherwise fine, with normal bloodwork. Her microchip led the vet straight to her owners, who at first assumed the phone call was a prank.",
+      {
+        "quote": "The owners credited three small miracles: a split seam that let in air, mild weather, and the warehouse worker who took her in."
+      },
+      "The couple flew to California for the reunion, then drove about ten hours home with Galena. Their advice to other pet owners: get your pets microchipped, and triple-check your Amazon boxes."
+    ],
+    "sources": [
+      {
+        "name": "CNN via ABC 17 News",
+        "url": "https://abc17news.com/news/national-world/cnn-national/2024/04/30/a-utah-couple-accidentally-shipped-their-cat-with-an-amazon-return-a-week-and-3-miracles-later-they-were-on-a-plane-to-meet-a-stranger/"
+      },
+      {
+        "name": "KSL",
+        "url": "https://www.ksl.com/article/50990757"
+      }
+    ],
+    "img": {
+      "file": "File:2020-10-06 18 08 14 A Calico cat in a box in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-10-06_18_08_14_A_Calico_cat_in_a_box_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A calico cat sitting inside an open cardboard box, looking up"
+    },
+    "img2": {
+      "file": "File:Calico cat, - Assisi, Italy.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calico_cat%2C_-_Assisi%2C_Italy.jpg",
+      "author": "Terragio67",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A calico cat crouching on a stone step in front of a wooden door"
+    }
+  },
+  {
+    "slug": "neil-the-seal-privacy",
+    "cat": "world",
+    "headline": "Officials Beg Fans to Respect the Privacy of Neil, a 1-Ton Seal Who Fights Parked Cars",
+    "dek": "He bends bollards, smashes barriers and lies in the road. He also has more TikTok followers than Tasmania has people.",
+    "date": "2026-07-02",
+    "location": "Hobart, Tasmania, Australia",
+    "read": 3,
+    "body": [
+      "Most celebrities ask for privacy after a scandal. Neil has had a dozen scandals, and he is a seal, so officials are asking on his behalf.",
+      "Neil is a five-year-old male southern elephant seal weighing around 1,000 kilograms, about as much as a small car. Twice a year, after months of feeding at sea, he hauls himself ashore for a tour of beachside towns in southern Tasmania. His latest visit was his twelfth.",
+      "His TikTok following of 1.4 million is more than double Tasmania's entire human population. His criminal record is similarly impressive.",
+      {
+        "h2": "The charge sheet"
+      },
+      "Over his visits, Neil has bent traffic bollards, damaged a sign warning the public about seals, flattened a fence he tried to vault, picked fights with parked cars and smashed through barriers built specifically to keep him off the roads. He enjoys lying in the middle of the street, occasionally bringing an entire town to a halt, and keeps returning to a favourite sidewalk puddle even after rangers relocate him.",
+      {
+        "img2": true
+      },
+      "At a news conference in Hobart, a state wildlife official asked fans to give Neil some space, calling his fame a double-edged sword. He warned that people risk loving Neil to death, and asked the public to stop revealing which town the seal is currently in.",
+      {
+        "quote": "A seal scientist explained that young males practise for adult dominance battles. With no rivals around, Neil practises on cars."
+      },
+      "Some fans online have embraced him as an anti-authority hero. A local resident called him one of the area's biggest exports. If he reaches adulthood, Neil could grow to about five metres long and triple his weight, which is bad news for the bollards."
+    ],
+    "sources": [
+      {
+        "name": "Hawaiʻi Public Radio (Associated Press)",
+        "url": "https://www.hawaiipublicradio.org/national-international/2026-07-02/australian-officials-ask-fans-to-respect-the-privacy-of-neil-a-trouble-making-seal"
+      }
+    ],
+    "img": {
+      "file": "File:Mirounga leonina.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirounga_leonina.jpg",
+      "author": "Butterfly austral - Serge Ouachée",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "A young southern elephant seal lying on snow with its mouth wide open"
+    },
+    "img2": {
+      "file": "File:SouthShetland-2016-Livingston Island (Hannah Point)–Southern elephant seal (Mirounga leonina) 02.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SouthShetland-2016-Livingston_Island_%28Hannah_Point%29%E2%80%93Southern_elephant_seal_%28Mirounga_leonina%29_02.jpg",
+      "author": "Andrew Shiva / Wikipedia",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A mud-caked southern elephant seal yawning widely on a beach"
+    }
+  },
+  {
+    "slug": "pumpkin-boat-world-record",
+    "cat": "sports",
+    "headline": "Man Hollows Out a 1,214-Pound Pumpkin and Paddles It 46 Miles Down a River for a World Record",
+    "dek": "He named it Punky Loafster. It nearly sank. He paddled through the night anyway.",
+    "date": "2024-10-26",
+    "location": "Columbia River, Washington and Oregon, USA",
+    "read": 3,
+    "body": [
+      "Cinderella turned a pumpkin into a carriage. One Oregon man turned his into a boat and set off down one of America's biggest rivers.",
+      "The 46-year-old giant-pumpkin grower from Happy Valley, Oregon, raised a 1,214-pound monster he named Punky Loafster. He pollinated it in July, harvested it in early October, and a week later carved it into a vessel.",
+      "On October 12 and 13, 2024, he paddled it 73.5 kilometres, about 46 miles, down the Columbia River from North Bonneville to Vancouver, Washington. The trip took roughly 26 hours over three legs and smashed the previous Guinness record of 63 kilometres.",
+      {
+        "h2": "Rough seas, soggy squash"
+      },
+      "He wrote the words it's real on both sides of his pumpkin so people watching from the shore would not think it was a prop. Winds of around 35 mph sent waves crashing over the sides, and the pumpkin began taking on water.",
+      {
+        "img2": true
+      },
+      "At a stop near Multnomah Falls, he lightened his boat by scooping out more pumpkin flesh with a soup can. He then paddled through the night, because pulling up on a rocky beach risked puncturing the hull.",
+      {
+        "quote": "Kayakers and a pontoon boat followed him the whole way, just in case the pumpkin gave up before he did."
+      },
+      "He has been growing giant pumpkins since 2011 and racing them in a local pumpkin regatta since 2013, which raises the question of how many other people are out there quietly training for this."
+    ],
+    "sources": [
+      {
+        "name": "OPB (Oregon Public Broadcasting)",
+        "url": "https://opb.org/article/2024/10/26/oregonian-breaks-guinness-world-record-largest-journey-pumpkin-boat"
+      },
+      {
+        "name": "Guinness World Records",
+        "url": "https://www.guinnessworldrecords.com/news/2024/10/man-fulfils-dream-by-paddling-pumpkin-boat-record-73-km-down-us-river"
+      }
+    ],
+    "img": {
+      "file": "File:Giant pumpkins linedup.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_pumpkins_linedup.jpg",
+      "author": "Nick Ares",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A row of enormous giant pumpkins on pallets at a weigh-off"
+    },
+    "img2": {
+      "file": "File:Columbia River Gorge from the Vista House.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbia_River_Gorge_from_the_Vista_House.jpg",
+      "author": "A Stray Echo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The Columbia River winding through the forested Columbia River Gorge"
+    }
+  },
+  {
+    "slug": "matchstick-eiffel-tower-wrong-matches",
+    "cat": "culture",
+    "headline": "Man Spends 8 Years Gluing 706,000 Matchsticks Into a Giant Eiffel Tower. Guinness Says He Used the Wrong Matches",
+    "dek": "The record was rejected over a technicality. Then the internet got angry and Guinness backed down.",
+    "date": "2024-02-09",
+    "location": "Montpellier-de-Médillan, France",
+    "read": 3,
+    "body": [
+      "Some people build model ships in bottles. One Frenchman built an Eiffel Tower taller than a two-storey house, out of matchsticks.",
+      "The 47-year-old spent eight years and about 4,200 hours on his creation, a 1:45 scale replica standing 7.19 metres tall. It used more than 706,000 matchsticks and 23 kilograms of glue. He placed the final match on December 27, 2023.",
+      "Early on, he cut the flammable heads off ordinary matches by hand. When that became too tedious, he started ordering plain wooden sticks without heads directly from a French match manufacturer. That decision would come back to haunt him.",
+      {
+        "h2": "Rejected"
+      },
+      "In late January 2024, Guinness World Records turned down his record attempt. The reason: his sticks were not commercially available matches.",
+      {
+        "img2": true
+      },
+      "He told French television the rejection had really hurt. The public agreed it was absurd, and after a wave of criticism, Guinness reversed its decision.",
+      {
+        "quote": "A Guinness records director admitted the organisation had been heavy-handed and said it regretted the distress it had caused."
+      },
+      "Guinness also rewrote its rules so that future builders can cut and shape their matchsticks however they like. The Frenchman's tower officially beat the previous record of 6.53 metres, set in 2009. He even hired a survey company to confirm the height, just in case anyone else had questions."
+    ],
+    "sources": [
+      {
+        "name": "NPR via NHPR",
+        "url": "https://www.nhpr.org/2024-02-09/reversal-guinness-awards-record-to-french-man-who-made-eiffel-tower-from-matchsticks"
+      },
+      {
+        "name": "RTÉ News (Reuters)",
+        "url": "https://www.rte.ie/news/newslens/2024/0209/1431328-match-tower"
+      }
+    ],
+    "img": {
+      "file": "File:Eiffel Tower in 2022 02.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eiffel_Tower_in_2022_02.jpg",
+      "author": "Maksim Sokolov (maxergon.com)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The Eiffel Tower's iron lattice seen from below"
+    },
+    "img2": {
+      "file": "File:Closeup of match stick heads.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_match_stick_heads.jpg",
+      "author": "Subhrajyoti07",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Close-up of red-tipped wooden matchsticks"
+    }
+  },
+  {
+    "slug": "steel-conker-scandal",
+    "cat": "sports",
+    "headline": "Steel Conker Scandal: 82-Year-Old King Conker Accused of Cheating With a Metal Chestnut",
+    "dek": "His opponent's conker shattered in one hit. Then a steel one turned up in the champion's pocket.",
+    "date": "2024-10-21",
+    "location": "Southwick, England, UK",
+    "read": 3,
+    "body": [
+      "Every sport has its doping scandal. The World Conker Championships have a steel chestnut.",
+      "More than 200 people entered the 2024 championships, held on October 13 at a pub in the English village of Southwick. The rules are simple: thread a horse chestnut onto a string, take turns whacking your opponent's conker, and try to smash it.",
+      "The men's title went to an 82-year-old veteran known to everyone as King Conker. His opponent in the final was less than thrilled, and raised the alarm after his own conker exploded in a single strike.",
+      {
+        "h2": "The smoking chestnut"
+      },
+      "Organisers confirmed that a steel conker had been found in the champion's pocket. He denied any wrongdoing.",
+      {
+        "img2": true
+      },
+      "The committee investigated, reviewing photos, video and statements from judges and umpires. On October 21 they cleared him, accepting that he carried the metal conker purely to amuse people as part of his King Conker persona.",
+      {
+        "quote": "The committee's chair said four judges had watched him so closely that cheating was absolutely impossible."
+      },
+      "The beaten finalist accepted the verdict gracefully. And in the end, King Conker did not take the overall crown anyway. That went to a 34-year-old woman from Indianapolis, who beat him to become the first American champion since the contest began in 1965."
+    ],
+    "sources": [
+      {
+        "name": "WSLS 10 (Associated Press)",
+        "url": "https://www.wsls.com/news/world/2024/10/15/conkers-controversy-world-tournament-investigates-claims-of-cheating-with-steel-chestnut/"
+      },
+      {
+        "name": "WSLS 10 (Associated Press), follow-up",
+        "url": "https://www.wsls.com/news/weird-news/2024/10/21/champion-cleared-of-cheating-with-a-metal-chestnut-at-the-world-conker-championships/"
+      }
+    ],
+    "img": {
+      "file": "File:Horse-chestnut conkers (37572638741).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horse-chestnut_conkers_%2837572638741%29.jpg",
+      "author": "stanze (Flickr: stanzebla)",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A pile of glossy reddish-brown horse chestnut conkers"
+    },
+    "img2": {
+      "file": "File:Conkers, Omagh - geograph.org.uk - 5045776.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Conkers%2C_Omagh_-_geograph.org.uk_-_5045776.jpg",
+      "author": "Kenneth Allen",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "Spiky green conker cases hanging on a horse chestnut tree"
+    }
+  },
+  {
+    "slug": "museum-artwork-thrown-in-bin",
+    "cat": "culture",
+    "headline": "Museum's Beer-Can Artwork Thrown in the Bin by a Worker Who Thought It Was Litter",
+    "dek": "The cans were hand-painted masterpieces. The new lift engineer saw two empty beers and did the tidy thing.",
+    "date": "2024-10-08",
+    "location": "Lisse, Netherlands",
+    "read": 2,
+    "body": [
+      "Modern art is often accused of looking like rubbish. At one Dutch museum, someone took that literally.",
+      "The LAM museum in Lisse was displaying a work by French artist Alexandre Lavet called All The Good Times We Spent Together. It appears to be two empty, dented beer cans. In fact, they are meticulously hand-painted with acrylics, a piece the museum says took enormous time and effort.",
+      "To surprise visitors, the museum placed the cans in its glass lift shaft, as though someone had carelessly left them behind. The illusion worked a little too well.",
+      {
+        "h2": "Doing his job"
+      },
+      "A lift engineer who had just started working at the museum spotted the cans, decided they were trash, and threw them away.",
+      {
+        "img2": true
+      },
+      "A curator returning from a short break noticed the artwork was gone and found it in a bin bag full of swept-up litter, just before it was taken away for good. Both cans survived intact.",
+      {
+        "quote": "A museum spokesperson said there were no hard feelings, and that the engineer was only doing his job."
+      },
+      "The cans were cleaned up and moved to a traditional plinth so the artwork could rest after its adventure. The museum's director said the whole point of the collection is to make people look at everyday objects in a new way. Mission, arguably, accomplished."
+    ],
+    "sources": [
+      {
+        "name": "RTÉ News",
+        "url": "https://www.rte.ie/news/newslens/2024/1010/1474214-dutch-museum-beer-cans/"
+      },
+      {
+        "name": "Hyperallergic",
+        "url": "https://hyperallergic.com/957031/museum-worker-throws-alexandre-lavet-art-in-the-trash-by-mistake/"
+      }
+    ],
+    "img": {
+      "file": "File:Lisser Art Museum 2019.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisser_Art_Museum_2019.jpg",
+      "author": "Vysotsky (Wikimedia)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The brick-and-glass Lisser Art Museum among trees in Lisse, Netherlands"
+    },
+    "img2": {
+      "file": "File:Crushed beer can on asphalt.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crushed_beer_can_on_asphalt.jpg",
+      "author": "Kotivalo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A flattened beer can lying on dark asphalt"
+    }
+  },
+  {
     "slug": "orcas-wearing-salmon-hats",
     "cat": "science",
     "headline": "Orcas Bring Back 1987's Hottest Fashion Trend: Wearing Dead Salmon as Hats",
@@ -508,6 +1072,54 @@
       "license": "CC BY-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "alt": "Two orcas surfacing in calm blue water with a sailboat in the distance"
+    }
+  },
+  {
+    "slug": "120-days-under-the-sea",
+    "cat": "science",
+    "headline": "Man Lives 120 Days in a Steel Capsule at the Bottom of the Sea, Then Pops Up for Champagne and a Cigar",
+    "dek": "No shower, four cameras and a copy of Twenty Thousand Leagues Under the Sea by the bed.",
+    "date": "2025-01-25",
+    "location": "Off the Caribbean coast of Panama",
+    "read": 3,
+    "body": [
+      "Most people find a week of working from home isolating. One man spent four months working from the bottom of the ocean.",
+      "On January 24, 2025, a 59-year-old German aerospace engineer climbed out of a capsule submerged 11 metres below the surface off Panama's Caribbean coast. He had been living inside it for 120 days.",
+      "His underwater home measured about 30 square metres and was connected by a tube with a narrow spiral staircase to a chamber above the waves, where food, visitors and a doctor could reach him. Inside he had a bed, a toilet, a TV, a computer, internet and an exercise bike. What he did not have was a shower.",
+      {
+        "h2": "Watched around the clock"
+      },
+      "Four cameras recorded his every move, both to keep an eye on his mental health and to prove he never sneaked up to the surface. Witnesses monitored him day and night.",
+      {
+        "img2": true
+      },
+      "A Guinness adjudicator confirmed the record for the longest time living underwater without decompression, beating the previous mark of 100 days. He kept a copy of Jules Verne's Twenty Thousand Leagues Under the Sea by his bed and says he admires Captain Nemo.",
+      {
+        "quote": "He said the point was to show that the ocean could one day be a place for humans to live."
+      },
+      "He celebrated his return to dry land with champagne, a cigar and a jump straight back into the Caribbean. He admitted he was a little sad the adventure was over. Whoever got to sit next to him afterwards, given the shower situation, was not asked for comment."
+    ],
+    "sources": [
+      {
+        "name": "RNZ (AFP)",
+        "url": "https://www.rnz.co.nz/news/world/539938/man-spends-120-days-underwater-setting-new-world-record"
+      }
+    ],
+    "img": {
+      "file": "File:Aquarius exterior (whole).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquarius_exterior_%28whole%29.jpg",
+      "author": "NASA",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+      "alt": "A diver swimming toward an underwater research habitat on the seafloor"
+    },
+    "img2": {
+      "file": "File:Wall of the Santiago de la Gloria Battery overlooking the bay at Portobelo.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall_of_the_Santiago_de_la_Gloria_Battery_overlooking_the_bay_at_Portobelo.jpg",
+      "author": "Gualberto107",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "A palm tree and old stone fort wall beside a bay on Panama's Caribbean coast"
     }
   },
   {
@@ -563,58 +1175,6 @@
     }
   },
   {
-    "slug": "otter-841-surfboard-thief",
-    "cat": "sports",
-    "headline": "Fugitive Otter 841 Keeps Stealing Surfboards and Outsmarting Wildlife Officials",
-    "dek": "Nets, traps and a decoy surfboard all failed. Santa Cruz's most wanted sea otter just dived off and kept going.",
-    "date": "2023-07-20",
-    "location": "Santa Cruz, California, USA",
-    "read": 3,
-    "body": [
-      "Surfers off Santa Cruz spent the summer of 2023 dealing with an unusual hazard. Not sharks, not rip currents, but a five-year-old sea otter with a surfboard habit.",
-      "Known officially as Otter 841, the female southern sea otter developed a routine: swim up to a surfer, climb aboard, refuse to leave, and start biting the board. In one case she chewed off part of a board's nose.",
-      "Crime may run in the family. Otter 841 was born in captivity and released into the wild in June 2020, and her mother had also been captured for harassing kayakers.",
-      {
-        "h2": "The great otter manhunt"
-      },
-      "Teams from the California Department of Fish and Wildlife and the Monterey Bay Aquarium spent weeks trying to catch her. They towed a baited surfboard toward their boat. They tried several kinds of nets. They deployed an underwater trap operated by divers.",
-      {
-        "img2": true
-      },
-      "Every time they got close, she simply dived off and swam away. Officials could not net her in open water, and sedating her was off the table because she could drown.",
-      {
-        "quote": "A local photographer said the failed capture attempts had become almost comical."
-      },
-      "Federal wildlife officials called her behaviour highly unusual and suggested hormones or people feeding her might be to blame. Meanwhile, she gained a fan club that gathered on the cliffs every day to watch. No humans were hurt, and as of late July she was still at large. Southern sea otters, once down to about 50 animals in 1938, now number around 3,000. At least one of them is very good at surfing."
-    ],
-    "sources": [
-      {
-        "name": "ABC News 4 (Associated Press)",
-        "url": "https://abcnews4.com/news/nation-world/cudely-terror-of-the-seas-otter-continues-to-harass-surfers-elude-capture-off-california-coast-california-department-of-fish-and-wildlifesunbathing-fan-club-crabs-evade-capture-tranquilizer-radio-transmitter"
-      },
-      {
-        "name": "NPR via WVTF",
-        "url": "https://www.wvtf.org/2023-07-24/otter-off-of-santa-cruz-coast-continues-to-evade-capture"
-      }
-    ],
-    "img": {
-      "file": "File:Sea-otter-morro-bay 13.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea-otter-morro-bay_13.jpg",
-      "author": "Mike Baird (bairdphotos.com)",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A California sea otter floating on its back in calm grey water"
-    },
-    "img2": {
-      "file": "File:Steamer Lane (21423069678).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamer_Lane_%2821423069678%29.jpg",
-      "author": "Henry Zbyszynski",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A lone surfer riding a wave at Steamer Lane, Santa Cruz"
-    }
-  },
-  {
     "slug": "judge-rules-tacos-are-sandwiches",
     "cat": "culture",
     "headline": "It's Official: A Judge Has Ruled That Tacos and Burritos Are Sandwiches",
@@ -664,6 +1224,58 @@
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "alt": "The domed Allen County Courthouse in Fort Wayne, Indiana"
+    }
+  },
+  {
+    "slug": "otter-841-surfboard-thief",
+    "cat": "sports",
+    "headline": "Fugitive Otter 841 Keeps Stealing Surfboards and Outsmarting Wildlife Officials",
+    "dek": "Nets, traps and a decoy surfboard all failed. Santa Cruz's most wanted sea otter just dived off and kept going.",
+    "date": "2023-07-20",
+    "location": "Santa Cruz, California, USA",
+    "read": 3,
+    "body": [
+      "Surfers off Santa Cruz spent the summer of 2023 dealing with an unusual hazard. Not sharks, not rip currents, but a five-year-old sea otter with a surfboard habit.",
+      "Known officially as Otter 841, the female southern sea otter developed a routine: swim up to a surfer, climb aboard, refuse to leave, and start biting the board. In one case she chewed off part of a board's nose.",
+      "Crime may run in the family. Otter 841 was born in captivity and released into the wild in June 2020, and her mother had also been captured for harassing kayakers.",
+      {
+        "h2": "The great otter manhunt"
+      },
+      "Teams from the California Department of Fish and Wildlife and the Monterey Bay Aquarium spent weeks trying to catch her. They towed a baited surfboard toward their boat. They tried several kinds of nets. They deployed an underwater trap operated by divers.",
+      {
+        "img2": true
+      },
+      "Every time they got close, she simply dived off and swam away. Officials could not net her in open water, and sedating her was off the table because she could drown.",
+      {
+        "quote": "A local photographer said the failed capture attempts had become almost comical."
+      },
+      "Federal wildlife officials called her behaviour highly unusual and suggested hormones or people feeding her might be to blame. Meanwhile, she gained a fan club that gathered on the cliffs every day to watch. No humans were hurt, and as of late July she was still at large. Southern sea otters, once down to about 50 animals in 1938, now number around 3,000. At least one of them is very good at surfing."
+    ],
+    "sources": [
+      {
+        "name": "ABC News 4 (Associated Press)",
+        "url": "https://abcnews4.com/news/nation-world/cudely-terror-of-the-seas-otter-continues-to-harass-surfers-elude-capture-off-california-coast-california-department-of-fish-and-wildlifesunbathing-fan-club-crabs-evade-capture-tranquilizer-radio-transmitter"
+      },
+      {
+        "name": "NPR via WVTF",
+        "url": "https://www.wvtf.org/2023-07-24/otter-off-of-santa-cruz-coast-continues-to-evade-capture"
+      }
+    ],
+    "img": {
+      "file": "File:Sea-otter-morro-bay 13.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea-otter-morro-bay_13.jpg",
+      "author": "Mike Baird (bairdphotos.com)",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A California sea otter floating on its back in calm grey water"
+    },
+    "img2": {
+      "file": "File:Steamer Lane (21423069678).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamer_Lane_%2821423069678%29.jpg",
+      "author": "Henry Zbyszynski",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A lone surfer riding a wave at Steamer Lane, Santa Cruz"
     }
   }
 ]
