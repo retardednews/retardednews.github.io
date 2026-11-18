@@ -102,11 +102,6 @@ def page(title, active, body, prefix="", desc=""):
     nav = "\n".join(
         f'        <li><a href="{prefix}{s}.html"{" class=\"active\" aria-current=\"page\"" if s == active else ""}>{n}</a></li>'
         for s, n in CATS)
-    latest = by_date(STORIES)[:8]
-    ticks = "".join(
-        f'<a href="{prefix}news/{s["slug"]}.html"><span>{e(s["headline"])}</span></a>' for s in latest)
-    # Second copy only exists so the loop is seamless: hide it from screen readers and the tab order.
-    ticks_dup = ticks.replace("<a href=", '<a tabindex="-1" href=')
     foot = "".join(f'<a href="{prefix}{s}.html">{n}</a>' for s, n in CATS[1:])
     return f"""<!doctype html>
 <html lang="en">
@@ -140,10 +135,6 @@ def page(title, active, body, prefix="", desc=""):
       </button>
     </div>
   </nav>
-  <div class="ticker">
-    <div class="ticker-label">Latest</div>
-    <div class="ticker-track"><div class="ticker-items">{ticks}<div class="ticker-dup" aria-hidden="true">{ticks_dup}</div></div></div>
-  </div>
   <main class="wrap">
 {body}
   </main>
