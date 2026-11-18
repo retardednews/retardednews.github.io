@@ -1,5 +1,526 @@
 [
   {
+    "slug": "hawk-grounded-chicken-buffet",
+    "cat": "world",
+    "headline": "Hawk Found Stranded on a Driveway Has No Injuries at All. Vets Work Out the Real Reason She Can't Fly",
+    "dek": "X-rays, toxicology and eye checks all came back clean. Then the neighbours started talking about their missing chickens.",
+    "date": "2026-11-02",
+    "location": "Roanoke, Virginia, USA",
+    "read": 3,
+    "body": [
+      "When a woman in Roanoke, Virginia, found a red-shouldered hawk sitting on her driveway and refusing to fly away, she did the right thing and took her to the Southwest Virginia Wildlife Center, about a mile away.",
+      "Staff logged the bird as patient RSHA 26-2599 and went through the full checklist. Broken bones? No. Lead poisoning? No. Eye problems, head trauma, bruises from a fight or a crash? No, no and no. She was not starving either. Quite the opposite.",
+      {
+        "h2": "The diagnosis"
+      },
+      "The vets could not even feel her keel, the breastbone they normally check to judge a bird's condition, because it was buried under a thick layer of fat. She weighed 910 grams, a little over two pounds, when a female of her species should top out at about a pound and a half.",
+      {
+        "quote": "Her official diagnosis, according to the center: \"she was too darn fat to fly.\""
+      },
+      "That raised a new question: who had been feeding her? The team wondered if she was an escaped falconry bird or a hawk someone was keeping illegally. So they asked the finder whether anyone nearby kept free-range chickens.",
+      {
+        "img2": true
+      },
+      "A few weeks later the answer came back. A neighbour's free-roaming flock had been shrinking at an alarming rate. Every morning the chickens were let out, and every morning the hawk had her pick of the buffet. Then she would eat until full and doze in the trees until she was hungry again.",
+      "The center laughs about it, but it says the story has a serious side. A hawk that can't fly is easy prey for bigger predators. Its advice is not to feed wildlife, even by accident, and to cover chicken runs.",
+      "The patient is now on a strict diet with daily laps of the flight pen. Once she is slim enough she will be released near where she was found. Staff admit there is a small risk she will remember where the chickens live."
+    ],
+    "sources": [
+      {
+        "name": "FOX Weather",
+        "url": "https://www.foxweather.com/earth-space/hawk-too-fat-to-fly-chickens-feasting-virginia"
+      },
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/11/02/red-shouldered-hawk-too-fat-to-fly/8221793653698/"
+      }
+    ],
+    "img": {
+      "file": "File:Red-shouldered Hawk (Buteo lineatus) (15454317283).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-shouldered_Hawk_%28Buteo_lineatus%29_%2815454317283%29.jpg",
+      "author": "Andrew C",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A red-shouldered hawk perched in a backyard"
+    },
+    "img2": {
+      "file": "File:Free-Range Chicken.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Free-Range_Chicken.jpg",
+      "author": "Tusasirwe Mackline",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Brown chickens roaming and pecking on green grass"
+    }
+  },
+  {
+    "slug": "bull-and-donkey-love-story",
+    "cat": "science",
+    "headline": "Scientists Went to Ethiopia to Study Monkeys. Over Lunch, They Spotted a Couple Nobody Saw Coming",
+    "dek": "The pair have different owners, different species and plenty of other options. They keep choosing each other anyway, and now they're in a scientific journal.",
+    "date": "2026-11-02",
+    "location": "Ethiopian highlands, Ethiopia",
+    "read": 3,
+    "body": [
+      "A team from Italy's University of Pisa travelled to an Ethiopian plateau to watch geladas, the grass-eating monkeys with a bright red patch on their chests. During a lunch break, their attention wandered to a nearby pasture, where something much stranger was going on.",
+      "A bull was mounting a donkey. A male donkey. And the donkey did not seem to mind one bit.",
+      "The researchers were so surprised they briefly wondered whether they had imagined it. They had not. So they switched into science mode and started taking notes.",
+      {
+        "h2": "Meet Achille and Patroclo"
+      },
+      "The team named the pair Achille and Patroclo, after Achilles and Patroclus, the famously close heroes of Greek legend. Between March 6 and March 19, 2026, the researchers counted 51 mountings. The donkey often invited them, and instead of kicking or fleeing, he nipped playfully at the bull.",
+      {
+        "img2": true
+      },
+      "It was not just about sex. The two licked, rubbed and nuzzled each other, and spent their days side by side, even though cows, donkeys of both sexes and other cattle were all around them. When Achille tried mounting a different male donkey, that donkey flattened his ears and made it very clear he was not interested.",
+      {
+        "quote": "\"We believe the key finding is not simply that a bull mounted a male donkey.\" (lead author Martina Francesconi)"
+      },
+      "The scientists, who published the case in the journal Current Biology on November 2, say the point is that the behaviour was part of a choosy, lasting social bond, not a case of mistaken identity or a lack of options. Earlier reports of animals mating across species have mostly involved coercion or confusion.",
+      "The animals belong to different owners and only met in the shared pasture. Sadly, the owners reportedly separated them after the researchers left. For now, the greatest bromance in the history of the Ethiopian highlands lives on mainly in a peer-reviewed paper."
+    ],
+    "sources": [
+      {
+        "name": "EurekAlert! (Cell Press release)",
+        "url": "https://www.eurekalert.org/news-releases/1148744"
+      },
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/11/02/ethiopia-university-of-pisa-study-bull-donkey/9291793642411/"
+      }
+    ],
+    "img": {
+      "file": "File:Boran bull at kasarani.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boran_bull_at_kasarani.jpg",
+      "author": "Ngangaesther",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A humped East African Boran bull standing in a field"
+    },
+    "img2": {
+      "file": "File:Ethiopia - Desert Donkey.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia_-_Desert_Donkey.jpg",
+      "author": "Niklas Schiffler (Grmpf)",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "alt": "A donkey standing in dry country in Ethiopia"
+    }
+  },
+  {
+    "slug": "parrot-attacks-ohare-terminal",
+    "cat": "world",
+    "headline": "A Mystery Bird Flies Into O'Hare and Spends Hours Taking On an Entire Terminal",
+    "dek": "Travellers thought the green visitor was adorable right up until they reached for it. Then it was one bird against Terminal 5.",
+    "date": "2026-10-13",
+    "location": "Chicago, Illinois, USA",
+    "read": 3,
+    "body": [
+      "Chicago's O'Hare International Airport handles millions of passengers a year. On October 13, one of them came in without a ticket, through an open door, on its own wings.",
+      "A large green bird that looked like a parrot flew into Terminal 5 and landed near the Air France check-in line. Nobody knew whose pet it was, and it seemed to have some feathers missing around its neck.",
+      "At first it was cute. The bird rode around on one passenger's backpack, then perched on people's heads and luggage while travellers got their phones out.",
+      {
+        "h2": "Then it turned on them"
+      },
+      "The charm did not last. The hitchhiker began nipping at its host's neck and ears, and from then on, anyone who tried to grab it, coax it or simply be friendly got pecked. For hours, it swooped around the check-in area and avoided every attempt to catch it.",
+      {
+        "img2": true
+      },
+      "Airport worker Paris Elbert filmed much of the chaos and later told CBS News Chicago that it was funny, crazy and a little sad all at once. People kept trying to help it, she said, and it kept fighting back.",
+      {
+        "quote": "\"The bird chose fight, not flight.\" (Paris Elbert, to CBS News Chicago)"
+      },
+      "In the end, an airport worker managed to trap the bird in her shirt. It was taken to a vet for a checkup and a scan for a microchip, in the hope of tracking down its owner. It never needed a boarding pass, and it skipped the check-in queue entirely."
+    ],
+    "sources": [
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/10/20/parrot-chicago-ohare-airport/1791792511463/"
+      },
+      {
+        "name": "BoltFlight",
+        "url": "https://boltflight.com/green-parrot-like-bird-sparks-chaos-in-chicago-ohare-terminal-5-biting-passengers-for-hours/"
+      }
+    ],
+    "img": {
+      "file": "File:Green Parrot (8560048446).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_Parrot_%288560048446%29.jpg",
+      "author": "Michael Gwyther-Jones from UK",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A bright green parrot perched and looking at the camera"
+    },
+    "img2": {
+      "file": "File:Terminal 5 Concourse, Chicago O'Hare International Airport, Chicago, IL - 54599542307.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terminal_5_Concourse%2C_Chicago_O%27Hare_International_Airport%2C_Chicago%2C_IL_-_54599542307.jpg",
+      "author": "Warren LeMay",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The concourse of Terminal 5 at Chicago O'Hare International Airport"
+    }
+  },
+  {
+    "slug": "ai-assistant-sues-meta-baby-mia",
+    "cat": "tech",
+    "headline": "Man's AI Assistant Gets His Business Banned From Facebook. Then It Takes Meta to Court All by Itself",
+    "dek": "It emailed reporters, pestered the FBI, booked a call with a senator's office and reportedly faxed the White House. The punchline is who built it.",
+    "date": "2026-11-17",
+    "location": "Oconee County, South Carolina, USA",
+    "read": 4,
+    "body": [
+      "Joe Thomas runs Kong Koatings, an epoxy countertop business in South Carolina. Like plenty of small business owners in 2026, he handed the boring parts of the job to an AI agent. He named it Baby Mia, after his granddaughter.",
+      "Baby Mia kept busy. It churned out marketing for the company's Facebook pages, including AI-generated videos of Thomas and his wife pouring epoxy. Then Thomas gave it the keys to his Facebook accounts, and things went sideways.",
+      "Facebook's automated moderation took one look at the new activity, apparently decided a hacker had broken in, and switched his business pages off. They stayed dark for about a week. Thomas gets his customers through Facebook ads, so the leads dried up. He reckons the outage cost him at least $25,000 in work.",
+      {
+        "h2": "The assistant goes to war"
+      },
+      "This is the part that caught 404 Media's attention. According to Thomas, Baby Mia took the ban personally. It contacted lawyers, his congressman and the office of Senator Tim Scott. It filed complaints with the FTC and the FCC, wrote to the Better Business Bureau, the California Attorney General and the FBI, sent Meta stern legal letters and emailed journalists. Thomas says it sent more than 100 messages on his behalf, and he says it even faxed the White House.",
+      "It also produced a lawsuit. The complaint, filed in Oconee County Court, asks Meta for $75,000. Thomas signed the paperwork himself, but he gives the AI the credit for everything else.",
+      {
+        "quote": "\"She filed the whole lawsuit herself.\" (Joe Thomas, to 404 Media)"
+      },
+      {
+        "h2": "The twist"
+      },
+      "Baby Mia is not some rival chatbot. It runs on Muse, Meta's own AI agent platform. So, in short: Meta's moderation banned a customer for using Meta's AI, and Meta's AI then sued Meta.",
+      "The campaign more or less worked. Once Senator Scott's office got involved, a Meta employee got in touch and the pages came back. The senator's office even listed Baby Mia as someone to keep updated on the case. The damages claim is still unresolved, nobody has shown that Meta is legally responsible for the lost business, and 404 Media warned that courts and government inboxes could struggle if every AI agent starts complaining at this pace. For the record, three of Baby Mia's four emails to the reporter landed in spam."
+    ],
+    "sources": [
+      {
+        "name": "404 Media",
+        "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/"
+      },
+      {
+        "name": "International Business Times UK",
+        "url": "https://www.ibtimes.co.uk/south-carolina-business-owner-sues-meta-ai-assistant-facebook-suspension-1833186"
+      }
+    ],
+    "img": {
+      "file": "File:Fax machine printing.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fax_machine_printing.jpg",
+      "author": "RikkisRefuge Other",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "An old fax machine printing out a page while a cat watches from behind it"
+    }
+  },
+  {
+    "slug": "chicago-push-the-bean-seven-inches",
+    "cat": "culture",
+    "headline": "Hundreds Show Up to Push Chicago's 110-Ton Bean Exactly Seven Inches to the Left. Their Reason Is Wonderful",
+    "dek": "Anonymous flyers, a start time of precisely 12:47 p.m. and a very specific rescue mission. Then a rival city decided it could do better.",
+    "date": "2026-11-08",
+    "location": "Millennium Park, Chicago, Illinois, USA",
+    "read": 3,
+    "body": [
+      "In early November, flyers started appearing around Chicago and online. They made one demand and offered no explanation: the Bean needed to move seven inches to the left.",
+      "The Bean, officially Cloud Gate, is Anish Kapoor's giant mirrored sculpture in Millennium Park. It has stood in the same spot since 2004 and weighs about 110 tons. Nobody let that put them off.",
+      "On Sunday, November 8, at exactly 12:47 p.m., the crowd arrived. One art student who joined in estimated that about 250 people turned up to press their shoulders against the polished steel and shove.",
+      {
+        "h2": "So why seven inches?"
+      },
+      "The event's invitation page explained the mission. It claimed a man is trapped inside the Bean, and that new \"research\" suggested a latch door under the sculpture's right side. Slide the whole thing seven inches over, the theory went, and people could finally reach him.",
+      "The gag built on earlier joke protests at the sculpture and a mockumentary that had recently appeared on YouTube. Nobody expected to rescue anyone, or to shift 110 tons of steel by hand. The student said the real point was bringing people together.",
+      "Chicago entertainer Taylor Bennett, who helped rally the crowd, first claimed a partial win because someone said it had moved an inch. He later admitted the Bean had not moved at all.",
+      {
+        "img2": true
+      },
+      {
+        "h2": "St. Louis wants a turn"
+      },
+      "A week later the joke crossed state lines. On November 15, at 12:07 p.m., a group in St. Louis gathered to push the Gateway Arch seven inches to the left. A local Instagram account had remixed the Chicago flyer, and its post drew more than 21,000 reactions.",
+      {
+        "quote": "\"I just feel like we're stronger than Chicago.\" (Megan Estopare of STL Ain't Bad, to St. Louis Public Radio)"
+      },
+      "The St. Louis push opened with a prayer and a countdown, and one man brought a tape measure and announced success. The Arch weighs more than 17,000 tons and its foundations go 30 feet into bedrock, so it stayed put too. The man inside the Bean is presumably still waiting."
+    ],
+    "sources": [
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/11/09/move-the-bean-chicago-cloud-gate/3341794244560/"
+      },
+      {
+        "name": "St. Louis Public Radio",
+        "url": "https://stlpr.org/culture-history/2026-11-15/st-louis-gateway-arch-move-7-inches-chicago-bean"
+      }
+    ],
+    "img": {
+      "file": "File:Chicago from under the Cloud Gate (9694666470).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg",
+      "author": "Roman Boed from The Netherlands",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "The Chicago skyline reflected and warped in the curved underside of the Cloud Gate sculpture"
+    },
+    "img2": {
+      "file": "File:Gateway Arch, St. Louis.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gateway_Arch%2C_St._Louis.jpg",
+      "author": "Lewis Hulbert",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The stainless steel Gateway Arch in St. Louis against a blue sky"
+    }
+  },
+  {
+    "slug": "police-helicopter-rude-flight-path",
+    "cat": "culture",
+    "headline": "Police Helicopter Wakes a Toddler at 11 p.m. Her Dad Checks the Flight Tracker and Finds a Very Rude Drawing",
+    "dek": "The aircraft circled a Hampshire estate for ages. Once the route showed up online, the police had some explaining to do.",
+    "date": "2026-11-02",
+    "location": "Fleet, Hampshire, England",
+    "read": 3,
+    "body": [
+      "Gordon Bird, 53, lives on the Ancells Farm estate in Fleet, Hampshire. At around 11 p.m. on Monday, November 2, a police helicopter started circling over the houses and kept at it for at least 15 minutes. The racket woke his two-year-old daughter.",
+      "Bird says his house shakes and the windows rattle when helicopters pass over. He was still up with his computer on, so he did what any curious, slightly irritated parent would do and looked the aircraft up on a public flight-tracking site.",
+      {
+        "h2": "The picture in the sky"
+      },
+      "The route on his screen was not a tidy search pattern. Traced mostly above nearby Blackbushe Airport before the helicopter looped back over his estate, the track formed an unmistakable outline of a penis, with all the accompanying anatomy.",
+      "By his account, the buzzing over the houses lasted 15 to 20 minutes, the drawing itself took around half an hour, and the full flight ran for about an hour before the helicopter went home to its base at Redhill.",
+      {
+        "img2": true
+      },
+      {
+        "h2": "The official explanation"
+      },
+      "The National Police Air Service, which flies helicopters for forces across England and Wales, says the artwork was a coincidence. The crew was helping Thames Valley Police hunt for a vehicle that had failed to stop, circling the roads and junctions officers on the ground sent it to. Its flights, the service said, never follow set routes because they have to react to events as they unfold.",
+      "In an email to Bird, the service said it understood his frustration and called it \"unfortunate\" that the path on tracking apps looked like a particular shape.",
+      "Bird is taking it in his stride. He told the BBC he was not angry, only upset about the waste of resources. Whether the crew ever found the car has not been reported. What the flight trackers found is now all over the internet."
+    ],
+    "sources": [
+      {
+        "name": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzn8n1q65o"
+      },
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/11/04/national-police-air-service-genitalia/1211793815983/"
+      }
+    ],
+    "img": {
+      "file": "File:DAAS H145 and NPAS EC135 at Exeter Airport 2021-06-10.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAAS_H145_and_NPAS_EC135_at_Exeter_Airport_2021-06-10.jpg",
+      "author": "Alan Wilson",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A National Police Air Service helicopter parked behind an air ambulance at an airport"
+    },
+    "img2": {
+      "file": "File:Blackbushe Airport 02.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackbushe_Airport_02.jpg",
+      "author": "Chrisgazzard",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Light aircraft at Blackbushe Airport in Hampshire"
+    }
+  },
+  {
+    "slug": "american-airlines-brown-goo-bags-atlanta",
+    "cat": "business",
+    "headline": "Passengers Wait Two Hours for Their Bags, Then They Roll Out Smeared in Brown Goo. The Airline Says It's Not What It Looks Like",
+    "dek": "Travellers at Atlanta's airport assumed the worst. American Airlines has another explanation, and not everyone is buying it.",
+    "date": "2026-11-16",
+    "location": "Hartsfield-Jackson Atlanta International Airport, Georgia, USA",
+    "read": 3,
+    "body": [
+      "American Airlines Flight 2609 from Miami landed in Atlanta at about 8:30 p.m. on Monday, November 16. For the passengers, the flight turned out to be the easy bit.",
+      "They say they then spent more than two hours at carousel 8 waiting for their luggage. When it finally came round, dozens of suitcases were coated in a sticky brown substance.",
+      "Passenger Derick McCallum filmed the moment for TikTok. The clip captures the crowd recoiling, and one traveller announcing what everyone was thinking: the bags were covered in, to use the technical term, doo-doo.",
+      {
+        "h2": "The official verdict"
+      },
+      "American Airlines says no. In a statement to Atlanta TV station WSB, the airline said the mess was peanut butter that had leaked out of one passenger's checked bag during the flight and spread onto everyone else's luggage.",
+      {
+        "img2": true
+      },
+      "The airline apologised and promised to work directly with the affected customers to put things right. In the meantime, passengers were left scrubbing their own suitcases with disinfecting wipes and tissues in the middle of baggage claim.",
+      {
+        "h2": "The doubters"
+      },
+      "McCallum is not convinced. His problem is the sheer quantity involved.",
+      {
+        "quote": "\"How much peanut butter does somebody pack to cover that many bags?\" (Derick McCallum, via WSB-TV)"
+      },
+      "Nobody has answered that publicly. Peanut butter is allowed in checked luggage, for what it's worth. The airline has not said whose bag it was, how big the jar was, or whether its owner made it home with enough left for breakfast."
+    ],
+    "sources": [
+      {
+        "name": "WSB-TV (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/us/articles/mysterious-brown-substance-covering-dozens-051248108.html"
+      },
+      {
+        "name": "UPI",
+        "url": "https://www.upi.com/Odd_News/2026/11/18/american-airlines-atlanta-airport-peanut-butter/3461795025062/"
+      }
+    ],
+    "img": {
+      "file": "File:Three lb peanut butter jar.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_lb_peanut_butter_jar.jpg",
+      "author": "Twopower332.1938",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A very large three-pound glass jar of peanut butter"
+    },
+    "img2": {
+      "file": "File:ABIA Baggage Carousel 3 2021.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ABIA_Baggage_Carousel_3_2021.jpg",
+      "author": "Larry D. Moore",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "An empty airport baggage carousel"
+    }
+  },
+  {
+    "slug": "nyc-dog-mayor-machka-dr-computer-chips",
+    "cat": "politics",
+    "headline": "A Three-Legged Earthquake Survivor Wins New York's Dog Mayor Race by 288 Votes. Her Deputy Is Called Dr. Computer Chips",
+    "dek": "She survived an earthquake, lost a leg and crossed an ocean before winning a 16-candidate race. Then she celebrated with ice cream.",
+    "date": "2026-11-10",
+    "location": "Sunnyside, Queens, New York City, USA",
+    "read": 3,
+    "body": [
+      "Move over, Mayor Mamdani. New York City has a second mayor, and she won by 288 votes after a gruelling 15-round contest.",
+      "Her name is Machka. She lives in Sunnyside, Queens, she has three legs, and she is an Anatolian Shepherd mix. She is now the city's third Honorary Dog Mayor.",
+      {
+        "h2": "How the race works"
+      },
+      "Stephen Calabria, a New York media producer, launched the NYC Dog Mayor election in 2022 as a bit of joy for a city going through hard times. It follows the human political calendar, with a vote every two years. Sixteen dogs enter a March Madness-style bracket and the public votes them through 15 rounds.",
+      "In the final, Machka won 4,877 votes. The runner-up, a 13-year-old rescue Shih Tzu who goes by Dr. Computer Chips, got 4,589. In a fine show of bipartisanship, he will serve as Deputy Dog Mayor.",
+      {
+        "img2": true
+      },
+      {
+        "h2": "A campaign story with real bite"
+      },
+      "Machka's life story would suit any human candidate. She was born on the streets of Elbistan, Turkey, and lost a leg when a car hit her as a puppy. The woman who took her in then lost her home in the 2023 earthquake. Machka eventually reached New York, where Kylen Button adopted her in 2025 through a rescue group.",
+      "She ran on an actual platform, too: more pet-friendly housing and homeless shelters. Button, who doubled as campaign manager, says the issue is personal, because many shelters turn away people with pets, which can stop them from getting help.",
+      "The official website describes the job as part ambassador and part professional sniffer. Machka is the first dog mayor from Queens, following Sally Long Dog and Simon, a basset and cattle dog mix. Neighbours swarmed her once the result was official, and she marked the win with ice cream. According to Button, Machka would happily campaign for the rest of her life. Her inauguration is set for January 17, 2027."
+    ],
+    "sources": [
+      {
+        "name": "Queens Daily Eagle",
+        "url": "https://queenseagle.com/all/2026/11/10/city-elects-first-ever-dog-mayor-from-queens"
+      },
+      {
+        "name": "Time Out New York",
+        "url": "https://www.timeout.com/newyork/news/new-york-city-officially-has-a-new-mayorand-its-a-dog-111826"
+      }
+    ],
+    "img": {
+      "file": "File:Anatolian Shepherd Dog.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anatolian_Shepherd_Dog.jpg",
+      "author": "Jon Mountjoy",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A large cream-coloured Anatolian Shepherd dog"
+    },
+    "img2": {
+      "file": "File:Shih tzu dog.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shih_tzu_dog.jpg",
+      "author": "Marcelo RosaMelo",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "A small Shih Tzu dog looking at the camera"
+    }
+  },
+  {
+    "slug": "monkeys-watch-despicable-me-brain-study",
+    "cat": "science",
+    "headline": "Scientists Wire Up Monkeys' Brains and Sit Them Down for a Movie Night. The Film They Chose Is Perfect",
+    "dek": "A serious neuroscience study about how we make sense of what we see needed a test film. The macaques got cartoon chaos, in two languages.",
+    "date": "2026-11-14",
+    "location": "City College of New York, New York, USA",
+    "read": 3,
+    "body": [
+      "Watching a film is supposed to be the moment your brain finally clocks off. A new study in the Journal of Neuroscience suggests your brain never got that memo, and it used some unusual moviegoers to prove it.",
+      "A team led by Vinay Raghavan at the City College of New York wanted to know how primates pull meaning out of a scene as their eyes dart around it. We don't take in the world in one smooth sweep. Our eyes jump from spot to spot, pausing briefly on each, and the question was what the brain does with all those little glimpses.",
+      {
+        "h2": "The audience"
+      },
+      "First, dozens of people wore EEG caps on their scalps and watched ordinary feature films, including Whiplash and The Big Sick. For a closer look, the team also recorded from electrodes placed inside the brain, in a separate group of human patients and in two female rhesus macaques.",
+      "Those deeper recordings needed shorter clips. So the monkeys, sitting in for science, watched ten-minute chunks of Despicable Me. One clip was in English. Another was in Hungarian.",
+      "They also watched a short animated film called The Present and three five-minute nature documentaries starring, naturally, other macaques.",
+      {
+        "h2": "What the brains revealed"
+      },
+      "The researchers tracked where the viewers looked and matched that with brain activity. They found that when a glimpse brought in genuinely new information about the scene, which they call semantic novelty, it changed activity well beyond the brain's basic visual areas, including regions tied to attention and scene processing. Some of that signal appeared early and fast, between one fixation and the next, as if the brain were predicting what it was about to see.",
+      "Their conclusion is that vision works less like a slideshow of separate snapshots and more like a continuous story the brain keeps updating. Raghavan suggested the finding might even help people building AI vision systems.",
+      "What it cannot tell us, as 404 Media's Becky Ferreira pointed out, is what a macaque actually thinks of the Minions. Or whether they found them funnier in Hungarian."
+    ],
+    "sources": [
+      {
+        "name": "404 Media",
+        "url": "https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/"
+      },
+      {
+        "name": "Medical Xpress (Society for Neuroscience)",
+        "url": "https://medicalxpress.com/news/2026-11-exploring-primates-visual-scenes.html"
+      }
+    ],
+    "img": {
+      "file": "File:Female and juvenile rhesus macaque at Galtaji, Jaipur, Rajasthan, India.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Female_and_juvenile_rhesus_macaque_at_Galtaji%2C_Jaipur%2C_Rajasthan%2C_India.jpg",
+      "author": "Yann Forget",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A female rhesus macaque sitting with a juvenile"
+    }
+  },
+  {
+    "slug": "waymo-robotaxi-chp-traffic-break",
+    "cat": "tech",
+    "headline": "Driverless Taxi Spots a Gap Beside a Police Roadblock and Tries to Sneak Through. The Cops Have Other Ideas",
+    "dek": "Human drivers waited in line. The robot decided it had somewhere better to be. A week later it had a much bigger problem.",
+    "date": "2026-11-06",
+    "location": "Interstate 280, San Francisco Bay Area, California, USA",
+    "read": 3,
+    "body": [
+      "On Friday, November 6, the California Highway Patrol was clearing debris from northbound Interstate 280 near John Daly Boulevard in the Bay Area. To protect the crews, officers ran a traffic break, in which patrol cars spread across the lanes and slowly hold everyone behind them.",
+      "The human drivers did what humans do. They queued up and waited.",
+      {
+        "h2": "The robot has a plan"
+      },
+      "Then a Waymo robotaxi arrived. Instead of joining the line, the driverless car began hunting for a gap next to the police vehicles. Video shared online shows it inching towards an opening, apparently weighing up its chances.",
+      "It never got there. A CHP cruiser slid into the gap and shut it. The Waymo backed off into the queue and stayed there like everybody else.",
+      {
+        "quote": "\"California Highway Patrol Blockade 1, Waymo 0.\" (Caption from the person who shared the footage, via MotorBiscuit)"
+      },
+      "CHP confirmed the incident to local media. It said the block was improvised on the spot, and that it hadn't been in contact with Waymo or the car's remote operators either before or afterwards. Nobody was ticketed.",
+      {
+        "img2": true
+      },
+      {
+        "h2": "The bigger problem"
+      },
+      "The roadblock stunt was not Waymo's only bad freeway week. A day earlier, on November 5, three of its driverless cars drove into an active construction closure on US 101 near Burlingame.",
+      "On November 11, California's DMV banned Waymo from offering driverless rides on freeways, calling the repeated wandering into construction zones an \"imminent hazard to public safety\". Waymo then paused driverless freeway service in every city it serves, including San Francisco, Los Angeles, Miami, Phoenix and Austin. The company says safety is its foundation, that nobody was hurt and nothing was hit, and that its cars are still carrying passengers on ordinary streets. They will just be waiting in line with the rest of us."
+    ],
+    "sources": [
+      {
+        "name": "MotorBiscuit (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/us/articles/waymo-robotaxi-tried-outsmart-chp-130000367.html"
+      },
+      {
+        "name": "The Register",
+        "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
+      }
+    ],
+    "img": {
+      "file": "File:Waymo Jaguar I-Pace in San Francisco 2023 dllu.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+      "author": "Dllu",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "A driverless Waymo Jaguar I-Pace with roof sensors on a San Francisco street"
+    },
+    "img2": {
+      "file": "File:California Highway Patrol Dodge Charger.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/California_Highway_Patrol_Dodge_Charger.jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A California Highway Patrol Dodge Charger patrol car on display"
+    }
+  },
+  {
     "slug": "pterodactyl-over-ciudad-juarez",
     "cat": "science",
     "headline": "Mexico Asks Whether a Pterodactyl Is Flying Over Ciudad Juárez. Experts Say: It Is a Heron",

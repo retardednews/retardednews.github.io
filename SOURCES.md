@@ -2,6 +2,21 @@
 
 Places to find weird but real news. Always trace a story back to the original report (local paper, police statement, court record, study) before writing it up. Aggregators often get details wrong.
 
+## Picking topics: clickbait first
+When scanning these sources, take only the most clickbaity and funny stories. A story has to be both. If it's merely odd, or funny but has no hook, skip it, and when in doubt, leave it out. The same goes for site headlines. See [FACEBOOK.md](FACEBOOK.md) for the posting side.
+- **Strong hook:** you can tease it in one line that makes people need to know more.
+- **Hidden payoff:** there's a twist, reveal or punchline you can hold back until the reader clicks.
+- **Picture that raises a question:** a strange photo beats a plain one.
+- **Skip** stories whose whole point fits in the headline, since nobody needs to click.
+- **Headlines on the site:** tease the story, don't spoil it, and keep it true to the article (the verification checklist still applies).
+
+## Writing rules: own words, no copyrighted material
+- Rewrite every story completely in our own words. Never copy or lightly reword a source's sentences.
+- Combine facts from several sources (at least 2 where possible) into one fresh write-up, and list them all under sources.
+- Quotes: only short ones the sources actually contain, attributed, and at most one or two per story. Paraphrase everything else.
+- Images: only free-licensed Wikimedia Commons files with author and license credited. Never use photos from news sites, social media or agencies, even with credit.
+- Headlines and decks are ours too. Don't reuse the source's headline.
+
 ## Weird-news specialists
 - [Oddity Central](https://www.odditycentral.com/): odd people, records, bizarre hobbies, with an Asia focus. Good pictures.
 - [LADbible](https://www.ladbible.com/): viral, lifestyle and "you won't believe" stories. Sourcing is often social media, so verify.

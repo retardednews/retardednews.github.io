@@ -113,7 +113,7 @@ def analytics():
             'async src="https://gc.zgo.at/count.js"></script>')
 
 
-def page(title, active, body, prefix="", desc=""):
+def page(title, active, body, prefix="", desc="", og=""):
     nav = "\n".join(
         f'        <li><a href="{prefix}{s}.html"{" class=\"active\" aria-current=\"page\"" if s == active else ""}>{n}</a></li>'
         for s, n in CATS)
@@ -124,7 +124,7 @@ def page(title, active, body, prefix="", desc=""):
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{e(title)}</title>
-  <meta name="description" content="{e(desc or 'The dumbest, funniest, most unbelievable true news on the internet.')}">
+  <meta name="description" content="{e(desc or 'The dumbest, funniest, most unbelievable true news on the internet.')}">{og}
   {THEME_BOOT}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -244,6 +244,20 @@ def pager(s):
             f'{cell(next_s, "Next story →", "next")}</nav>')
 
 
+SITE_URL = "https://retardednews.github.io"
+
+
+def og_tags(s):
+    """Open Graph tags so Facebook link posts show the headline, dek and picture."""
+    img = s["img"]
+    src = _thumb(img, 1280) if img["file"] in IMG_META else img["url"].split("?")[0] + "?width=1280"
+    tags = [("og:type", "article"), ("og:site_name", SITE), ("og:title", s["headline"]),
+            ("og:description", s["dek"]), ("og:url", f"{SITE_URL}/news/{s['slug']}.html"),
+            ("og:image", src), ("og:image:alt", img["alt"])]
+    out = "".join(f'\n  <meta property="{k}" content="{e(v)}">' for k, v in tags)
+    return out + '\n  <meta name="twitter:card" content="summary_large_image">'
+
+
 def article_page(s):
     parts = []
     for block in s["body"]:
@@ -281,7 +295,7 @@ def article_page(s):
 {pager(s)}
     </article>
 {head(more_title, '<a href="../index.html">All stories →</a>')}{feed(more, '../')}"""
-    return page(f"{s['headline']} — {SITE}", s["cat"], body, "../", s["dek"])
+    return page(f"{s['headline']} — {SITE}", s["cat"], body, "../", s["dek"], og_tags(s))
 
 
 def build():
