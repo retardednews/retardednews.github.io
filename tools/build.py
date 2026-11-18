@@ -23,7 +23,7 @@ CATS = [
 CATNAME = dict(CATS)
 SITE = "RetardedNews"
 # GoatCounter site code (the "xyz" in https://xyz.goatcounter.com). Empty = no tracking script.
-GOATCOUNTER = ""
+GOATCOUNTER = "retardednews"
 YEAR = date.today().year
 
 # Wikimedia only serves thumbnails at these standard widths; anything else is rejected.
