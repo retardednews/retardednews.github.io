@@ -5,114 +5,124 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sports — RetardedNews</title>
   <meta name="description" content="The dumbest, funniest, most unbelievable true news on the internet.">
+  <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://upload.wikimedia.org">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;0,900;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/site.js" defer></script>
 </head>
 <body id="top">
-  <div class="topbar"><div class="wrap"><span>Wednesday, November 18, 2026</span><span>Real news. Really dumb.</span></div></div>
+  <div class="topbar"><div class="wrap"><span id="today"></span><span>Real news. As dumb as it gets.</span></div></div>
   <header class="masthead wrap">
     <a href="index.html" class="logo">Retarded<span>News</span></a>
     <p class="tagline">True stories you will not believe, every single day.</p>
   </header>
   <nav class="catnav" aria-label="Categories">
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="world.html">World</a></li>
-      <li><a href="politics.html">Politics</a></li>
-      <li><a href="business.html">Business</a></li>
-      <li><a href="tech.html">Tech</a></li>
-      <li><a href="science.html">Science</a></li>
-      <li><a href="sports.html" class="active">Sports</a></li>
-      <li><a href="culture.html">Culture</a></li>
-    </ul>
+    <div class="catnav-inner">
+      <a href="index.html" class="catnav-logo" aria-label="RetardedNews home" tabindex="-1">R<span>N</span></a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="world.html">World</a></li>
+        <li><a href="politics.html">Politics</a></li>
+        <li><a href="business.html">Business</a></li>
+        <li><a href="tech.html">Tech</a></li>
+        <li><a href="science.html">Science</a></li>
+        <li><a href="sports.html" class="active" aria-current="page">Sports</a></li>
+        <li><a href="culture.html">Culture</a></li>
+      </ul>
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8C12.92 3.04 12.46 3 12 3z"/></svg>
+      </button>
+    </div>
   </nav>
   <div class="ticker">
-    <div class="ticker-label">Breaking</div>
-    <div class="ticker-track"><div class="ticker-items"><a href="news/golden-toilet-heist-splendid.html"><span>Golden Toilet Thief Admits He Used the £4.75m Loo the Day Before It Vanished. His Review: Splendid</span></a><a href="news/citi-81-trillion-mistake.html"><span>Bank Accidentally Puts $81 Trillion Into a Customer&#x27;s Account Instead of $280</span></a><a href="news/drunk-raccoon-liquor-store.html"><span>Raccoon Breaks Into Liquor Store, Drinks the Scotch Shelf Dry, Passes Out in the Bathroom</span></a><a href="news/chalamet-lookalike-contest.html"><span>Hundreds of Timothée Chalamet Clones Swarm a NYC Park, Cops Shut It Down, Then the Real Timothée Shows Up</span></a><a href="news/thai-police-lion-costume-arrest.html"><span>Cops Disguise Themselves as a Dancing Lion to Pounce on Burglar Who Robbed a Police Chief 3 Times</span></a><a href="news/human-washing-machine-japan.html"><span>Japan Now Sells a Washing Machine for Humans, and Its Maker Says It Cleans Your Soul</span></a><a href="news/beavers-build-government-dam-for-free.html"><span>Beavers Finish Government&#x27;s 7-Year Dam Project Overnight, Save Taxpayers $1.2 Million</span></a><a href="news/kitkat-truck-heist.html"><span>Thieves Steal 12 Tonnes of KitKats, All 413,793 Bars, and Vanish Without a Trace</span></a><a href="news/golden-toilet-heist-splendid.html"><span>Golden Toilet Thief Admits He Used the £4.75m Loo the Day Before It Vanished. His Review: Splendid</span></a><a href="news/citi-81-trillion-mistake.html"><span>Bank Accidentally Puts $81 Trillion Into a Customer&#x27;s Account Instead of $280</span></a><a href="news/drunk-raccoon-liquor-store.html"><span>Raccoon Breaks Into Liquor Store, Drinks the Scotch Shelf Dry, Passes Out in the Bathroom</span></a><a href="news/chalamet-lookalike-contest.html"><span>Hundreds of Timothée Chalamet Clones Swarm a NYC Park, Cops Shut It Down, Then the Real Timothée Shows Up</span></a><a href="news/thai-police-lion-costume-arrest.html"><span>Cops Disguise Themselves as a Dancing Lion to Pounce on Burglar Who Robbed a Police Chief 3 Times</span></a><a href="news/human-washing-machine-japan.html"><span>Japan Now Sells a Washing Machine for Humans, and Its Maker Says It Cleans Your Soul</span></a><a href="news/beavers-build-government-dam-for-free.html"><span>Beavers Finish Government&#x27;s 7-Year Dam Project Overnight, Save Taxpayers $1.2 Million</span></a><a href="news/kitkat-truck-heist.html"><span>Thieves Steal 12 Tonnes of KitKats, All 413,793 Bars, and Vanish Without a Trace</span></a></div></div>
+    <div class="ticker-label">Latest</div>
+    <div class="ticker-track"><div class="ticker-items"><a href="news/dogs-tricked-with-imaginary-treats.html"><span>Woman Feeds Her Dogs Invisible Treats. One Catches On. The Other Is Still Chewing</span></a><a href="news/dealership-thief-candy-cologne-five-cars.html"><span>Thief Steals Five Cars From Dealership, Stops to Eat Candy and Spray the Owner&#x27;s Cologne</span></a><a href="news/ai-python-toilet-police-hunt.html"><span>Nine-Year-Old Uses AI to Put a Python in the Toilet. Police Search for Two Days</span></a><a href="news/tarantulas-in-socks-lima-airport.html"><span>Airport Staff Notice Socks Are Moving. Inside: More Than 3,000 Tarantulas</span></a><a href="news/halloween-candy-bowl-sushi-worker-fired.html"><span>Woman Empties a Halloween Candy Bowl on Camera, Gets Fired for Lying About Saying Sorry</span></a><a href="news/police-gta-6-tiktok-chase.html"><span>Police Turn a Real Car Chase Into a GTA Video and Tell the Driver He Should Have Waited for GTA 6</span></a><a href="news/drunk-driver-reports-lost-phone-at-police-station.html"><span>Man Drives to Police Station at 2 a.m. to Report Lost Phone, Fails Breath Test in the Parking Lot</span></a><a href="news/woman-tries-to-pet-great-white-shark.html"><span>Woman Reaches Over the Side of a Boat to Pet a Great White Shark. The Shark Has Other Ideas</span></a><div class="ticker-dup" aria-hidden="true"><a tabindex="-1" href="news/dogs-tricked-with-imaginary-treats.html"><span>Woman Feeds Her Dogs Invisible Treats. One Catches On. The Other Is Still Chewing</span></a><a tabindex="-1" href="news/dealership-thief-candy-cologne-five-cars.html"><span>Thief Steals Five Cars From Dealership, Stops to Eat Candy and Spray the Owner&#x27;s Cologne</span></a><a tabindex="-1" href="news/ai-python-toilet-police-hunt.html"><span>Nine-Year-Old Uses AI to Put a Python in the Toilet. Police Search for Two Days</span></a><a tabindex="-1" href="news/tarantulas-in-socks-lima-airport.html"><span>Airport Staff Notice Socks Are Moving. Inside: More Than 3,000 Tarantulas</span></a><a tabindex="-1" href="news/halloween-candy-bowl-sushi-worker-fired.html"><span>Woman Empties a Halloween Candy Bowl on Camera, Gets Fired for Lying About Saying Sorry</span></a><a tabindex="-1" href="news/police-gta-6-tiktok-chase.html"><span>Police Turn a Real Car Chase Into a GTA Video and Tell the Driver He Should Have Waited for GTA 6</span></a><a tabindex="-1" href="news/drunk-driver-reports-lost-phone-at-police-station.html"><span>Man Drives to Police Station at 2 a.m. to Report Lost Phone, Fails Breath Test in the Parking Lot</span></a><a tabindex="-1" href="news/woman-tries-to-pet-great-white-shark.html"><span>Woman Reaches Over the Side of a Boat to Pet a Great White Shark. The Shark Has Other Ideas</span></a></div></div></div>
   </div>
   <main class="wrap">
+    <div class="section-head"><h1>Sports</h1><p>4 stories</p></div>
     <section class="lead">
-      <article class="lead-main">
-        <a href="news/carlsen-jeans-disqualified.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg?width=1280" alt="Wooden chess pieces with the white king in sharp focus"></a>
+      <article class="lead-main card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg/1280px-Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg/330px-Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg/500px-Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg/960px-Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg 960w, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg/1280px-Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg 1280w" sizes="(max-width: 960px) 100vw, 740px" width="1280" height="853" alt="Wooden chess pieces with the white king in sharp focus" fetchpriority="high"></div>
         <a class="tag" href="sports.html">Sports</a>
-        <a href="news/carlsen-jeans-disqualified.html"><h1>World&#x27;s Best Chess Player Gets Kicked Out of World Championship for Wearing Jeans. The Jeans Then Sell for $36,100</h1></a>
+        <h2><a class="card-link" href="news/carlsen-jeans-disqualified.html">World&#x27;s Best Chess Player Gets Kicked Out of World Championship for Wearing Jeans. The Jeans Then Sell for $36,100</a></h2>
         <p>He refused to change. Officials refused to budge. Then they changed the rules and he came back.</p>
-        <div class="meta">December 28, 2024 · New York, USA · 3 min read</div>
+        <div class="meta"><time datetime="2024-12-28">December 28, 2024</time> · New York, USA · 3 min read</div>
       </article>
-      <aside class="lead-side">
-      <article>
-        <a href="news/pumpkin-boat-world-record.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Giant_pumpkins_linedup.jpg?width=640" alt="A row of enormous giant pumpkins on pallets at a weigh-off" loading="lazy"></a>
+      <aside class="lead-side lead-side-3">
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giant_pumpkins_linedup.jpg/960px-Giant_pumpkins_linedup.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giant_pumpkins_linedup.jpg/330px-Giant_pumpkins_linedup.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giant_pumpkins_linedup.jpg/500px-Giant_pumpkins_linedup.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Giant_pumpkins_linedup.jpg/960px-Giant_pumpkins_linedup.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 33vw, 400px" width="960" height="640" alt="A row of enormous giant pumpkins on pallets at a weigh-off" loading="lazy" decoding="async"></div>
         <a class="tag" href="sports.html">Sports</a>
-        <a href="news/pumpkin-boat-world-record.html"><h3>Man Hollows Out a 1,214-Pound Pumpkin and Paddles It 46 Miles Down a River for a World Record</h3></a>
+        <h3><a class="card-link" href="news/pumpkin-boat-world-record.html">Man Hollows Out a 1,214-Pound Pumpkin and Paddles It 46 Miles Down a River for a World Record</a></h3>
       </article>
-      <article>
-        <a href="news/steel-conker-scandal.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Horse-chestnut_conkers_%2837572638741%29.jpg?width=640" alt="A pile of glossy reddish-brown horse chestnut conkers" loading="lazy"></a>
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Horse-chestnut_conkers_%2837572638741%29.jpg/960px-Horse-chestnut_conkers_%2837572638741%29.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Horse-chestnut_conkers_%2837572638741%29.jpg/330px-Horse-chestnut_conkers_%2837572638741%29.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Horse-chestnut_conkers_%2837572638741%29.jpg/500px-Horse-chestnut_conkers_%2837572638741%29.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Horse-chestnut_conkers_%2837572638741%29.jpg/960px-Horse-chestnut_conkers_%2837572638741%29.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 33vw, 400px" width="960" height="641" alt="A pile of glossy reddish-brown horse chestnut conkers" loading="lazy" decoding="async"></div>
         <a class="tag" href="sports.html">Sports</a>
-        <a href="news/steel-conker-scandal.html"><h3>Steel Conker Scandal: 82-Year-Old King Conker Accused of Cheating With a Metal Chestnut</h3></a>
+        <h3><a class="card-link" href="news/steel-conker-scandal.html">Steel Conker Scandal: 82-Year-Old King Conker Accused of Cheating With a Metal Chestnut</a></h3>
       </article>
-      <article>
-        <a href="news/otter-841-surfboard-thief.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sea-otter-morro-bay_13.jpg?width=640" alt="A California sea otter floating on its back in calm grey water" loading="lazy"></a>
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sea-otter-morro-bay_13.jpg/960px-Sea-otter-morro-bay_13.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sea-otter-morro-bay_13.jpg/330px-Sea-otter-morro-bay_13.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sea-otter-morro-bay_13.jpg/500px-Sea-otter-morro-bay_13.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sea-otter-morro-bay_13.jpg/960px-Sea-otter-morro-bay_13.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 33vw, 400px" width="960" height="640" alt="A California sea otter floating on its back in calm grey water" loading="lazy" decoding="async"></div>
         <a class="tag" href="sports.html">Sports</a>
-        <a href="news/otter-841-surfboard-thief.html"><h3>Fugitive Otter 841 Keeps Stealing Surfboards and Outsmarting Wildlife Officials</h3></a>
+        <h3><a class="card-link" href="news/otter-841-surfboard-thief.html">Fugitive Otter 841 Keeps Stealing Surfboards and Outsmarting Wildlife Officials</a></h3>
       </article>
       </aside>
     </section>
     <div class="section-head"><h2>Elsewhere on RetardedNews</h2><p><a href="index.html">All stories →</a></p></div>
     <section class="feed">
       <article class="card wide">
-        <a class="thumb" href="news/golden-toilet-heist-splendid.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim_Palace_south_view_2016.jpg?width=900" alt="Blenheim Palace seen from the south lawn under a blue sky" loading="lazy"></a>
-        <div>
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Two_dogs_sitting_outdoors.jpg/1280px-Two_dogs_sitting_outdoors.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Two_dogs_sitting_outdoors.jpg/330px-Two_dogs_sitting_outdoors.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Two_dogs_sitting_outdoors.jpg/500px-Two_dogs_sitting_outdoors.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Two_dogs_sitting_outdoors.jpg/960px-Two_dogs_sitting_outdoors.jpg 960w, https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Two_dogs_sitting_outdoors.jpg/1280px-Two_dogs_sitting_outdoors.jpg 1280w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 760px" width="1280" height="721" alt="Two dogs sitting side by side outdoors" loading="lazy" decoding="async"></div>
+        <div class="card-body">
           <a class="tag" href="culture.html">Culture</a>
-          <a href="news/golden-toilet-heist-splendid.html"><h3>Golden Toilet Thief Admits He Used the £4.75m Loo the Day Before It Vanished. His Review: Splendid</h3></a>
-          <p>An 18-carat gold toilet was ripped out of Winston Churchill&#x27;s birthplace in five minutes. It has never been seen again.</p>
-          <div class="meta">June 13, 2025 · Oxford, England, UK · 3 min read</div>
+          <h3><a class="card-link" href="news/dogs-tricked-with-imaginary-treats.html">Woman Feeds Her Dogs Invisible Treats. One Catches On. The Other Is Still Chewing</a></h3>
+          <p>Xena figured it out by round two and walked away. Luna kept happily eating nothing.</p>
+          <div class="meta"><time datetime="2026-11-17">November 17, 2026</time> · Online (YouTube Shorts) · 2 min read</div>
         </div>
       </article>
       <article class="card">
-        <a class="thumb" href="news/citi-81-trillion-mistake.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Citibank_Chinatown.jpg?width=800" alt="A Citibank branch with blue signage on a Manhattan street corner" loading="lazy"></a>
-        <div>
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/960px-Porsche_Macan_4_IMG_2153.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/330px-Porsche_Macan_4_IMG_2153.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/500px-Porsche_Macan_4_IMG_2153.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porsche_Macan_4_IMG_2153.jpg/960px-Porsche_Macan_4_IMG_2153.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px" width="960" height="639" alt="A grey Porsche Macan SUV parked at a car show" loading="lazy" decoding="async"></div>
+        <div class="card-body">
           <a class="tag" href="business.html">Business</a>
-          <a href="news/citi-81-trillion-mistake.html"><h3>Bank Accidentally Puts $81 Trillion Into a Customer&#x27;s Account Instead of $280</h3></a>
-          <p>One employee typed it. A second checked it. Neither noticed the extra 11 zeros.</p>
-          <div class="meta">February 28, 2025 · New York, USA · 2 min read</div>
+          <h3><a class="card-link" href="news/dealership-thief-candy-cologne-five-cars.html">Thief Steals Five Cars From Dealership, Stops to Eat Candy and Spray the Owner&#x27;s Cologne</a></h3>
+          <p>He took a Porsche and a BMW with the For Sale sticker still on it. The BMW&#x27;s tracker led police to his front door.</p>
+          <div class="meta"><time datetime="2026-11-16">November 16, 2026</time> · Hialeah Gardens, USA · 3 min read</div>
         </div>
       </article>
       <article class="card">
-        <a class="thumb" href="news/drunk-raccoon-liquor-store.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Raccoon_in_Central_Park_%2835264%29.jpg?width=800" alt="A raccoon standing on leaf litter beside a boulder, staring at the camera" loading="lazy"></a>
-        <div>
-          <a class="tag" href="culture.html">Culture</a>
-          <a href="news/drunk-raccoon-liquor-store.html"><h3>Raccoon Breaks Into Liquor Store, Drinks the Scotch Shelf Dry, Passes Out in the Bathroom</h3></a>
-          <p>Staff opened up on Saturday morning to smashed bottles, a whisky lake on the floor and one very unconscious masked burglar.</p>
-          <div class="meta">December 2, 2025 · Ashland, Virginia, USA · 3 min read</div>
-        </div>
-      </article>
-      <article class="card">
-        <a class="thumb" href="news/chalamet-lookalike-contest.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NYC_-_Washington_Square_Park_-_Arch.jpg?width=800" alt="The marble Washington Square Arch in New York under a blue sky" loading="lazy"></a>
-        <div>
-          <a class="tag" href="culture.html">Culture</a>
-          <a href="news/chalamet-lookalike-contest.html"><h3>Hundreds of Timothée Chalamet Clones Swarm a NYC Park, Cops Shut It Down, Then the Real Timothée Shows Up</h3></a>
-          <p>The prize was $50. The crowd was enormous. The police were not amused. The actor himself was.</p>
-          <div class="meta">October 27, 2024 · New York City, USA · 3 min read</div>
-        </div>
-      </article>
-      <article class="card">
-        <a class="thumb" href="news/thai-police-lion-costume-arrest.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Danse_du_lion_Paris_13e_-_Royal_Lion_Dance.jpg?width=800" alt="Colourful lion dance costume heads at a Lunar New Year parade" loading="lazy"></a>
-        <div>
-          <a class="tag" href="world.html">World</a>
-          <a href="news/thai-police-lion-costume-arrest.html"><h3>Cops Disguise Themselves as a Dancing Lion to Pounce on Burglar Who Robbed a Police Chief 3 Times</h3></a>
-          <p>He always ran when he saw officers. He did not run from a giant papier-mache lion at a temple fair.</p>
-          <div class="meta">February 19, 2026 · Nonthaburi, Thailand · 3 min read</div>
-        </div>
-      </article>
-      <article class="card">
-        <a class="thumb" href="news/human-washing-machine-japan.html"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Washing_machine_%286912749857%29.jpg?width=800" alt="A front-loading washing machine with its round door open" loading="lazy"></a>
-        <div>
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ball_Python_%28Python_regius%29.jpg/960px-Ball_Python_%28Python_regius%29.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ball_Python_%28Python_regius%29.jpg/330px-Ball_Python_%28Python_regius%29.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ball_Python_%28Python_regius%29.jpg/500px-Ball_Python_%28Python_regius%29.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ball_Python_%28Python_regius%29.jpg/960px-Ball_Python_%28Python_regius%29.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px" width="960" height="720" alt="A ball python coiled up with its head raised" loading="lazy" decoding="async"></div>
+        <div class="card-body">
           <a class="tag" href="tech.html">Tech</a>
-          <a href="news/human-washing-machine-japan.html"><h3>Japan Now Sells a Washing Machine for Humans, and Its Maker Says It Cleans Your Soul</h3></a>
-          <p>You lie in a pod, close the lid and get washed like a load of laundry. It costs about $385,000.</p>
-          <div class="meta">November 28, 2025 · Osaka, Japan · 3 min read</div>
+          <h3><a class="card-link" href="news/ai-python-toilet-police-hunt.html">Nine-Year-Old Uses AI to Put a Python in the Toilet. Police Search for Two Days</a></h3>
+          <p>Firefighters and police in a small Italian town hunted for a snake that only ever existed on a phone.</p>
+          <div class="meta"><time datetime="2026-11-14">November 14, 2026</time> · Castelfidardo, Italy · 3 min read</div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brachypelma_smithi_2009_G03.jpg/960px-Brachypelma_smithi_2009_G03.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brachypelma_smithi_2009_G03.jpg/330px-Brachypelma_smithi_2009_G03.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brachypelma_smithi_2009_G03.jpg/500px-Brachypelma_smithi_2009_G03.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brachypelma_smithi_2009_G03.jpg/960px-Brachypelma_smithi_2009_G03.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px" width="960" height="720" alt="A Mexican red-knee tarantula with orange-banded legs on a dark background" loading="lazy" decoding="async"></div>
+        <div class="card-body">
+          <a class="tag" href="world.html">World</a>
+          <h3><a class="card-link" href="news/tarantulas-in-socks-lima-airport.html">Airport Staff Notice Socks Are Moving. Inside: More Than 3,000 Tarantulas</a></h3>
+          <p>Three travellers tried to fly from Lima to Europe with a suitcase zoo of eggs, babies and adult spiders stuffed into dirty socks.</p>
+          <div class="meta"><time datetime="2026-11-04">November 4, 2026</time> · Lima, Peru · 3 min read</div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Halloween_jack-o-lanterns_on_porch_Seattle.jpg/960px-Halloween_jack-o-lanterns_on_porch_Seattle.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Halloween_jack-o-lanterns_on_porch_Seattle.jpg/330px-Halloween_jack-o-lanterns_on_porch_Seattle.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Halloween_jack-o-lanterns_on_porch_Seattle.jpg/500px-Halloween_jack-o-lanterns_on_porch_Seattle.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Halloween_jack-o-lanterns_on_porch_Seattle.jpg/960px-Halloween_jack-o-lanterns_on_porch_Seattle.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px" width="960" height="640" alt="Carved jack-o&#x27;-lanterns lit up on a front porch at night" loading="lazy" decoding="async"></div>
+        <div class="card-body">
+          <a class="tag" href="business.html">Business</a>
+          <h3><a class="card-link" href="news/halloween-candy-bowl-sushi-worker-fired.html">Woman Empties a Halloween Candy Bowl on Camera, Gets Fired for Lying About Saying Sorry</a></h3>
+          <p>She was wearing her work shirt. Her sushi restaurant boss was more upset about the fake apology than the candy.</p>
+          <div class="meta"><time datetime="2026-11-03">November 3, 2026</time> · Helena, USA · 3 min read</div>
+        </div>
+      </article>
+      <article class="card">
+        <div class="thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg/960px-Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg/330px-Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg 330w, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg/500px-Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg 500w, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg/960px-Ashbourne_Police_Station_-_Compton_Street%2C_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg 960w" sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px" width="960" height="720" alt="Derbyshire Constabulary police cars parked outside Ashbourne police station" loading="lazy" decoding="async"></div>
+        <div class="card-body">
+          <a class="tag" href="culture.html">Culture</a>
+          <h3><a class="card-link" href="news/police-gta-6-tiktok-chase.html">Police Turn a Real Car Chase Into a GTA Video and Tell the Driver He Should Have Waited for GTA 6</a></h3>
+          <p>Derbyshire officers added wanted stars, a minimap and a soundtrack. The driver gets to enjoy the game&#x27;s launch from a cell.</p>
+          <div class="meta"><time datetime="2026-11-03">November 3, 2026</time> · Ripley, UK · 3 min read</div>
         </div>
       </article>
     </section>
@@ -121,7 +131,7 @@
   <footer class="footer">
     <div class="wrap">
       <a href="index.html" class="logo">Retarded<span>News</span></a>
-      <nav><a href="world.html">World</a><a href="politics.html">Politics</a><a href="business.html">Business</a><a href="tech.html">Tech</a><a href="science.html">Science</a><a href="sports.html">Sports</a><a href="culture.html">Culture</a><a href="credits.html">Image credits</a></nav>
+      <nav aria-label="Footer"><a href="world.html">World</a><a href="politics.html">Politics</a><a href="business.html">Business</a><a href="tech.html">Tech</a><a href="science.html">Science</a><a href="sports.html">Sports</a><a href="culture.html">Culture</a><a href="credits.html">Image credits</a></nav>
       <span>© 2026 RetardedNews. Stories rewritten from real reporting; sources linked on every page.</span>
     </div>
   </footer>

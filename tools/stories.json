@@ -1,5 +1,431 @@
 [
   {
+    "slug": "tarantulas-in-socks-lima-airport",
+    "cat": "world",
+    "headline": "Airport Staff Notice Socks Are Moving. Inside: More Than 3,000 Tarantulas",
+    "dek": "Three travellers tried to fly from Lima to Europe with a suitcase zoo of eggs, babies and adult spiders stuffed into dirty socks.",
+    "date": "2026-11-04",
+    "location": "Lima, Peru",
+    "read": 3,
+    "body": [
+      "Most people pack socks to wear them. Three travellers at Lima's Jorge Chávez International Airport packed socks to hide tarantulas in them. More than 3,000 of them.",
+      "Acting on an anonymous tip, officers stopped the group, two German citizens and one Polish citizen, as they were checking in for a flight to Europe in early November 2026.",
+      "Inside three suitcases were dozens of socks, and inside the socks were tarantulas at every stage of life: eggs, juveniles and fully grown adults.",
+      {
+        "h2": "A very expensive laundry bag"
+      },
+      "Peru's National Forest and Wildlife Service, SERFOR, said the spiders were bound for Germany, where exotic tarantulas are prized by collectors.",
+      {
+        "img2": true
+      },
+      "One outlet estimated a single tarantula can fetch around 500 euros in Europe, which would put the sock collection at roughly 1.5 million euros. That figure has not been officially confirmed.",
+      {
+        "quote": "Somewhere in Germany, a collector is still waiting for a very hairy delivery."
+      },
+      "The three were handed to prosecutors. In Peru, wildlife trafficking can mean three to five years in prison, rising to seven when protected species are involved. Socks are a recurring theme: Lima officers caught a man with hundreds of tarantulas strapped to his body in 2024."
+    ],
+    "sources": [
+      {
+        "name": "Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/"
+      },
+      {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks-2000836323"
+      },
+      {
+        "name": "Euro Weekly News",
+        "url": "https://euroweeklynews.com/2026/11/06/more-than-3000-tarantulas-stuffed-in-dirty-socks-caught-on-their-way-to-germany/"
+      }
+    ],
+    "img": {
+      "file": "File:Brachypelma smithi 2009 G03.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brachypelma_smithi_2009_G03.jpg",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "alt": "A Mexican red-knee tarantula with orange-banded legs on a dark background"
+    },
+    "img2": {
+      "file": "File:Lima Peru inside Jorge Chavez International Airport.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lima_Peru_inside_Jorge_Chavez_International_Airport.jpg",
+      "author": "VasenkaPhotography",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Inside the terminal of Jorge Chávez International Airport in Lima"
+    }
+  },
+  {
+    "slug": "ai-python-toilet-police-hunt",
+    "cat": "tech",
+    "headline": "Nine-Year-Old Uses AI to Put a Python in the Toilet. Police Search for Two Days",
+    "dek": "Firefighters and police in a small Italian town hunted for a snake that only ever existed on a phone.",
+    "date": "2026-11-14",
+    "location": "Castelfidardo, Marche, Italy",
+    "read": 3,
+    "body": [
+      "On November 12, a family in Castelfidardo, a hill town near Ancona in central Italy, called for help. They had a photo of what looked like a royal python poking its head out of their toilet.",
+      "Police and firefighters took it seriously. Nobody wants a python loose in the plumbing, so the search began.",
+      "It went on for two days. The snake never showed up, because the snake had never existed.",
+      {
+        "h2": "The culprit confesses"
+      },
+      "The photo had been made by the family's nine-year-old son with an artificial intelligence app. Officers only worked it out after examining the original image on his phone.",
+      {
+        "img2": true
+      },
+      "The boy owned up and, according to one report, apologised to the officers. Which app he used has not been reported.",
+      {
+        "quote": "Two days, a fire crew and a police unit versus one bored kid. The kid won."
+      },
+      "One photography site noted that an AI image detector rated the fake snake as authentic, which says something about how good the tools have become. Castelfidardo's toilets, meanwhile, remain python-free."
+    ],
+    "sources": [
+      {
+        "name": "BroBible",
+        "url": "https://brobible.com/culture/article/police-italy-duped-python-search-ai-generated-toilet-picture/"
+      },
+      {
+        "name": "Dexerto",
+        "url": "https://www.dexerto.com/entertainment/9-year-old-sparks-48-hour-snake-hunt-after-fooling-firefighters-with-ai-python-in-toilet-3428641/"
+      },
+      {
+        "name": "Notizie.it",
+        "url": "https://www.notizie.it/en/python-in-the-toilet-of-castelfidardo-the-photo-generated-by-the-child/"
+      }
+    ],
+    "img": {
+      "file": "File:Ball Python (Python regius).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ball_Python_(Python_regius).jpg",
+      "author": "Seth Cochran",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "A ball python coiled up with its head raised"
+    },
+    "img2": {
+      "file": "File:Castelfidardo Porta Vittoria 2020.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Castelfidardo_Porta_Vittoria_2020.jpg",
+      "author": "Ermanon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Porta Vittoria, a brick gateway into the old town of Castelfidardo"
+    }
+  },
+  {
+    "slug": "halloween-candy-bowl-sushi-worker-fired",
+    "cat": "business",
+    "headline": "Woman Empties a Halloween Candy Bowl on Camera, Gets Fired for Lying About Saying Sorry",
+    "dek": "She was wearing her work shirt. Her sushi restaurant boss was more upset about the fake apology than the candy.",
+    "date": "2026-11-03",
+    "location": "Helena, Alabama, USA",
+    "read": 3,
+    "body": [
+      "Leaving out a bowl of candy on Halloween is an act of trust. In Helena, Alabama, a doorbell camera showed that trust being scooped up by the handful.",
+      "The video shows two adult women at an unattended candy bowl. One of them took nearly everything in it, while wearing a shirt from Sakana Sushi Bar & Grill.",
+      "The clip spread on Facebook, and the internet did what it does: it read the shirt.",
+      {
+        "h2": "The cover-up was worse than the crime"
+      },
+      "The restaurant confirmed that the woman was an off-duty employee. At first, it said she had gone back, returned the candy and apologised.",
+      {
+        "img2": true
+      },
+      "The homeowner disagreed. He said the only apology he got came from the other woman in the video. Sakana then said it had confirmed the employee lied about apologising, and fired her.",
+      {
+        "quote": "Taking candy from children: bad. Lying to your boss about it: unemployment."
+      },
+      "The restaurant said it does not condone taking from children or hurting the community. Alabama is an at-will employment state, so the candy may end up being the most expensive she ever ate."
+    ],
+    "sources": [
+      {
+        "name": "Dexerto",
+        "url": "https://www.dexerto.com/entertainment/restaurant-employee-fired-after-being-caught-taking-almost-entire-bowl-of-halloween-candy-3423901/"
+      },
+      {
+        "name": "BroBible",
+        "url": "https://brobible.com/culture/article/alabama-restaurant-fires-employee-halloween-candy-bowl/"
+      },
+      {
+        "name": "The Mary Sue",
+        "url": "https://www.themarysue.com/alabama-woman-takes-nearly-a-whole-bowl-of-halloween-candy-on-camera-then-sakana-sushi-fires-her-for-lying-we-take-this-matter-seriously/"
+      }
+    ],
+    "img": {
+      "file": "File:Halloween jack-o-lanterns on porch Seattle.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_jack-o-lanterns_on_porch_Seattle.jpg",
+      "author": "Lianguanlun",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Carved jack-o'-lanterns lit up on a front porch at night"
+    },
+    "img2": {
+      "file": "File:Trick or Treat New Orleans 2012.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trick_or_Treat_New_Orleans_2012.jpg",
+      "author": "Bart Everson",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Children in costumes trick-or-treating on a city street"
+    }
+  },
+  {
+    "slug": "drunk-driver-reports-lost-phone-at-police-station",
+    "cat": "world",
+    "headline": "Man Drives to Police Station at 2 a.m. to Report Lost Phone, Fails Breath Test in the Parking Lot",
+    "dek": "Officers noticed his truck before they noticed his complaint. It was on the sidewalk.",
+    "date": "2026-11-01",
+    "location": "Abbotsford, British Columbia, Canada",
+    "read": 2,
+    "body": [
+      "Losing your phone after a night out is annoying. Reporting it to the police is reasonable. Driving there yourself, at 2 a.m., after the bar, is where this story turns.",
+      "A 42-year-old man showed up at Abbotsford Police headquarters in British Columbia to report that his phone had gone missing after he left a bar in an Uber.",
+      "Before he could get far with the paperwork, a patrol officer spotted his truck being driven on the sidewalk inside the station's own parking lot.",
+      {
+        "h2": "Wrong place, wrong time, wrong everything"
+      },
+      "Officers gave him a breath test. He failed it.",
+      {
+        "img2": true
+      },
+      "He was handed a 90-day driving ban and his vehicle was impounded. The Abbotsford Police Department shared the story on social media, where it did considerably better than his night.",
+      {
+        "quote": "He took an Uber home from the bar. Then he drove to the police."
+      },
+      "There is no word on whether the phone was ever found. If it was, he will need to get a ride to pick it up."
+    ],
+    "sources": [
+      {
+        "name": "CTV News Vancouver",
+        "url": "https://www.ctvnews.ca/vancouver/article/impaired-driver-busted-in-bc-police-station-parking-lot/"
+      },
+      {
+        "name": "CP24",
+        "url": "https://www.cp24.com/news/canada/2026/11/01/impaired-driver-busted-in-bc-police-station-parking-lot/"
+      }
+    ],
+    "img": {
+      "file": "File:East Abbotsford looking towards Mission.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/East_Abbotsford_looking_towards_Mission.jpg",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A wide view over east Abbotsford, British Columbia, towards Mission and the mountains"
+    },
+    "img2": {
+      "file": "File:Breathalyzer training.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Breathalyzer_training.jpg",
+      "author": "U.S. Air Force photo by Senior Airman Sandra Welch",
+      "license": "Public domain",
+      "alt": "An officer holds a handheld breathalyzer during training"
+    }
+  },
+  {
+    "slug": "woman-tries-to-pet-great-white-shark",
+    "cat": "science",
+    "headline": "Woman Reaches Over the Side of a Boat to Pet a Great White Shark. The Shark Has Other Ideas",
+    "dek": "A tagging trip off Georgia produced a viral clip of an apex predator swinging round at a hand that should not have been there.",
+    "date": "2026-10-28",
+    "location": "Tybee Island, Georgia, USA",
+    "read": 3,
+    "body": [
+      "There are animals you pet, and there are animals you photograph from a respectful distance. The great white shark is firmly in the second group.",
+      "Off Tybee Island, Georgia, a guest on a research trip with the Knot Lucky White Shark Tagging Program reached over the side of the boat toward a great white swimming alongside.",
+      "The shark thrashed, swung round and lunged toward her. She pulled her hand back just in time, and she was not hurt.",
+      {
+        "h2": "The crew says it was under control"
+      },
+      "The guest, a military veteran named Jen, was on the trip as part of the program. Founder Jimmy Armel said she was never in real danger, because the crew had the shark under control the whole time.",
+      {
+        "img2": true
+      },
+      "Not everyone was reassured. University of Sydney shark researcher Chris Pepin-Neff criticised the attempt to touch the animal.",
+      {
+        "quote": "The shark was not tagged. The lesson, hopefully, was."
+      },
+      "The shark itself could not be tagged because of safety concerns for the crew and the animal. It swam off having made its position on petting very clear."
+    ],
+    "sources": [
+      {
+        "name": "FOX Weather",
+        "url": "https://www.foxweather.com/earth-space/video-great-white-shark-thrashes-lunges-woman-pet-marine-apex-predator-watch"
+      },
+      {
+        "name": "The Inertia",
+        "url": "https://www.theinertia.com/environment/woman-reaches-overboard-to-pet-great-white-shark-and-nearly-loses-arm/"
+      },
+      {
+        "name": "Geo News",
+        "url": "https://www.geo.tv/latest/688705-great-white-shark-lunges-at-woman-on-fishing-trip-off-tybee-island-see-full-details"
+      }
+    ],
+    "img": {
+      "file": "File:Great white shark, Carcharodon carcharias.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_white_shark,_Carcharodon_carcharias.jpg",
+      "author": "Olga Ernst",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A great white shark swimming near the surface with its mouth slightly open"
+    },
+    "img2": {
+      "file": "File:Tybee-island-lighthouse-se-ga1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tybee-island-lighthouse-se-ga1.jpg",
+      "author": "Brian Stansberry",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "alt": "The black-and-white Tybee Island Lighthouse in Georgia"
+    }
+  },
+  {
+    "slug": "police-gta-6-tiktok-chase",
+    "cat": "culture",
+    "headline": "Police Turn a Real Car Chase Into a GTA Video and Tell the Driver He Should Have Waited for GTA 6",
+    "dek": "Derbyshire officers added wanted stars, a minimap and a soundtrack. The driver gets to enjoy the game's launch from a cell.",
+    "date": "2026-11-03",
+    "location": "Ripley, Derbyshire, England, UK",
+    "read": 3,
+    "body": [
+      "Police social media teams have discovered the most powerful weapon in law enforcement: video editing.",
+      "On November 3, Derbyshire Police posted a TikTok of officers chasing a black van, restyled to look like Grand Theft Auto. The clip came with a wanted-star display, a tiny map tracking the van and a dramatic soundtrack.",
+      "The caption suggested the driver could simply have waited a few more weeks and done his driving in GTA 6 instead.",
+      {
+        "h2": "Game over"
+      },
+      "Police said the 28-year-old driver was arrested for dangerous driving, driving while disqualified, drug-driving and possessing cannabis. The chase reportedly took place in Ripley.",
+      {
+        "img2": true
+      },
+      "Reports say he was jailed for 14 months, which means he will miss the real game's release.",
+      {
+        "quote": "Gamers spotted the HUD showed five wanted stars. GTA 6 has six."
+      },
+      "Viewers being viewers, the main complaint online was not about the driving. It was about the star count, and whether the police got the game details right."
+    ],
+    "sources": [
+      {
+        "name": "Dexerto",
+        "url": "https://dexerto.com/gta/police-mock-man-for-missing-gta-6-after-dangerous-car-chase-leads-to-arrest-3424379"
+      },
+      {
+        "name": "The Mary Sue",
+        "url": "https://www.themarysue.com/police-arrest-28-year-old-uk-man-after-chase-then-post-a-gta-style-tiktok-to-mock-his-inability-to-play-gta-6-now-jacks-in-prison-for-release-day/"
+      },
+      {
+        "name": "Attack of the Fanboy",
+        "url": "https://attackofthefanboy.com/news/uk-police-just-dropped-the-most-brutal-gta-vi-tiktok-edit-yet-against-a-driver-couldve-just-waited-a-few-more-weeks-for-gta-6-to-drop/"
+      }
+    ],
+    "img": {
+      "file": "File:Ashbourne Police Station - Compton Street, Ashbourne - Police cars - Derbyshire Constabulary.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashbourne_Police_Station_-_Compton_Street,_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg",
+      "author": "Elliott Brown",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "Derbyshire Constabulary police cars parked outside Ashbourne police station"
+    },
+    "img2": {
+      "file": "File:Market Square in Ripley - geograph.org.uk - 4255442.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Market_Square_in_Ripley_-_geograph.org.uk_-_4255442.jpg",
+      "author": "Jonathan Clitheroe",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "The market square in Ripley, Derbyshire"
+    }
+  },
+  {
+    "slug": "dealership-thief-candy-cologne-five-cars",
+    "cat": "business",
+    "headline": "Thief Steals Five Cars From Dealership, Stops to Eat Candy and Spray the Owner's Cologne",
+    "dek": "He took a Porsche and a BMW with the For Sale sticker still on it. The BMW's tracker led police to his front door.",
+    "date": "2026-11-16",
+    "location": "Hialeah Gardens, Florida, USA",
+    "read": 3,
+    "body": [
+      "Some thieves are in and out in minutes. Others treat the crime scene like a spa day.",
+      "Police in South Florida say 35-year-old Michael Guevara broke into Cabrera's Auto, a dealership in Hialeah Gardens, early on a Sunday morning using a crowbar and a claw hammer. Surveillance video shows him scouting the area first.",
+      "Once inside, he grabbed the key fobs and helped himself to five cars worth more than $200,000, including a 2019 Porsche Macan.",
+      {
+        "h2": "Snacks and a spritz"
+      },
+      "He also found time to eat candy, leaving the wrappers in a BMW, and to spray himself with the owner's cologne.",
+      {
+        "img2": true
+      },
+      "He drove the cars to various spots and took the BMW home. That was the mistake: police used the car's tracking system to find it at his house, still wearing its For Sale decal.",
+      {
+        "quote": "He smelled great. That is about where the good news ended."
+      },
+      "Officers arrested him at gunpoint. He faces burglary, five counts of grand theft and possession of burglary tools, and a judge denied him house arrest. The owner said all five cars were recovered undamaged."
+    ],
+    "sources": [
+      {
+        "name": "WSVN 7News",
+        "url": "https://wsvn.com/news/local/miami-dade/hialeah-gardens-car-heist-arrest/"
+      }
+    ],
+    "img": {
+      "file": "File:Porsche Macan 4 IMG 2153.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Porsche_Macan_4_IMG_2153.jpg",
+      "author": "Alexander-93",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A grey Porsche Macan SUV parked at a car show"
+    },
+    "img2": {
+      "file": "File:Palmyra back from Broad - used car lot, Mid-City New Orleans 1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palmyra_back_from_Broad_-_used_car_lot,_Mid-City_New_Orleans_1.jpg",
+      "author": "Infrogmation of New Orleans",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Cars lined up for sale on a used car lot"
+    }
+  },
+  {
+    "slug": "dogs-tricked-with-imaginary-treats",
+    "cat": "culture",
+    "headline": "Woman Feeds Her Dogs Invisible Treats. One Catches On. The Other Is Still Chewing",
+    "dek": "Xena figured it out by round two and walked away. Luna kept happily eating nothing.",
+    "date": "2026-11-17",
+    "location": "Online (YouTube Shorts)",
+    "read": 2,
+    "body": [
+      "Not every viral story needs a crime. Some just need a dog with total faith in humanity.",
+      "In a YouTube Short that spread this week, a woman gives her two dogs, Xena and Luna, a real treat. Then she quietly switches to pretend ones to see how long it takes them to notice.",
+      "At first, both dogs happily accept the imaginary snacks.",
+      {
+        "h2": "The great treat experiment"
+      },
+      "By the second round, Xena has worked it out. She gives her owner a look and walks off.",
+      {
+        "img2": true
+      },
+      "Luna does not walk off. Luna keeps taking every invisible treat offered, chewing and swallowing with complete commitment.",
+      {
+        "quote": "Xena wants a treat. Luna simply enjoys the idea of one."
+      },
+      "Commenters agreed that Luna is living her best life, and that the real treat is never questioning anything. The clip was posted by the account @heymynamesluna."
+    ],
+    "sources": [
+      {
+        "name": "TAG24",
+        "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-november-17-2026-dogs-get-tricked-with-imaginary-treats-3543985"
+      }
+    ],
+    "img": {
+      "file": "File:Two dogs sitting outdoors.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_dogs_sitting_outdoors.jpg",
+      "author": "Sanskritidubey",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Two dogs sitting side by side outdoors"
+    },
+    "img2": {
+      "file": "File:They love there treats (try Greenies).JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/They_love_there_treats_(try_Greenies).JPG",
+      "author": "Allie Hajjar",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "A dog eagerly looking up at a treat"
+    }
+  },
+  {
     "slug": "golden-toilet-heist-splendid",
     "cat": "culture",
     "headline": "Golden Toilet Thief Admits He Used the £4.75m Loo the Day Before It Vanished. His Review: Splendid",
