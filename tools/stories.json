@@ -1,5 +1,389 @@
 [
   {
+    "slug": "pterodactyl-over-ciudad-juarez",
+    "cat": "science",
+    "headline": "Mexico Asks Whether a Pterodactyl Is Flying Over Ciudad Juárez. Experts Say: It Is a Heron",
+    "dek": "A winged silhouette on a security camera set off dinosaur panic on the border. Officials, scientists and fact-checkers were less excited.",
+    "date": "2026-11-16",
+    "location": "Ciudad Juárez, Chihuahua, Mexico",
+    "read": 3,
+    "body": [
+      "Pterosaurs died out about 66 million years ago. This month, a chunk of the internet decided one had turned up in Ciudad Juárez.",
+      "Clips of a large winged shape flapping over the city, apparently caught by a surveillance camera near the Anapra area on the border with El Paso, spread fast. Mexico's best-known ufologist, Jaime Maussan, helped promote them.",
+      "Comment sections filled with prehistoric theories. Some people were sure they were looking at a living pterodactyl.",
+      {
+        "h2": "The boring answer"
+      },
+      "Local Civil Protection officials said it was most likely just a large bird. Specialists pointed to the great blue heron, which can have a wingspan of up to about two metres and looks fairly prehistoric when it flaps.",
+      {
+        "img2": true
+      },
+      "Snopes rated one widely shared clip as fake and said its source was unclear. Other viewers suspected some of the footage was made with AI.",
+      {
+        "quote": "Not a dinosaur. Just a very big bird having a very good week."
+      },
+      "No scientific evidence supports a living pterosaur, in Juárez or anywhere else. The heron has not commented."
+    ],
+    "sources": [
+      {
+        "name": "IBTimes UK",
+        "url": "https://www.ibtimes.co.uk/mexico-pterodactyl-videos-bird-ai-footage-1833046"
+      },
+      {
+        "name": "Snopes",
+        "url": "https://www.snopes.com/fact-check/video-pterodactyl-mexico/"
+      },
+      {
+        "name": "ABC Noticias (Spanish)",
+        "url": "https://abcnoticias.mx/tendencia/2026/11/16/hay-un-pterodactilo-en-cd-juarez-proteccion-civil-aclara-video-difundido-por-jaime-maussan-295645.html"
+      }
+    ],
+    "img": {
+      "file": "File:Blue Heron (Ardea herodias) takes flight (47995495921).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Heron_(Ardea_herodias)_takes_flight_(47995495921).jpg",
+      "author": "Yellowstone National Park",
+      "license": "Public domain",
+      "alt": "A great blue heron taking off with its huge wings spread wide"
+    },
+    "img2": {
+      "file": "File:Skyline Juárez-El Paso.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline_Juárez-El_Paso.jpg",
+      "author": "Rosalesmx",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "The skyline of Ciudad Juárez with El Paso in the distance"
+    }
+  },
+  {
+    "slug": "alaska-jellyfish-ufo-octopus-kite",
+    "cat": "world",
+    "headline": "A 'Jellyfish UFO' With Tentacles Was Filmed Near an Alaska Air Base. The Leading Theory: A Kite",
+    "dek": "The internet saw aliens. A UFO filmmaker and a former Pentagon UFO investigator both saw an octopus-shaped show kite.",
+    "date": "2026-11-14",
+    "location": "Anchorage, Alaska, USA",
+    "read": 3,
+    "body": [
+      "On June 15, photographer Sara Jane Osborn filmed something odd in Anchorage, Alaska: a dark, jellyfish-like object that seemed to hover above a distant tree line, tentacles and all.",
+      "After about three minutes, it was gone. The footage resurfaced online in November and took off, helped by one detail: the tree line sits in front of Joint Base Elmendorf-Richardson, home to F-22 fighter jets.",
+      "There is no verified evidence the object entered the base's airspace or had anything to do with the military. That did not slow the alien theories down.",
+      {
+        "h2": "Enter the kite"
+      },
+      "Then the explanations arrived. UFO filmmaker Jeremy Corbell, who has promoted a famous jellyfish-shaped object filmed over Iraq, reportedly concluded on November 11 that this one was most likely a tethered octopus-style show kite.",
+      {
+        "img2": true
+      },
+      "Former Pentagon UFO investigator Sean Kirkpatrick also reportedly favoured a kite. Other experts suggested high-altitude balloons or military exercises.",
+      {
+        "quote": "When the UFO guys say kite, it is probably a kite."
+      },
+      "Osborn is not convinced. She said she knows the colourful kites flown in Anchorage, though she accepted it might have been a drone-like object. Officially, it remains unidentified."
+    ],
+    "sources": [
+      {
+        "name": "IBTimes UK",
+        "url": "https://www.ibtimes.co.uk/anchorage-jellyfish-object-ufo-octopus-kite-1832011"
+      },
+      {
+        "name": "BroBible",
+        "url": "https://brobible.com/culture/article/jellyfish-ufo-alaska-military-base-sighting/"
+      },
+      {
+        "name": "RedState",
+        "url": "https://redstate.com/wardclark/2026/11/14/forget-little-green-men-pentagon-ufo-sleuth-thinks-alaska-jellyfish-is-a-kite-n2209415"
+      }
+    ],
+    "img": {
+      "file": "File:Berkeley Kite Festival - Flickr - GregTheBusker.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berkeley_Kite_Festival_-_Flickr_-_GregTheBusker.jpg",
+      "author": "Greg Schechter from San Francisco, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Giant colourful show kites with long trailing tails at a kite festival"
+    },
+    "img2": {
+      "file": "File:Downtown Anchorage, Alaska from Delaney Park.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Anchorage,_Alaska_from_Delaney_Park.jpg",
+      "author": "Laura Alier",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Downtown Anchorage, Alaska, seen from Delaney Park"
+    }
+  },
+  {
+    "slug": "piebald-bear-kansas-field",
+    "cat": "science",
+    "headline": "Family Out Harvesting in Kansas Films a Patchy, Two-Toned Bear. In a State With No Resident Bears",
+    "dek": "A state biologist confirmed it was a piebald black bear, a genetic oddity he had never seen in Kansas before.",
+    "date": "2026-11-12",
+    "location": "Near Syracuse, Kansas, USA",
+    "read": 2,
+    "body": [
+      "Kansas is not bear country. The state's wildlife department says it is not aware of any bears living there year-round.",
+      "So a family harvesting their field about 13 miles north of Syracuse, in western Kansas, did a double take when a bear wandered into view. Then they did a triple take, because the bear was patchy.",
+      "Instead of the usual solid dark coat, it had blotches of different colours, and the family got it on video.",
+      {
+        "h2": "The expert verdict"
+      },
+      "Matt Peek, a wildlife research biologist with the Kansas Department of Wildlife and Parks, identified it as a piebald black bear, a very rare genetic anomaly that causes the patchy fur.",
+      {
+        "img2": true
+      },
+      "Peek said it was the first piebald bear he had seen in Kansas, though bears in that part of the state have a history of cinnamon-coloured fur.",
+      {
+        "quote": "Rare bear, rarer coat, in a state that barely has bears at all."
+      },
+      "Almost all confirmed bears in Kansas are yearlings wandering in from neighbouring states after leaving their mothers. This one, it seems, chose to make an entrance."
+    ],
+    "sources": [
+      {
+        "name": "Yahoo News",
+        "url": "https://www.yahoo.com/news/science/articles/rare-piebald-bear-spotted-western-103300471.html"
+      },
+      {
+        "name": "News Beep",
+        "url": "https://www.newsbeep.com/us/919842/"
+      }
+    ],
+    "img": {
+      "file": "File:Cinnamon black bear (Ursus americanus cinnamomum) Yoho.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_black_bear_(Ursus_americanus_cinnamomum)_Yoho.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A cinnamon-coloured black bear walking through grass"
+    },
+    "img2": {
+      "file": "File:A Kansas wheat field, Harvester Combine in action LCCN2012646392.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Kansas_wheat_field,_Harvester_Combine_in_action_LCCN2012646392.jpg",
+      "author": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+      "license": "Public domain",
+      "alt": "An old postcard of a combine harvester working a Kansas wheat field"
+    }
+  },
+  {
+    "slug": "52kg-carp-angelina-hungary",
+    "cat": "sports",
+    "headline": "British Angler Lands a 52kg Carp Called Angelina and Declares Himself a World Record Holder",
+    "dek": "The fish weighed as much as a small adult. Whether it is officially a world record is a different argument.",
+    "date": "2026-11-04",
+    "location": "Balatonederics, Hungary",
+    "read": 3,
+    "body": [
+      "Most fishing stories involve the one that got away. Ash Hegarty's involves the one that barely fit in the net.",
+      "On October 28, the 32-year-old from Blackburn, England, hooked a common carp at Euro Aqua, a private fishing lake near Balatonederics in Hungary. It weighed 114lb 10oz, roughly 52kg.",
+      "The fish already had a name: Angelina. Hegarty said she looked like a car tyre in the net.",
+      {
+        "h2": "Record, or not?"
+      },
+      "Hegarty shared the catch on Facebook, calling himself a world record holder, and hundreds of people congratulated him.",
+      {
+        "img2": true
+      },
+      "Others were less impressed. Critics questioned whether fish from private, well-fed lakes should count, and there has been no confirmed formal international verification of the record.",
+      {
+        "quote": "She weighs more than a lot of people reading this. Her name is Angelina."
+      },
+      "The record books also treat common and mirror carp differently. Angelina is about 800g heavier than a famous 2018 mirror carp, and Euro Aqua has form: a Polish angler caught a 47.4kg carp there in 2024."
+    ],
+    "sources": [
+      {
+        "name": "Euronews (German)",
+        "url": "https://de.euronews.com/2026/11/04/52-kilogramm-brite-angelt-rekord-karpfen-in-ungarn"
+      },
+      {
+        "name": "Daily News Hungary",
+        "url": "https://dailynewshungary.com/hungary-potential-world-record-angler-carp/"
+      },
+      {
+        "name": "Stuff",
+        "url": "https://www.stuff.co.nz/world-news/361056228/were-going-need-bigger-boat-fisherman-reels-world-record-catch"
+      }
+    ],
+    "img": {
+      "file": "File:Cyprinus carpio 2021 G2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyprinus_carpio_2021_G2.jpg",
+      "author": "George Chernilevsky",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A large golden common carp held up out of the water"
+    },
+    "img2": {
+      "file": "File:HUNGARY-Lake Balaton Region.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUNGARY-Lake_Balaton_Region.jpg",
+      "author": "DavidivardiIL",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Hills and water in the Lake Balaton region of Hungary"
+    }
+  },
+  {
+    "slug": "3156-pound-pumpkin-world-record",
+    "cat": "sports",
+    "headline": "Rhode Island Man Grows a 3,156-Pound Pumpkin, the First Ever to Break 3,000",
+    "dek": "It beat a world record that had stood for exactly one week, by nearly 300 pounds.",
+    "date": "2026-10-10",
+    "location": "Warren, Rhode Island, USA",
+    "read": 3,
+    "body": [
+      "A small car weighs about 3,000 pounds. Ron Wallace grew a pumpkin that weighs more.",
+      "At the Southern New England Giant Pumpkin Weigh Off at Frerichs Farm in Warren, Rhode Island, on October 10, Wallace's pumpkin hit the scale at 3,156 pounds, or 1,431.5kg.",
+      "Guinness World Records confirmed it as the heaviest pumpkin ever, and the first in history to pass the 3,000-pound mark.",
+      {
+        "h2": "A record that lasted a week"
+      },
+      "The previous record had been set only a week earlier, on October 3, by British grower Ian Paton with a pumpkin of about 2,857 pounds. Wallace beat it by nearly 300.",
+      {
+        "img2": true
+      },
+      "This is not his first giant. Wallace, 60, set a record in 2006 with a 1,502-pound pumpkin and in 2012 became the first grower to break 2,000 pounds. This is his third world record.",
+      {
+        "quote": "One pumpkin. Heavier than a car. Grown on purpose."
+      },
+      "His secret this year? It was his first season growing in a greenhouse. Guinness called the double record-break 'Pumpkinpalooza'."
+    ],
+    "sources": [
+      {
+        "name": "Guinness World Records",
+        "url": "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week"
+      },
+      {
+        "name": "Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/smart-news/a-rhode-island-man-grew-the-first-pumpkin-to-surpass-3000-pounds-the-gargantuan-gourd-is-the-largest-fruit-ever-180989723/"
+      },
+      {
+        "name": "NBC 10 WJAR",
+        "url": "https://turnto10.com/news/local/rhode-island-grower-sets-guinness-world-record-with-3156-pound-pumpkin-oct-14-2026"
+      }
+    ],
+    "img": {
+      "file": "File:Giant pumpkins linedup.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_pumpkins_linedup.jpg",
+      "author": "Nick Ares",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A row of enormous misshapen giant pumpkins lined up at a festival"
+    },
+    "img2": {
+      "file": "File:TwinsWeighOff.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TwinsWeighOff.jpg",
+      "author": "David.politzer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Giant pumpkins on pallets at a weigh-off"
+    }
+  },
+  {
+    "slug": "family-finds-own-photo-in-airbnb",
+    "cat": "culture",
+    "headline": "Sisters Walk Into Their Airbnb and Find a Framed Photo of Their Own Family on the Wall",
+    "dek": "The beach print was taken a decade earlier by a stranger with a camera. Commenters say they have seen it in rentals elsewhere too.",
+    "date": "2026-07-20",
+    "location": "Oceanside, California, USA",
+    "read": 3,
+    "body": [
+      "Vacation rentals are full of generic beach art. Usually it does not include you.",
+      "Sisters Libby and Aubrey Birrell, from Utah, were staying at a rental in Oceanside, near San Diego, with about 30 relatives to celebrate their grandfather's 80th birthday when they noticed the big aerial beach print on the wall.",
+      "In it were their dad, Libby, and their brother Brady, on a beach outing roughly ten years earlier.",
+      {
+        "h2": "How did they get there?"
+      },
+      "Aubrey posted the discovery on TikTok and it went viral. The host said the home's decorator was a local photographer who takes aerial beach shots and sells them as large prints to vacation rentals.",
+      {
+        "img2": true
+      },
+      "The sisters think the photo was taken at Mission Beach or Imperial Beach, during a family trip for their brother's soccer tournament. The host offered them a copy.",
+      {
+        "quote": "You came for the beach. The beach had already come for you."
+      },
+      "Not everyone thinks the mystery is fully solved, and the story kicked off a debate about strangers' photos used as decor. Some commenters claimed to have seen the same print in rentals in other states, which has not been confirmed."
+    ],
+    "sources": [
+      {
+        "name": "Fox News",
+        "url": "https://www.foxnews.com/travel/sisters-viral-video-reveal-truth-eerie-family-photo-discovered-rental-home"
+      },
+      {
+        "name": "FOX 4 News",
+        "url": "https://www.fox4news.com/news/family-discovers-photo-themselves-san-diego-airbnb.amp"
+      },
+      {
+        "name": "Dexerto",
+        "url": "https://www.dexerto.com/entertainment/family-shocked-after-finding-childhood-photo-of-themselves-in-random-airbnb-3387588/"
+      }
+    ],
+    "img": {
+      "file": "File:Mission Beach-San Diego-California.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_Beach-San_Diego-California.jpg",
+      "author": "User Vlastula on en.wikipedia",
+      "license": "Public domain",
+      "alt": "Mission Beach in San Diego, with sand, surf and beachfront buildings"
+    },
+    "img2": {
+      "file": "File:Mission Beach Boardwalk.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_Beach_Boardwalk.jpg",
+      "author": "Blervis",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "The boardwalk along Mission Beach, San Diego"
+    }
+  },
+  {
+    "slug": "sabah-glowing-jellyfish-sky-rocket",
+    "cat": "tech",
+    "headline": "A Glowing 'Space Jellyfish' Lights Up the Sky Over Sabah. It Was a Chinese Rocket",
+    "dek": "Pre-dawn videos of a giant luminous cone spread across Malaysia. The space agency had the answer within a day.",
+    "date": "2026-11-10",
+    "location": "Kota Kinabalu, Sabah, Malaysia",
+    "read": 2,
+    "body": [
+      "Early on Monday, November 9, people in Sabah, Malaysia, looked up and saw something that did not belong in the sky: a huge glowing cone, spreading out like a jellyfish.",
+      "Videos from around Kota Kinabalu spread quickly on Threads and other platforms, with the usual theories about aliens and secret aircraft. Similar sightings were reported from Sarawak and the Philippines.",
+      {
+        "h2": "Mystery solved"
+      },
+      "The Malaysian Space Agency, MYSA, said the light came from China's Long March 12 rocket, which launched from Wenchang on Hainan island at 4:24 a.m. Malaysian time.",
+      {
+        "img2": true
+      },
+      "The effect is known as a space jellyfish. High up, where the air is thin, a rocket's exhaust spreads out widely. The sun, still below the horizon for people on the ground, lights up the plume from below, so it glows against a dark sky.",
+      {
+        "quote": "Not an alien. Just physics, exhaust and very good timing."
+      },
+      "It is the same trick that has produced UFO panics around the world after launches. It is also, admittedly, a much better photo than most rockets manage."
+    ],
+    "sources": [
+      {
+        "name": "South China Morning Post",
+        "url": "https://www.scmp.com/week-asia/health-environment/article/3374019/malaysia-says-jellyfish-light-over-sabah-was-chinese-rocket-not-aliens"
+      },
+      {
+        "name": "SAYS",
+        "url": "https://says.com/my/news/mysa-says-bright-light-spotted-in-sabah-sky-caused-by-rocket-launch-in-china"
+      },
+      {
+        "name": "Bernama",
+        "url": "https://bernama.com/en/news.php?id=2632758"
+      }
+    ],
+    "img": {
+      "file": "File:Launch of Shenzhou 13.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Launch_of_Shenzhou_13.jpg",
+      "author": "ForrestXYC (edited)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A Chinese Long March rocket rising into the night sky on a column of flame"
+    },
+    "img2": {
+      "file": "File:Kota Kinabalu City Mosque 01.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kota_Kinabalu_City_Mosque_01.jpg",
+      "author": "Ahmad Ali Karim",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Kota Kinabalu City Mosque reflected in the water"
+    }
+  },
+  {
     "slug": "tarantulas-in-socks-lima-airport",
     "cat": "world",
     "headline": "Airport Staff Notice Socks Are Moving. Inside: More Than 3,000 Tarantulas",
