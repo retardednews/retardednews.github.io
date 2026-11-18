@@ -22,6 +22,8 @@ CATS = [
 ]
 CATNAME = dict(CATS)
 SITE = "RetardedNews"
+# GoatCounter site code (the "xyz" in https://xyz.goatcounter.com). Empty = no tracking script.
+GOATCOUNTER = ""
 YEAR = date.today().year
 
 # Wikimedia only serves thumbnails at these standard widths; anything else is rejected.
@@ -98,6 +100,19 @@ THEME_BOOT = ("<script>try{var t=localStorage.getItem('theme');"
               "if(t)document.documentElement.dataset.theme=t}catch(e){}</script>")
 
 
+def asset_version(path):
+    """Short content hash so browsers re-fetch CSS/JS after every change (Pages caches 10 min)."""
+    with open(os.path.join(ROOT, path), "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()[:8]
+
+
+def analytics():
+    if not GOATCOUNTER:
+        return ""
+    return (f'\n  <script data-goatcounter="https://{GOATCOUNTER}.goatcounter.com/count" '
+            'async src="https://gc.zgo.at/count.js"></script>')
+
+
 def page(title, active, body, prefix="", desc=""):
     nav = "\n".join(
         f'        <li><a href="{prefix}{s}.html"{" class=\"active\" aria-current=\"page\"" if s == active else ""}>{n}</a></li>'
@@ -115,8 +130,8 @@ def page(title, active, body, prefix="", desc=""):
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://upload.wikimedia.org">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;0,900;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{prefix}css/style.css">
-  <script src="{prefix}js/site.js" defer></script>
+  <link rel="stylesheet" href="{prefix}css/style.css?v={asset_version('css/style.css')}">
+  <script src="{prefix}js/site.js?v={asset_version('js/site.js')}" defer></script>{analytics()}
 </head>
 <body id="top">
   <div class="topbar"><div class="wrap"><span id="today"></span><span>Real news. As dumb as it gets.</span></div></div>
