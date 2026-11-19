@@ -45,7 +45,7 @@ def cover(img):
 
 
 def shade(base):
-    """Dark fade at the top (hook) and a lighter one at the bottom (tag and credit)."""
+    """Dark fade at the top (hook) and a lighter one at the bottom (tag)."""
     mask = Image.new("L", (1, H))
     for y in range(H):
         top = max(0.0, 1 - y / (H * 0.55)) * 215
@@ -76,11 +76,6 @@ def card(slug, src):
     d.rectangle([PAD, H - PAD - 42, PAD + tw + 28, H - PAD], fill=RED)
     d.text((PAD + 14, H - PAD - 21), tag, font=tf, fill="white", anchor="lm")
 
-    cf = font("arial.ttf", 16)
-    credit = f"Photo: {s['img']['author']} / {s['img']['license']}, Wikimedia Commons (illustrative)"
-    while d.textlength(credit, font=cf) > W - 2 * PAD - tw - 60:
-        credit = credit[:-2]
-    d.text((W - PAD, H - PAD - 21), credit, font=cf, fill=(215, 215, 215), anchor="rm")
     base.save(os.path.join(OUT, slug + ".jpg"), quality=88)
 
 

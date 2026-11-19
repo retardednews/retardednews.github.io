@@ -14,7 +14,8 @@ When scanning these sources, take only the most clickbaity and funny stories. A 
 - Rewrite every story completely in our own words. Never copy or lightly reword a source's sentences.
 - Combine facts from several sources (at least 2 where possible) into one fresh write-up, and list them all under sources.
 - Quotes: only short ones the sources actually contain, attributed, and at most one or two per story. Paraphrase everything else.
-- Images: only free-licensed Wikimedia Commons files with author and license credited. Never use photos from news sites, social media or agencies, even with credit.
+- Images: **public domain or CC0 only** (no CC BY, CC BY-SA or any license that requires attribution, and nothing copyrighted). Use Wikimedia Commons files tagged PD (e.g. PD-USGov/NASA/NOAA, PD-old) or CC0. Never use photos from news sites, journals, social media or agencies outside Commons. No credit text on images or share cards.
+- Images are **always self-hosted** under `img/`: run `python tools/fetch_images.py` after `fetch_image_meta.py`. Never hotlink upload.wikimedia.org (Facebook's crawler gets 403, so link posts lose their picture). `build.py` fails if an image is missing or not PD/CC0.
 - Headlines and decks are ours too. Don't reuse the source's headline.
 
 ## Weird-news specialists
