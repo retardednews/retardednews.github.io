@@ -32,12 +32,12 @@
       }
     ],
     "img": {
-      "file": "File:Coyote, Arizona (49238964601).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coyote%2C_Arizona_%2849238964601%29.jpg",
-      "author": "Henry from Arizona",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A coyote standing in the Arizona desert"
+      "file": "File:Coyote (Canis latrans) on South Rim of Grand Canyon National Park. NPS-Elaine Leslie (18496023908).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coyote_%28Canis_latrans%29_on_South_Rim_of_Grand_Canyon_National_Park._NPS-Elaine_Leslie_%2818496023908%29.jpg",
+      "author": "NPS Natural Resources",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A coyote standing alert in the snow among pine trees on the South Rim of the Grand Canyon in Arizona"
     },
     "hook": "One of these coyotes is not a coyote."
   },
@@ -72,12 +72,12 @@
       }
     ],
     "img": {
-      "file": "File:Roe deer buck in a clearing in Tuntorp, Brastad 3.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roe_deer_buck_in_a_clearing_in_Tuntorp%2C_Brastad_3.jpg",
-      "author": "W.carter",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A roe deer standing in a forest clearing"
+      "file": "File:Rehbock (Mai 2025) 6.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rehbock_%28Mai_2025%29_6.jpg",
+      "author": "Romzig",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A roe deer buck with short antlers standing in tall green grass and looking at the camera"
     },
     "hook": "A trail camera just filmed a real-life unicorn."
   },
@@ -119,12 +119,12 @@
       }
     ],
     "img": {
-      "file": "File:Philadelphia Museum of Art looking northwest from bottom of Rocky Steps.jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philadelphia_Museum_of_Art_looking_northwest_from_bottom_of_Rocky_Steps.jpeg",
-      "author": "Dough4872",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The Philadelphia Museum of Art seen from the bottom of the Rocky Steps"
+      "file": "File:Philadelphia Museum of Art 2016.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philadelphia_Museum_of_Art_2016.jpg",
+      "author": "Heather Dong",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "The columned main facade of the Philadelphia Museum of Art under a blue sky, with the top of its grand steps in front"
     },
     "hook": "570 Rockys showed up. Not all of them counted."
   },
@@ -149,9 +149,6 @@
       },
       "For years the real numbers stayed embarrassingly close to the doomsday curve, closer than many professional forecasts in the 1970s and 1980s. Only around 1993, roughly halfway to the big day, did the world's actual population start falling behind.",
       "The reason is the twist. The paper's own suggested escape route was to cut the global birth rate in half. Today the birth rate is a little under half of what it was in 1960. In other words, humanity more or less followed the prescription.",
-      {
-        "img2": true
-      },
       "There were clues that von Foerster was not entirely serious. Before science he had worked as a magician, and 13 November happened to be his birthday. Researchers today see the paper less as a prophecy than as a clever way to point at a startling pattern. The date itself finally arrived on Friday, November 13 with rumours swirling on social media. In Vienna, a science centre marked it with a conference on the sense and nonsense of end-of-the-world predictions. The world, for the record, is still here."
     ],
     "sources": [
@@ -169,20 +166,12 @@
       }
     ],
     "img": {
-      "file": "File:Shibuya Crossing (53333799585).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya_Crossing_%2853333799585%29.jpg",
-      "author": "Dick Thomas Johnson from Tokyo, Japan",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "alt": "Crowds of people pouring across the Shibuya scramble crossing in Tokyo"
-    },
-    "img2": {
-      "file": "File:HvF 01.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HvF_01.jpg",
-      "author": "U of I publicity department",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Black-and-white portrait of physicist Heinz von Foerster"
+      "file": "File:Shibuya scramble in March 2024.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya_scramble_in_March_2024.jpg",
+      "author": "Syced",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Crowds of people crossing the Shibuya scramble crossing in Tokyo, seen from above"
     },
     "hook": "Scientists said the world ends on November 13, 2026."
   },
@@ -203,9 +192,6 @@
       },
       "Researchers at National Museums Scotland have now taken a fresh look and come to a very different conclusion. They believe the leg belonged to a towering gilded statue of the emperor Antoninus Pius riding a horse, similar to the famous bronze of Marcus Aurelius that still stands in Rome.",
       "Antoninus Pius is the emperor who pushed Rome's frontier into Scotland and built the Antonine Wall. The team thinks his statue stood somewhere in the Borders in the AD 140s to celebrate the conquest of southern Scotland. A patch of missing gold around the knee suggests a cloak or tunic once hung over it.",
-      {
-        "img2": true
-      },
       "The real surprise is at the top of the leg. There are no hack marks at all. The bronze ends exactly as it was cast, which means the statue was taken apart at its joints, not smashed.",
       "That points the finger at the Romans themselves. When the army pulled back from southern Scotland in the 160s or 180s, it seems to have dismantled its own monument rather than leave the emperor behind. Roman troops did the same with altars and inscriptions along the Antonine Wall, burying them instead of abandoning them. Why one gilded leg ended up in a bog remains a mystery, and so does the spot where the statue stood.",
       "A full-size reconstruction of the horse and rider is now on show at the National Museum of Scotland in Edinburgh, in an exhibition about Roman Scotland that runs until April 2027."
@@ -225,20 +211,12 @@
       }
     ],
     "img": {
-      "file": "File:Marcus Aurelius on Capitoline Hill (5986636647).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Aurelius_on_Capitoline_Hill_%285986636647%29.jpg",
-      "author": "Erik Drost",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "alt": "The bronze equestrian statue of Marcus Aurelius on Capitoline Hill in Rome"
-    },
-    "img2": {
-      "file": "File:Antonine Wall ditch looking east at Roughcastle, Falkirk, Scotland.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonine_Wall_ditch_looking_east_at_Roughcastle%2C_Falkirk%2C_Scotland.jpg",
-      "author": "Rosser1954",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "The grassy ditch of the Antonine Wall at Rough Castle, Falkirk"
+      "file": "File:Gilt bronze horse's hoof and fetlock MET DP20666.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gilt_bronze_horse%27s_hoof_and_fetlock_MET_DP20666.jpg",
+      "author": "Unknown author",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A broken Roman gilt-bronze horse leg and hoof from an ancient statue"
     },
     "hook": "Someone pulled a giant golden leg out of a bog."
   },
@@ -283,12 +261,12 @@
       }
     ],
     "img": {
-      "file": "File:Auto-icon of Jeremy Bentham 2026-04-27.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auto-icon_of_Jeremy_Bentham_2026-04-27.jpg",
-      "author": "Matt Brown",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "alt": "Jeremy Bentham's auto-icon, his clothed skeleton with a wax head, seated in a glass case"
+      "file": "File:Jeremy Bentham auto icon 2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy_Bentham_auto_icon_2.jpg",
+      "author": "Karmakolle",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Jeremy Bentham's auto-icon, his clothed skeleton with a wax head and straw hat, seated in a glass case"
     },
     "img2": {
       "file": "File:Jeremy Bentham by Henry William Pickersgill.jpg",
@@ -387,12 +365,12 @@
       }
     ],
     "img": {
-      "file": "File:Barbados Blackbellies in a sheepdog trial.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbados_Blackbellies_in_a_sheepdog_trial.jpg",
-      "author": "Chad K",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A group of blackbelly sheep running across a grassy field"
+      "file": "File:Herd of sheep in mountains (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Herd_of_sheep_in_mountains_%28Unsplash%29.jpg",
+      "author": "nima hatami thegreatnima",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A large herd of woolly sheep milling on bare ground below rocky hills"
     },
     "hook": "A whole town spent 45 days chasing this sheep."
   },
@@ -412,9 +390,6 @@
         "h2": "Not a scrap-metal job"
       },
       "Cologne police were quick to rule out one motive. The metal itself is worth very little, a spokesperson said, so whoever took it was not planning to melt it down.",
-      {
-        "img2": true
-      },
       "That points to the art market, and the gallery is betting the sculpture's distinctive rising curves will give it away if it is ever offered for sale. Dealers and collectors have been asked to keep watch.",
       "It has also made an unusual appeal. Anyone who was near booth C-121 during those 15 minutes and took photos or videos is asked to send them in, in case something in the background shows who walked off with it.",
       "The gallery called the theft a regrettable shadow over an otherwise very successful fair, and says it hopes the sculpture turns up unharmed."
@@ -430,20 +405,12 @@
       }
     ],
     "img": {
-      "file": "File:Messehallen der Koelnmesse - Luftaufnahme-0849.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Messehallen_der_Koelnmesse_-_Luftaufnahme-0849.jpg",
-      "author": "Raimond Spekking",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Aerial view of the Koelnmesse exhibition halls in Cologne"
-    },
-    "img2": {
-      "file": "File:Koelnmesse, Eingang Ost-0010.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Koelnmesse%2C_Eingang_Ost-0010.jpg",
-      "author": "Raimond Spekking",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "The east entrance of the Koelnmesse fairground in Cologne"
+      "file": "File:Golden statue in Milan (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_statue_in_Milan_%28Unsplash%29.jpg",
+      "author": "Samuel Zeller samuelzeller",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A gleaming golden statue with outstretched arms against a pale sky"
     },
     "hook": "A golden sculpture vanished in 15 minutes."
   },
@@ -480,12 +447,12 @@
       }
     ],
     "img": {
-      "file": "File:Detroit December 2021 41 (DDOT bus).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Detroit_December_2021_41_%28DDOT_bus%29.jpg",
-      "author": "Michael Barera",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A Detroit Department of Transportation city bus on a street in Detroit"
+      "file": "File:Interior of a Detroit Department of Transportation New Flyer XDE40 - 215A8533.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior_of_a_Detroit_Department_of_Transportation_New_Flyer_XDE40_-_215A8533.jpg",
+      "author": "City of Detroit",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "The empty interior of a Detroit city bus with rows of seats and yellow grab poles"
     },
     "hook": "Look who just got on the city bus."
   },
@@ -522,12 +489,12 @@
       }
     ],
     "img": {
-      "file": "File:Lafayette Park, San Francisco - panoramio.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lafayette_Park%2C_San_Francisco_-_panoramio.jpg",
-      "author": "Roman SUZUKI",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0/",
-      "alt": "Green lawns and trees in Lafayette Park, San Francisco"
+      "file": "File:Painted Ladies Alamo Square. (10413465334).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Painted_Ladies_Alamo_Square._%2810413465334%29.jpg",
+      "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "The row of colourful Victorian 'Painted Ladies' houses at Alamo Square, San Francisco"
     },
     "hook": "Wait until you hear the winner's day job."
   },
@@ -568,12 +535,12 @@
       }
     ],
     "img": {
-      "file": "File:Boa-Constrictor-Imperator-From-Above.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boa-Constrictor-Imperator-From-Above.jpg",
-      "author": "Bjørn Christian Tørrissen",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A long boa constrictor stretched out on the ground, seen from above"
+      "file": "File:Boa constrictor occidentalis 102416785.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boa_constrictor_occidentalis_102416785.jpg",
+      "author": "Hugo Hulsberg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A patterned boa constrictor coiled among grass and leaf litter on the ground"
     },
     "hook": "That is not a fence post."
   },
@@ -608,12 +575,12 @@
       }
     ],
     "img": {
-      "file": "File:Amherstburg (Carnegie) Library, Amherstburg, Ontario, 2026-05-10 01.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amherstburg_%28Carnegie%29_Library%2C_Amherstburg%2C_Ontario%2C_2026-05-10_01.jpg",
-      "author": "Chris Woodrich",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A historic brick library building in Amherstburg, Ontario"
+      "file": "File:Hotel room bedroom in building on Chapel Street, Salford, Greater Manchester, England, on 5 October 2025.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotel_room_bedroom_in_building_on_Chapel_Street%2C_Salford%2C_Greater_Manchester%2C_England%2C_on_5_October_2025.jpg",
+      "author": "MatthewHoobin",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A neatly made double bed in a dimly lit bedroom with a bedside lamp switched on"
     },
     "hook": "Police raced to a break-in. Then they checked the bedroom."
   },
@@ -651,12 +618,12 @@
       }
     ],
     "img": {
-      "file": "File:View of basketball hoop from below.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_basketball_hoop_from_below.jpg",
-      "author": "Everyday English",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A basketball hoop and net seen from directly below"
+      "file": "File:Angular Basketball Hoop.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angular_Basketball_Hoop.jpg",
+      "author": "MarkBuckawicki",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A basketball hoop and net seen from below against a blue sky"
     },
     "hook": "She scored with 20 seconds left. Wrong basket."
   },
@@ -698,12 +665,12 @@
       }
     ],
     "img": {
-      "file": "File:Speedcube GAN.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Speedcube_GAN.jpg",
-      "author": "多多123",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A speedcubing puzzle cube"
+      "file": "File:Rubik's Cube - Michigan.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rubik%27s_Cube_-_Michigan.jpg",
+      "author": "Pablo Punk",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A speedcubing puzzle cube sitting on a rock by blue water"
     },
     "hook": "He stopped four times and still ran a 5-minute mile."
   },
@@ -739,12 +706,12 @@
       }
     ],
     "img": {
-      "file": "File:Piglets kissing - Flickr - Stewart.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piglets_kissing_-_Flickr_-_Stewart.jpg",
-      "author": "Stewart Butterfield from Vancouver, Canada",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Two small piglets nose to nose"
+      "file": "File:Piglets-2736051.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piglets-2736051.jpg",
+      "author": "benj500",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A litter of pink and black spotted piglets huddled together in straw"
     },
     "hook": "Police caught both suspects. Then read out the charges."
   },
@@ -832,12 +799,12 @@
       }
     ],
     "img": {
-      "file": "File:AGIBot at Center Stage at 2026 Web Summit.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AGIBot_at_Center_Stage_at_2026_Web_Summit.jpg",
-      "author": "Runawaymo",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "An AGIBOT humanoid robot on stage at a technology conference"
+      "file": "File:Robonaut 2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robonaut_2.jpg",
+      "author": "Robert Markowitz",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "NASA's Robonaut 2 humanoid robot with a gold helmet holding out one hand"
     },
     "hook": "Six robots worked a 24-hour shift. Not all got the job."
   },
@@ -857,9 +824,6 @@
         "h2": "The chips letter"
       },
       "Willison has been crying since 1987, and she got the job in an unusual way. She was the catering manager at a country park near Peterborough that had two cafés about a mile and a half apart.",
-      {
-        "img2": true
-      },
       "When a local advert went out looking for a town crier, her daughter entered her. The pitch, according to Guinness, was that her mum could stand outside one café, shout \"chips\", and be heard at the other one.",
       "It worked. Nearly four decades later she has travelled the world, won crying competitions and performed duties for the Royal Family.",
       {
@@ -878,20 +842,12 @@
       }
     ],
     "img": {
-      "file": "File:The Town Crier, Chester.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Town_Crier%2C_Chester.jpg",
-      "author": "Rodhullandemu",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A town crier in a red coat and tricorn hat ringing a bell"
-    },
-    "img2": {
-      "file": "File:Newmarket High Street - geograph.org.uk - 6883129.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Newmarket_High_Street_-_geograph.org.uk_-_6883129.jpg",
-      "author": "Hugh Venables",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "The High Street in Newmarket, Suffolk"
+      "file": "File:Fish and chips on Brighton beach 2023-05-23.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fish_and_chips_on_Brighton_beach_2023-05-23.jpg",
+      "author": "Andy Li",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Fish and chips in an open box on a pebble beach, with Brighton Palace Pier behind"
     },
     "hook": "Her whole career started with the word 'chips'."
   },
@@ -911,9 +867,6 @@
       },
       "It was an alligator, about three feet long, a youngster by alligator standards. Driscoll found it near the counter, panicked briefly, and called 911.",
       "The men on site kept an eye on it and used a chair to help steer it, just in case. Southport Police and animal protection officers then arrived and escorted the reptile back outside. Nobody was hurt, including the alligator.",
-      {
-        "img2": true
-      },
       {
         "quote": "\"Never in a million years did I think I'd see an alligator,\" Driscoll told WWAY."
       },
@@ -936,14 +889,6 @@
       "license": "CC0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "alt": "A young American alligator resting in Florida"
-    },
-    "img2": {
-      "file": "File:Bagels at Long Island Bagel Cafe in Stony Brook.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagels_at_Long_Island_Bagel_Cafe_in_Stony_Brook.jpg",
-      "author": "Kenneth C. Zirkel",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Rows of fresh bagels on display in a bagel shop"
     },
     "hook": "Look who walked into the bagel shop after closing."
   },
@@ -984,12 +929,12 @@
       }
     ],
     "img": {
-      "file": "File:3000 rubber band ball.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3000_rubber_band_ball.jpg",
-      "author": "Whoisjohngalt",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A large ball made of colourful rubber bands"
+      "file": "File:RubberBall09.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RubberBall09.jpg",
+      "author": "Oroo",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A ball made of wound rubber bands sitting on a wooden table"
     },
     "img2": {
       "file": "File:Belle Isle Park.jpg",
@@ -1018,9 +963,6 @@
       "These were narrow-headed ants, the rarest ant species in England. The reserve, run by Devon Wildlife Trust, is their last stronghold in the country. The latest survey there counted 142 active nests, and now there is one fewer.",
       "A single nest can hold between 1,000 and 5,000 ants, plus one or more breeding queens that can live for up to 25 years. Colonies grow slowly, so a mature nest represents years of work that can't simply be replaced.",
       {
-        "img2": true
-      },
-      {
         "quote": "\"This is a crime every bit as serious as illegal raids on wild bird eggs,\" said Julia Balfour of Devon Wildlife Trust."
       },
       "The heath is a protected Site of Special Scientific Interest, and Devon and Cornwall Police say it is a criminal offence to deliberately or recklessly damage or disturb it. The theft has been reported to the force, and the trust is asking anyone who knows anything to come forward.",
@@ -1041,20 +983,12 @@
       }
     ],
     "img": {
-      "file": "File:Formica exsecta - nests Ch5.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Formica_exsecta_-_nests_Ch5.jpg",
-      "author": "Lynxlynx1",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Mounds of narrow-headed ant nests in a grassy meadow"
-    },
-    "img2": {
-      "file": "File:Formica exsecta (Blenio Switzerland) 1.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Formica_exsecta_%28Blenio_Switzerland%29_1.jpg",
-      "author": "agosti",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "Close-up of narrow-headed ants on their nest"
+      "file": "File:A mound of thatching ants (Formica obscuripes) (49945866631).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_mound_of_thatching_ants_%28Formica_obscuripes%29_%2849945866631%29.jpg",
+      "author": "YellowstoneNPS",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Close-up of a thatching ant mound swarming with hundreds of red and black ants"
     },
     "hook": "Someone made off with 5,000 captives using a spade."
   },
@@ -1094,12 +1028,12 @@
       }
     ],
     "img": {
-      "file": "File:Nakano Broadway (53147264156).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakano_Broadway_%2853147264156%29.jpg",
-      "author": "Dick Thomas Johnson from Tokyo, Japan",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "alt": "The entrance arcade of Nakano Broadway shopping centre in Tokyo"
+      "file": "File:White shirt and gold watch (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/White_shirt_and_gold_watch_%28Unsplash%29.jpg",
+      "author": "Jonna Fransa jonna_fransa",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A man in a white shirt adjusting his cuff, a gold wristwatch on his wrist"
     },
     "hook": "He ran off in a $292,000 watch. Then a parcel arrived."
   },
@@ -1136,12 +1070,12 @@
       }
     ],
     "img": {
-      "file": "File:Shadow hands (5098939600).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shadow_hands_%285098939600%29.jpg",
-      "author": "Iouri Goussev",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "Two robotic hands with metal fingers and joints on display"
+      "file": "File:629758main jsc2010e188611.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/629758main_jsc2010e188611.jpg",
+      "author": "Robert Markowitz / Bill Stafford",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A white robotic hand reaching toward a spacesuit-gloved hand against a dark background"
     },
     "hook": "This robot hand doesn't need a body."
   },
@@ -1181,12 +1115,12 @@
       }
     ],
     "img": {
-      "file": "File:Capybara (Hydrochoerus hydrochaeris).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capybara_%28Hydrochoerus_hydrochaeris%29.jpg",
-      "author": "Charles J. Sharp",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A capybara standing on a grassy riverbank"
+      "file": "File:Capybara - Willowbank Wildlife Reserve - Christchurch, NZ - DSC01564.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capybara_-_Willowbank_Wildlife_Reserve_-_Christchurch%2C_NZ_-_DSC01564.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Two capybaras resting side by side next to a stone-edged pond"
     },
     "hook": "She escaped on day one. Seven months later, still free."
   },
@@ -1224,12 +1158,12 @@
       }
     ],
     "img": {
-      "file": "File:A toppled orange traffic cone at Huntington station.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_toppled_orange_traffic_cone_at_Huntington_station.jpg",
+      "file": "File:Two orange traffic cones marking a repair in the pavement 2.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_orange_traffic_cones_marking_a_repair_in_the_pavement_2.jpg",
       "author": "Ser Amantio di Nicolao",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "An orange traffic cone lying on its side on the pavement"
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Two orange traffic cones standing on a city pavement beside a road crossing"
     },
     "hook": "This traffic cone is writing tickets."
   },
@@ -1312,12 +1246,12 @@
       }
     ],
     "img": {
-      "file": "File:Black Bear 0859.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Bear_0859.jpg",
-      "author": "Chris Light",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "An American black bear standing in a forest"
+      "file": "File:American Black Bear (45568897501).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Black_Bear_%2845568897501%29.jpg",
+      "author": "ShenandoahNPS",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "An American black bear standing in thick green vegetation"
     },
     "hook": "The car horn wouldn't stop. Then they looked inside."
   },
@@ -1354,12 +1288,12 @@
       }
     ],
     "img": {
-      "file": "File:Samsung Galaxy Z Fold8 and Fold8 Ultra.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samsung_Galaxy_Z_Fold8_and_Fold8_Ultra.jpg",
-      "author": "ScribblingGeek",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Two folding smartphones opened flat, showing their large inner screens"
+      "file": "File:Android Foldable Phone.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Android_Foldable_Phone.jpg",
+      "author": "Ka Kit Pang",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Three folding smartphones on a table, the middle one opened flat to show its large inner screen"
     },
     "hook": "The $1,999 folding iPhone. Look closely at the fold."
   },
@@ -1400,12 +1334,12 @@
       }
     ],
     "img": {
-      "file": "File:Liberty Mutual - Headquarters (54953357892).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty_Mutual_-_Headquarters_%2854953357892%29.jpg",
-      "author": "ajay_suresh",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "The Liberty Mutual headquarters building in Boston"
+      "file": "File:Liberty Mutual Insurance Headquarters - Boston, MA.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty_Mutual_Insurance_Headquarters_-_Boston%2C_MA.jpg",
+      "author": "User54871",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "The stone facade of the Liberty Mutual Insurance Company headquarters in Boston, seen from below"
     },
     "hook": "Their enemy is small, yellow and fluffy."
   },
@@ -1428,9 +1362,6 @@
         "h2": "What was in the boxes"
       },
       "The truck was crammed with Hot Wheels. Officers counted 350 boxes of the little die-cast cars, each holding several models, with an estimated total value of around $54,000.",
-      {
-        "img2": true
-      },
       "The driver, a 20-year-old man, was booked on suspicion of burglary, possession of stolen property and grand theft, and was later released on bail. Detectives are still trying to work out whether he had help.",
       "The Colton Police Department could not resist the obvious joke. Its Facebook post about the arrest announced that his wheels just weren't hot enough to get away.",
       "A department spokesperson told reporters an arrest of that size was a big deal for the city. Freight-train break-ins are a long-running headache along Southern California's rail lines, but few of them come with a pun this good."
@@ -1450,20 +1381,12 @@
       }
     ],
     "img": {
-      "file": "File:Hot Wheels display at Safeway.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_Wheels_display_at_Safeway.jpg",
-      "author": "Ser Amantio di Nicolao",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Rows of boxed Hot Wheels toy cars hanging on a store display"
-    },
-    "img2": {
-      "file": "File:TTX, BNSF & Landstar, Denver, CO.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TTX%2C_BNSF_%26_Landstar%2C_Denver%2C_CO.jpg",
-      "author": "Xnatedawgx",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A long freight train with BNSF cars passing through a rail yard"
+      "file": "File:Hot Wheels models.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_Wheels_models.jpg",
+      "author": "Fernanda Berrocal",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Three small Hot Wheels toy sports cars in blue, white and orange on a white surface"
     },
     "hook": "They robbed a freight train. The loot was tiny."
   },
@@ -1485,9 +1408,6 @@
       "Once screenshots hit Reddit and Instagram, users went hunting for more, and there were plenty. A jacket potato became a winter puffer jacket printed with potatoes. A 'chip muffin', a takeaway's name for a chip butty, turned into sweet muffins with fries baked inside.",
       "Garlic bread plain, misspelt on one menu as 'plane', came out as an aeroplane made of toasted garlic bread. A cheese roll turned into sushi with slabs of cheddar. A pot of burger sauce had a tiny burger sitting in it, and a dish of tiger prawns arrived as a bowl of actual tiger cubs swimming in sauce.",
       {
-        "img2": true
-      },
-      {
         "quote": "Just Eat apologised and paused the trial. A spokesperson told The Journal: \"We're sorry for any inaccurate images that have been posted.\""
       },
       "The company is now pulling the strange pictures from its listings and says restaurants can always upload their own photos. It has not given up on AI images, though. It says it will keep working on the tool, so somewhere out there the tiger cubs may yet return."
@@ -1503,20 +1423,12 @@
       }
     ],
     "img": {
-      "file": "File:Irish soda bread (25292114472).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Irish_soda_bread_%2825292114472%29.jpg",
-      "author": "Jim  Lukach",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A round loaf of Irish soda bread with a cross cut into the top"
-    },
-    "img2": {
-      "file": "File:DSC 7821 A tall glass of cola with ice and a white straw sits on a table softly lit against a blurred evening backdrop of warm bokeh lights.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DSC_7821_A_tall_glass_of_cola_with_ice_and_a_white_straw_sits_on_a_table_softly_lit_against_a_blurred_evening_backdrop_of_warm_bokeh_lights.jpg",
-      "author": "PattayaPatrol",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A tall glass of cola with ice and a straw on a table"
+      "file": "File:BakedPotatoWithButter.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BakedPotatoWithButter.jpg",
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A split baked jacket potato topped with melting butter"
     },
     "hook": "AI drew the menu photos. Customers weren't ready."
   },
@@ -1560,12 +1472,12 @@
       }
     ],
     "img": {
-      "file": "File:Florida Polytechnic University (25811685378).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Florida_Polytechnic_University_%2825811685378%29.jpg",
-      "author": "Gregory Urbano from St. Petersburg, Florida, USA",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "The white domed main building of Florida Polytechnic University at sunset"
+      "file": "File:Hiller Model 1031-A-1 Flying Platform - DPLA - a7a01ea9dc9a1653831585b75592f414 (page 5).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hiller_Model_1031-A-1_Flying_Platform_-_DPLA_-_a7a01ea9dc9a1653831585b75592f414_%28page_5%29.jpg",
+      "author": "Unknown author",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A one-person US Army flying platform from the 1950s on display in a museum hangar"
     },
     "img2": {
       "file": "File:Hiller Flying Platform (10438169066).jpg",
@@ -1595,9 +1507,6 @@
       "This was not a chance encounter. Marvin had blocked the robots before, as a protest against the growing fleet of machines rolling around Center City since Uber Eats brought them in earlier this year.",
       "She told reporters she objects on three counts: the robots take work from low-paid human delivery drivers, they crowd the sidewalks, and their cameras are constantly filming the public.",
       {
-        "img2": true
-      },
-      {
         "quote": "\"I was under the impression that I had more rights than the robot did,\" Marvin said. \"I wasn't impeding any persons. I was impeding a machine.\""
       },
       "She plans to fight the charge in court. Asked by a local TV station whether she will keep standing in front of robots, her answer was short: 'Why not?'"
@@ -1613,20 +1522,12 @@
       }
     ],
     "img": {
-      "file": "File:Robot Delivery Brickell December 2025.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robot_Delivery_Brickell_December_2025.jpg",
-      "author": "Phillip Pessar",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A small wheeled delivery robot driving along a city sidewalk"
-    },
-    "img2": {
-      "file": "File:Reading Terminal Market (53587020195).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reading_Terminal_Market_%2853587020195%29.jpg",
-      "author": "ajay_suresh",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "The busy interior of Reading Terminal Market in Philadelphia"
+      "file": "File:Starship Technologies delivery robot.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Starship_Technologies_delivery_robot.jpg",
+      "author": "Ohpuu",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A small white six-wheeled delivery robot rolling along a paved path"
     },
     "hook": "A 78-year-old professor vs. a delivery robot."
   },
@@ -1647,9 +1548,6 @@
       },
       "When the preliminary results came in, Rogers had 12,635 votes. That put him fourth out of 37, comfortably inside the winning eight.",
       "The person who missed out was Maxine DeHart, a councillor first elected in 2011 who was going for a fifth term. She finished ninth with 11,165 votes, just 305 short of the last seat. Five newcomers and three incumbents made it onto the new council, on a turnout of about 31 percent.",
-      {
-        "img2": true
-      },
       "So was the whole thing a joke? Only partly. Rogers explained that the self-mockery was deliberate and that he does have useful experience in business and problem-solving.",
       {
         "quote": "\"I'm being a little bit tongue-in-cheek when I say I'm unqualified,\" Rogers told Global News."
@@ -1671,20 +1569,12 @@
       }
     ],
     "img": {
-      "file": "File:City Hall Kelowna.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Hall_Kelowna.jpg",
-      "author": "MissAlienous",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Kelowna City Hall in British Columbia"
-    },
-    "img2": {
-      "file": "File:Kelowna DownTown (35976416885).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelowna_DownTown_%2835976416885%29.jpg",
-      "author": "GoToVan from Vancouver, Canada",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "alt": "Downtown Kelowna, British Columbia"
+      "file": "File:UK Polling Booth 2011.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UK_Polling_Booth_2011.JPG",
+      "author": "Microchip08",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A row of empty wooden voting booths inside a polling station"
     },
     "hook": "His campaign slogan: 'I barely want to do this.'"
   },
@@ -1704,9 +1594,6 @@
         "h2": "The company is not amused"
       },
       "Lime, which owns the bikes, was asked what it thought of its fleet being used as warhorses. Its answer, given to the BBC, was polite but clear: the bikes are for getting around the city, not for medieval combat.",
-      {
-        "img2": true
-      },
       {
         "quote": "\"While we appreciate the medieval spirit, safety must always come first,\" a Lime spokesperson told the BBC."
       },
@@ -1729,20 +1616,12 @@
       }
     ],
     "img": {
-      "file": "File:Lime bike in Alexandra Park 2024-01-04.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lime_bike_in_Alexandra_Park_2024-01-04.jpg",
-      "author": "Tom Page",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A green Lime rental e-bike parked in a park"
-    },
-    "img2": {
-      "file": "File:Joust 2023 - Two Knights Jousting 2.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joust_2023_-_Two_Knights_Jousting_2.jpg",
-      "author": "Amaury Laporte",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Two armoured knights on horseback charging at each other with lances"
+      "file": "File:Knights jousting, lance tips breaking.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Knights_jousting%2C_lance_tips_breaking.jpg",
+      "author": "Pseudopanax at English Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Two armoured knights on horseback charging at each other in a jousting tournament"
     },
     "hook": "Knights in armour, jousting on rental e-bikes."
   },
@@ -1763,9 +1642,6 @@
       "What he could not have known was that the headset was still paired with one of the parents' phones. The family liked to watch their kids' games through a live stream on their mobile, and that link was still active.",
       "So the moment the burglar switched on his new toy, the family, and soon the police, had a front-row view of whatever he was looking at. The picture showed the inside of a parked car and, beyond it, a house with a very distinctive green roof.",
       "The headset has no GPS, so the roof was the only real clue. Luckily, Ocoee Police Sergeant Kevin Birdsong had grown up in the area and recognised it.",
-      {
-        "img2": true
-      },
       "Within about an hour, officers were knocking on the door of that house. The man inside handed the headset over.",
       "Police identified him as 18-year-old Ja'Mir Edmond Baker. He was taken to the Orange County jail on an existing warrant, which reports say concerned an iPad allegedly taken from a parked car months earlier. The headset went back to the kids.",
       "Experts quoted after the case had simple advice for everyone else: leave tracking and remote monitoring switched on, and lock the sliding door."
@@ -1781,20 +1657,12 @@
       }
     ],
     "img": {
-      "file": "File:Meta Quest 3 front View.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Quest_3_front_View.jpg",
-      "author": "Roy.wonder.cohen",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A white virtual reality headset seen from the front"
-    },
-    "img2": {
-      "file": "File:Visitor using a Meta Quest 3 VR headset at IPP Greifswald 2025.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visitor_using_a_Meta_Quest_3_VR_headset_at_IPP_Greifswald_2025.jpg",
-      "author": "Siarhei Besarab",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A person wearing a VR headset and holding controllers"
+      "file": "File:Oculus-Rift-CV1-Headset-Back.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oculus-Rift-CV1-Headset-Back.jpg",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A black virtual reality headset seen from the back, showing its lenses and head straps"
     },
     "hook": "He stole a VR headset. Then he put it on."
   },
@@ -1817,9 +1685,6 @@
       {
         "quote": "\"It's very soft and I think the mineral content may have something to do with it,\" she told BBC Scotland, as reported by DutchNews."
       },
-      {
-        "img2": true
-      },
       "Saarberg started making porridge as a student to save money on food. Over time she switched from rolled oats to oatmeal, which she says made it creamier, almost like rice pudding. She only started adding salt for competitions, and says it brings out more flavour.",
       "She qualified by winning the Dutch national championship earlier in the year, using the same recipe, the same oats and, yes, the same water.",
       "The speciality prize, where anything goes, went to Australian Rob Reid for a Sicilian-Scottish porridge cannoli. Scotland's national dish keeps travelling a long way to be beaten in its own village."
@@ -1839,20 +1704,12 @@
       }
     ],
     "img": {
-      "file": "File:Cooked oatmeal in bowl.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cooked_oatmeal_in_bowl.jpg",
-      "author": "Bodhi Peace",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A bowl of plain cooked oat porridge"
-    },
-    "img2": {
-      "file": "File:Carrbridge packhorse bridge2.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrbridge_packhorse_bridge2.jpg",
-      "author": "Roger Ward",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "The old packhorse bridge in the Highland village of Carrbridge"
+      "file": "File:Jennifer Pallian 2016-10-07 (Unsplash DfbrRpHTLy0).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer_Pallian_2016-10-07_%28Unsplash_DfbrRpHTLy0%29.jpg",
+      "author": "Jennifer Pallian foodess",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Bowls of oat porridge with toppings, with syrup being poured over one"
     },
     "hook": "Her winning secret came in a suitcase."
   },
@@ -1875,9 +1732,6 @@
       {
         "quote": "Police wrote that they had stopped \"two gentlemen traveling down S. Tryon Street on a couch.\""
       },
-      {
-        "img2": true
-      },
       "The post praised the creativity but pointed out the problem: a sofa gliding through traffic could easily distract the drivers of real cars. It suggested leaving mobile furniture displays to IKEA.",
       "The internet did the rest. The post collected around 1,700 comments and reactions in its first three hours, with one commenter calling it truly couch surfing and another asking whether sofas need insurance.",
       "Police did not name the men or say whether either got a ticket. They did say it was a first for the department."
@@ -1897,20 +1751,12 @@
       }
     ],
     "img": {
-      "file": "File:Pair of docked Lime scooters in Southwest Federal Center.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_docked_Lime_scooters_in_Southwest_Federal_Center.jpg",
-      "author": "Ser Amantio di Nicolao",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Two green and white Lime electric scooters parked side by side on a pavement"
-    },
-    "img2": {
-      "file": "File:Independence Square—Intersection of Trade and Tryon Streets.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Independence_Square%E2%80%94Intersection_of_Trade_and_Tryon_Streets.jpg",
-      "author": "Algorhythms",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "The intersection of Trade and Tryon streets in uptown Charlotte"
+      "file": "File:LimeBike scooters - August 2025 - Sarah Stierch.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LimeBike_scooters_-_August_2025_-_Sarah_Stierch.jpg",
+      "author": "Missvain",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Two green Lime electric scooters lying on their sides on a city sidewalk"
     },
     "hook": "Police had never pulled one of these over."
   },
@@ -1931,9 +1777,6 @@
       },
       "The order has no legal force, and Hocquelet happily calls it absurd. It is a protest, and the target is what is happening to the town's hospital.",
       "The Marmande-Tonneins hospital, which serves about 110,000 people including part of the neighbouring Gironde, was placed under temporary administration by the regional health authority in January because of serious money problems. From early 2027, departments such as cardiology, digestive medicine and diabetes care may be moved to the hospital in Agen, a long drive away.",
-      {
-        "img2": true
-      },
       "Hocquelet, who chairs the hospital's supervisory board in turns with the mayor of nearby Tonneins, warns that further cuts could cost the town its full emergency department and its laboratory, leaving the hospital a shell of itself. Newcomers to the area already struggle to find a family doctor.",
       "He says people are welcome to laugh at the decree as long as they also notice the problem behind it. Large parts of rural France are now described as medical deserts, and he wants the ban to sound the alarm in Paris.",
       "He is not the first to try it. In January 2025 the mayor of Belcastro, a small town in southern Italy, issued a very similar ban on illness to protest about a health centre that was often closed. The joke, it seems, travels well."
@@ -1949,20 +1792,12 @@
       }
     ],
     "img": {
-      "file": "File:Marmande - L'Été de la Vie.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marmande_-_L%27%C3%89t%C3%A9_de_la_Vie.jpg",
-      "author": "Benjamin Smith",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A view of Marmande, a market town in south-western France"
-    },
-    "img2": {
-      "file": "File:Tomates Marmande.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomates_Marmande.jpg",
-      "author": "Alpha from Melbourne, Australia",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "alt": "Ribbed Marmande tomatoes, the variety named after the town"
+      "file": "File:Hôtel de Ville - Joigny.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_de_Ville_-_Joigny.jpg",
+      "author": "Valentin F.R.",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "The stone town hall of Joigny, France, with 'Liberté Égalité Fraternité' carved above the entrance"
     },
     "hook": "A mayor has officially banned getting sick."
   },
@@ -1982,9 +1817,6 @@
       },
       "They did not just grab whatever was closest to the door. According to French broadcaster TF1, the thieves went for the older, darker wheels, the ones that had matured longest and sell for the most. Each wheel goes for between €80 and €130 depending on its age.",
       "Producer Régis Junqua put the loss at roughly €25,000. He told TF1 the intruders seemed calm and well prepared, and described them as professionals.",
-      {
-        "img2": true
-      },
       "Getting rid of 250 marked cheeses is harder than it sounds, because every wheel carries the producer's stamp. Alexandre Salles, co-president of a French cheesemakers' federation, suggested a buyer could simply strip off the rind, cut the cheese into pieces and sell it where nobody would recognise it.",
       "It is not an isolated taste for dairy. In late 2025, Italian police investigated the disappearance of around 200 wheels of Parmigiano Reggiano from a cooperative near Bologna.",
       "A France 24 press review in November relayed a report in The Times that cheese has become France's most stolen food, with thieves said to like it partly because the penalties are far lighter than for dealing drugs. No arrests had been reported in the Pyrenees case."
@@ -2000,20 +1832,12 @@
       }
     ],
     "img": {
-      "file": "File:Ossau-iraty 01.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ossau-iraty_01.jpg",
-      "author": "Pierre-Yves Beaudouin",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "Wheels of Pyrenean sheep's-milk cheese with dark rinds"
-    },
-    "img2": {
-      "file": "File:Wikicheese - Fromage de brebis affiné - 20160123 - 010.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikicheese_-_Fromage_de_brebis_affin%C3%A9_-_20160123_-_010.jpg",
-      "author": "Thesupermat",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A wheel of aged sheep's-milk cheese cut open"
+      "file": "File:Cut wheels of cheese (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cut_wheels_of_cheese_%28Unsplash%29.jpg",
+      "author": "Alexander Maasch tiefenscharf",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Cut wheels of farmhouse cheese with pale rinds stacked on a stone shelf in the French Pyrenees"
     },
     "hook": "A €25,000 heist. The thieves were very picky."
   },
@@ -2036,9 +1860,6 @@
       {
         "quote": "The judge found the men had received edible Reese's products \"of the type and quantity advertised,\" and that what they described was \"subjective disappointment\" rather than a real financial loss."
       },
-      {
-        "img2": true
-      },
       "Their claim that they had paid a premium ran into trouble too. They bought the candy at Publix but used prices from Walmart, Target and Hershey's own online store to make their case. And the carved face on the wrapper is labelled, in small print, a decorating suggestion.",
       "The pumpkins are not the only alleged offenders. Hershey has faced similar complaints about Reese's ghosts with no faces and Reese's footballs with no laces.",
       "The men's lawyer told Reuters they plan to appeal, saying Florida consumers deserve to get what they pay for. Hershey said it does not comment on litigation."
@@ -2054,20 +1875,12 @@
       }
     ],
     "img": {
-      "file": "File:2020-11-03 18 41 39 A full size Reese's Peanut Butter Pumpkin at the Ramada by Wyndham in Rochelle Park Township, Bergen County, New Jersey.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-03_18_41_39_A_full_size_Reese%27s_Peanut_Butter_Pumpkin_at_the_Ramada_by_Wyndham_in_Rochelle_Park_Township%2C_Bergen_County%2C_New_Jersey.jpg",
-      "author": "Famartin",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A Reese's Peanut Butter Pumpkin in its orange Halloween wrapper"
-    },
-    "img2": {
-      "file": "File:2019-02-15 15 04 37 An individual milk chocolate Reese's Peanut Butter Pumpkin after being unwrapped in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-02-15_15_04_37_An_individual_milk_chocolate_Reese%27s_Peanut_Butter_Pumpkin_after_being_unwrapped_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
-      "author": "Famartin",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "An unwrapped Reese's pumpkin: a plain chocolate shape with no face"
+      "file": "File:Gfp-peanut-butter-candy.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gfp-peanut-butter-candy.jpg",
+      "author": "Yinan Chen",
+      "license": "Public domain",
+      "license_url": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+      "alt": "A pile of chocolate peanut butter cups spilling from an orange candy wrapper"
     },
     "hook": "They sued Reese's over what was missing."
   },
@@ -2087,9 +1900,6 @@
       },
       "The jet had landed at RAF Fairford, about 11 miles east of Kemble. Fairford may carry the Royal Air Force name, but it is run by the United States Air Force and currently hosts a detachment of B-1B Lancer strategic bombers.",
       "An unannounced civilian plane rolling down a bomber runway is not something base security takes lightly. As soon as it touched down, an emergency response kicked in, and plane spotters outside the fence posted pictures of security vehicles gathering around the little jet.",
-      {
-        "img2": true
-      },
       "According to the aviation site The Aviationist, the pilot realised the mistake quickly and wanted to leave straight away. Security had other ideas. Nobody was going anywhere until the interviews were done and the paperwork was filled in.",
       "Roughly three hours later the jet was finally allowed to take off again, at about 12:10 p.m. Its flight to the airport it had meant to visit in the first place took about four minutes.",
       "Nobody suggested the landing was anything other than an honest mistake. RAF Fairford did not immediately comment. Similar slip-ups are rare but not unknown: a civilian Pilatus turboprop landed at an RAF base in Wales by mistake in 2020."
@@ -2110,14 +1920,6 @@
       "author": "Senior Airman Ryan Hayman",
       "license": "Public domain",
       "alt": "A B-1 Lancer bomber on the ground at RAF Fairford with airmen working on it"
-    },
-    "img2": {
-      "file": "File:Cessna 560XL Citation XLS CS-DXK.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cessna_560XL_Citation_XLS_CS-DXK.jpg",
-      "author": "Julian Herzog (Website)",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0",
-      "alt": "A white Cessna Citation XLS business jet, the same family as the jet that landed at Fairford"
     },
     "hook": "The jet landed safely. At the wrong airfield."
   },
@@ -2155,12 +1957,12 @@
       }
     ],
     "img": {
-      "file": "File:Darrell K Royal–Texas Memorial Stadium - Texas Longhorns (54983869867).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Darrell_K_Royal%E2%80%93Texas_Memorial_Stadium_-_Texas_Longhorns_%2854983869867%29.jpg",
-      "author": "ajay_suresh",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "Darrell K Royal-Texas Memorial Stadium in Austin, home of the Texas Longhorns"
+      "file": "File:DIG13672-194.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIG13672-194.jpg",
+      "author": "Lauren Gerson",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Darrell K Royal-Texas Memorial Stadium and the Austin skyline at dusk, seen from the LBJ Presidential Library"
     },
     "hook": "He missed the $1 million kick. Then a movie star stepped in."
   },
@@ -2201,12 +2003,12 @@
       }
     ],
     "img": {
-      "file": "File:ConagraHQ.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ConagraHQ.jpg",
-      "author": "Tyrone from Omaha, NE",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Conagra Brands' campus in Omaha, Nebraska"
+      "file": "File:Kabanos - San Francisco, CA.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabanos_-_San_Francisco%2C_CA.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A row of long, thin dried meat sticks laid side by side"
     },
     "hook": "One meat stick, longer than a football field."
   },
@@ -2230,9 +2032,6 @@
         "quote": "\"You can see my washing. You can see me — that's no problem,\" Galer replied, according to the Otago Daily Times."
       },
       "And with that she launched into her speech, arguing that councils had wasted money on pet projects while neglecting basic infrastructure.",
-      {
-        "img2": true
-      },
       "A fellow councillor later explained that Galer was in Glasgow, Scotland, travelling with another councillor. More than 2,800 people watched the livestream, and the clip was soon picked up by news agencies around the world. Online, viewers were split between those who loved it and those asking why anyone would take a work call from the bathroom.",
       "It is not even the council's first Zoom moment. Back in 2020, a different Dunedin councillor appeared on a video call dusting his office in a suit jacket and, it turned out, bare legs."
     ],
@@ -2254,14 +2053,6 @@
       "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "alt": "Dunedin's Town Hall and Municipal Chambers on the Octagon"
     },
-    "img2": {
-      "file": "File:Laundry day.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laundry_day.jpg",
-      "author": "Joybot",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "alt": "Laundry hanging out to dry on a washing line"
-    },
     "hook": "'You might want to move your camera.'"
   },
   {
@@ -2281,9 +2072,6 @@
       },
       "What happened next made the clip go viral. Members of the demo team hurried on stage, draped a black cloth over the fallen machine like a sheet over a magician's cage, and carried it off. The demonstration was over.",
       "The video only reached a wide audience weeks after the show, and once it did, people could not stop watching. One design site admitted the clip got funnier every time it was played.",
-      {
-        "img2": true
-      },
       "Qualcomm's explanation was calm. It said a brief communication glitch had caused a fault in the prototype, and that the robot then carried out a built-in safe collapse routine to protect the people and objects around it. In other words, the company said, the safety systems did their job.",
       {
         "quote": "Qualcomm said the robot's \"safety systems functioned as designed\", adding that live demos always carry some risk and the fall would help improve the software."
@@ -2305,20 +2093,12 @@
       }
     ],
     "img": {
-      "file": "File:Computex Taipei stage in TWTC Nangang 20170603.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Computex_Taipei_stage_in_TWTC_Nangang_20170603.jpg",
-      "author": "Solomon203",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A presentation stage with a big screen at the Computex trade show in Taipei"
-    },
-    "img2": {
-      "file": "File:045 MNACTEC (Terrassa), exposició temporal Robots, àmbit dels robots humanoides.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/045_MNACTEC_%28Terrassa%29%2C_exposici%C3%B3_temporal_Robots%2C_%C3%A0mbit_dels_robots_humanoides.jpg",
-      "author": "Enric",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A row of humanoid robots on display in a museum exhibition"
+      "file": "File:2015 DARPA Robotics Challenge 150605-N-PO203-866.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2015_DARPA_Robotics_Challenge_150605-N-PO203-866.jpg",
+      "author": "Master Chief Petty Officer John Williams",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A two-legged humanoid robot standing among cinder blocks and debris at a robotics competition"
     },
     "hook": "The robot walked on stage. Its handlers had a cloth ready."
   },
@@ -2356,12 +2136,12 @@
       }
     ],
     "img": {
-      "file": "File:Speed camera in Bad Mergentheim.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Speed_camera_in_Bad_Mergentheim.jpg",
-      "author": "Triplec85",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "alt": "A speed camera beside a road"
+      "file": "File:Vitronic Enforcement Trailer PoliScan Speed Blitzer LIDAR Infrarot 1.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vitronic_Enforcement_Trailer_PoliScan_Speed_Blitzer_LIDAR_Infrarot_1.jpg",
+      "author": "Dp8f6",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A speed camera trailer parked at the roadside at night, its infrared flash glowing"
     },
     "hook": "122 speeding tickets. Look where the camera was parked."
   },
@@ -2406,12 +2186,12 @@
       }
     ],
     "img": {
-      "file": "File:Perfectly toasted marshmallow (21642819842).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Perfectly_toasted_marshmallow_%2821642819842%29.jpg",
-      "author": "Ruth Hartnup from Vancouver, Canada",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "alt": "A golden toasted marshmallow on a stick"
+      "file": "File:Roasted-Marshmallow.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roasted-Marshmallow.jpg",
+      "author": "Evan-Amos",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A single big marshmallow on a stick, roasted golden and charred, against a black background"
     },
     "img2": {
       "file": "File:Roasting a marshmallow over a fire ring (12711076243).jpg",
@@ -2496,9 +2276,6 @@
         "quote": "Her official diagnosis, according to the center: \"she was too darn fat to fly.\""
       },
       "That raised a new question: who had been feeding her? The team wondered if she was an escaped falconry bird or a hawk someone was keeping illegally. So they asked the finder whether anyone nearby kept free-range chickens.",
-      {
-        "img2": true
-      },
       "A few weeks later the answer came back. A neighbour's free-roaming flock had been shrinking at an alarming rate. Every morning the chickens were let out, and every morning the hawk had her pick of the buffet. Then she would eat until full and doze in the trees until she was hungry again.",
       "The center laughs about it, but it says the story has a serious side. A hawk that can't fly is easy prey for bigger predators. Its advice is not to feed wildlife, even by accident, and to cover chicken runs.",
       "The patient is now on a strict diet with daily laps of the flight pen. Once she is slim enough she will be released near where she was found. Staff admit there is a small risk she will remember where the chickens live."
@@ -2514,20 +2291,12 @@
       }
     ],
     "img": {
-      "file": "File:Red-shouldered Hawk (Buteo lineatus) (15454317283).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-shouldered_Hawk_%28Buteo_lineatus%29_%2815454317283%29.jpg",
-      "author": "Andrew C",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A red-shouldered hawk perched in a backyard"
-    },
-    "img2": {
-      "file": "File:Free-Range Chicken.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Free-Range_Chicken.jpg",
-      "author": "Tusasirwe Mackline",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Brown chickens roaming and pecking on green grass"
+      "file": "File:Red-shouldered Hawk (49867008773).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-shouldered_Hawk_%2849867008773%29.jpg",
+      "author": "evergladesnps",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A red-shouldered hawk perched with its beak open"
     },
     "hook": "Vets found the real reason she can't fly."
   },
@@ -2547,9 +2316,6 @@
         "h2": "Meet Achille and Patroclo"
       },
       "The team named the pair Achille and Patroclo, after Achilles and Patroclus, the famously close heroes of Greek legend. Between March 6 and March 19, 2026, the researchers counted 51 mountings. The donkey often invited them, and instead of kicking or fleeing, he nipped playfully at the bull.",
-      {
-        "img2": true
-      },
       "It was not just about sex. The two licked, rubbed and nuzzled each other, and spent their days side by side, even though cows, donkeys of both sexes and other cattle were all around them. When Achille tried mounting a different male donkey, that donkey flattened his ears and made it very clear he was not interested.",
       {
         "quote": "\"We believe the key finding is not simply that a bull mounted a male donkey.\" (lead author Martina Francesconi)"
@@ -2568,20 +2334,12 @@
       }
     ],
     "img": {
-      "file": "File:Boran bull at kasarani.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boran_bull_at_kasarani.jpg",
-      "author": "Ngangaesther",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A humped East African Boran bull standing in a field"
-    },
-    "img2": {
-      "file": "File:Ethiopia - Desert Donkey.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia_-_Desert_Donkey.jpg",
-      "author": "Niklas Schiffler (Grmpf)",
-      "license": "CC BY 2.5",
-      "license_url": "https://creativecommons.org/licenses/by/2.5/",
-      "alt": "A donkey standing in dry country in Ethiopia"
+      "file": "File:Bos taurus indicus.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bos_taurus_indicus.jpg",
+      "author": "Scott Bauer, USDA ARS",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A humped zebu bull standing in a grassy field"
     },
     "hook": "Scientists spotted a couple nobody expected."
   },
@@ -2601,9 +2359,6 @@
         "h2": "Then it turned on them"
       },
       "The charm did not last. The hitchhiker began nipping at its host's neck and ears, and from then on, anyone who tried to grab it, coax it or simply be friendly got pecked. For hours, it swooped around the check-in area and avoided every attempt to catch it.",
-      {
-        "img2": true
-      },
       "Airport worker Paris Elbert filmed much of the chaos and later told CBS News Chicago that it was funny, crazy and a little sad all at once. People kept trying to help it, she said, and it kept fighting back.",
       {
         "quote": "\"The bird chose fight, not flight.\" (Paris Elbert, to CBS News Chicago)"
@@ -2621,20 +2376,12 @@
       }
     ],
     "img": {
-      "file": "File:Green Parrot (8560048446).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_Parrot_%288560048446%29.jpg",
-      "author": "Michael Gwyther-Jones from UK",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A bright green parrot perched and looking at the camera"
-    },
-    "img2": {
-      "file": "File:Terminal 5 Concourse, Chicago O'Hare International Airport, Chicago, IL - 54599542307.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terminal_5_Concourse%2C_Chicago_O%27Hare_International_Airport%2C_Chicago%2C_IL_-_54599542307.jpg",
-      "author": "Warren LeMay",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The concourse of Terminal 5 at Chicago O'Hare International Airport"
+      "file": "File:Green parrot with orange beak (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_parrot_with_orange_beak_%28Unsplash%29.jpg",
+      "author": "Sven Scheuermeier sveninho",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A bright green parrot with an orange beak perched on a branch"
     },
     "hook": "One bird vs. an entire airport terminal."
   },
@@ -2675,12 +2422,12 @@
       }
     ],
     "img": {
-      "file": "File:Fax machine printing.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fax_machine_printing.jpg",
-      "author": "RikkisRefuge Other",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "An old fax machine printing out a page while a cat watches from behind it"
+      "file": "File:Courtroom One Gavel - Flickr - Joe Gratz.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg",
+      "author": "Joe Gratz",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A wooden judge's gavel resting on its block on a courtroom bench next to a stack of papers"
     },
     "hook": "His AI assistant took Meta to court. By itself."
   },
@@ -2703,9 +2450,6 @@
       "The gag built on earlier joke protests at the sculpture and a mockumentary that had recently appeared on YouTube. Nobody expected to rescue anyone, or to shift 110 tons of steel by hand. The student said the real point was bringing people together.",
       "Chicago entertainer Taylor Bennett, who helped rally the crowd, first claimed a partial win because someone said it had moved an inch. He later admitted the Bean had not moved at all.",
       {
-        "img2": true
-      },
-      {
         "h2": "St. Louis wants a turn"
       },
       "A week later the joke crossed state lines. On November 15, at 12:07 p.m., a group in St. Louis gathered to push the Gateway Arch seven inches to the left. A local Instagram account had remixed the Chicago flyer, and its post drew more than 21,000 reactions.",
@@ -2725,20 +2469,12 @@
       }
     ],
     "img": {
-      "file": "File:Chicago from under the Cloud Gate (9694666470).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago_from_under_the_Cloud_Gate_%289694666470%29.jpg",
-      "author": "Roman Boed from The Netherlands",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "The Chicago skyline reflected and warped in the curved underside of the Cloud Gate sculpture"
-    },
-    "img2": {
-      "file": "File:Gateway Arch, St. Louis.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gateway_Arch%2C_St._Louis.jpg",
-      "author": "Lewis Hulbert",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The stainless steel Gateway Arch in St. Louis against a blue sky"
+      "file": "File:Grant Park, Chicago, United States (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Park%2C_Chicago%2C_United_States_%28Unsplash%29.jpg",
+      "author": "Fineas Anton fineas_anton",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A footbridge in Chicago's lakefront parkland with the downtown skyline behind"
     },
     "hook": "Hundreds came to push the Bean exactly 7 inches."
   },
@@ -2759,9 +2495,6 @@
       "The route on his screen was not a tidy search pattern. Traced mostly above nearby Blackbushe Airport before the helicopter looped back over his estate, the track formed an unmistakable outline of a penis, with all the accompanying anatomy.",
       "By his account, the buzzing over the houses lasted 15 to 20 minutes, the drawing itself took around half an hour, and the full flight ran for about an hour before the helicopter went home to its base at Redhill.",
       {
-        "img2": true
-      },
-      {
         "h2": "The official explanation"
       },
       "The National Police Air Service, which flies helicopters for forces across England and Wales, says the artwork was a coincidence. The crew was helping Thames Valley Police hunt for a vehicle that had failed to stop, circling the roads and junctions officers on the ground sent it to. Its flights, the service said, never follow set routes because they have to react to events as they unfold.",
@@ -2779,20 +2512,12 @@
       }
     ],
     "img": {
-      "file": "File:DAAS H145 and NPAS EC135 at Exeter Airport 2021-06-10.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DAAS_H145_and_NPAS_EC135_at_Exeter_Airport_2021-06-10.jpg",
-      "author": "Alan Wilson",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A National Police Air Service helicopter parked behind an air ambulance at an airport"
-    },
-    "img2": {
-      "file": "File:Blackbushe Airport 02.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blackbushe_Airport_02.jpg",
-      "author": "Chrisgazzard",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Light aircraft at Blackbushe Airport in Hampshire"
+      "file": "File:Police eurocopter ec135 g-wcao arp.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Police_eurocopter_ec135_g-wcao_arp.jpg",
+      "author": "Arpingstone",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A yellow and black British police helicopter parked on a landing pad"
     },
     "hook": "Look at what the police helicopter drew."
   },
@@ -2812,9 +2537,6 @@
         "h2": "The official verdict"
       },
       "American Airlines says no. In a statement to Atlanta TV station WSB, the airline said the mess was peanut butter that had leaked out of one passenger's checked bag during the flight and spread onto everyone else's luggage.",
-      {
-        "img2": true
-      },
       "The airline apologised and promised to work directly with the affected customers to put things right. In the meantime, passengers were left scrubbing their own suitcases with disinfecting wipes and tissues in the middle of baggage claim.",
       {
         "h2": "The doubters"
@@ -2836,20 +2558,12 @@
       }
     ],
     "img": {
-      "file": "File:Three lb peanut butter jar.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_lb_peanut_butter_jar.jpg",
-      "author": "Twopower332.1938",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A very large three-pound glass jar of peanut butter"
-    },
-    "img2": {
-      "file": "File:ABIA Baggage Carousel 3 2021.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ABIA_Baggage_Carousel_3_2021.jpg",
-      "author": "Larry D. Moore",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "An empty airport baggage carousel"
+      "file": "File:Baggage claim area at KSD.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baggage_claim_area_at_KSD.JPG",
+      "author": "EWR",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "An empty airport baggage claim hall with a luggage carousel"
     },
     "hook": "The bags rolled out covered in brown goo."
   },
@@ -2890,12 +2604,12 @@
       }
     ],
     "img": {
-      "file": "File:Anatolian Shepherd Dog.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anatolian_Shepherd_Dog.jpg",
-      "author": "Jon Mountjoy",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A large cream-coloured Anatolian Shepherd dog"
+      "file": "File:Kangal female.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kangal_female.jpg",
+      "author": "Sciencia58",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A large cream-coloured Anatolian Shepherd dog trotting along a paved path"
     },
     "img2": {
       "file": "File:Shih tzu dog.jpg",
@@ -2942,12 +2656,12 @@
       }
     ],
     "img": {
-      "file": "File:Female and juvenile rhesus macaque at Galtaji, Jaipur, Rajasthan, India.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Female_and_juvenile_rhesus_macaque_at_Galtaji%2C_Jaipur%2C_Rajasthan%2C_India.jpg",
-      "author": "Yann Forget",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A female rhesus macaque sitting with a juvenile"
+      "file": "File:Rhesus Macaque mother and child (54347603631).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhesus_Macaque_mother_and_child_%2854347603631%29.jpg",
+      "author": "Mustang Joe",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A rhesus macaque mother and her young sitting on a wall under a blue sky"
     },
     "hook": "Scientists sat monkeys down for a movie. Guess which."
   },
@@ -2972,9 +2686,6 @@
       },
       "CHP confirmed the incident to local media. It said the block was improvised on the spot, and that it hadn't been in contact with Waymo or the car's remote operators either before or afterwards. Nobody was ticketed.",
       {
-        "img2": true
-      },
-      {
         "h2": "The bigger problem"
       },
       "The roadblock stunt was not Waymo's only bad freeway week. A day earlier, on November 5, three of its driverless cars drove into an active construction closure on US 101 near Burlingame.",
@@ -2991,20 +2702,12 @@
       }
     ],
     "img": {
-      "file": "File:Waymo Jaguar I-Pace in San Francisco 2023 dllu.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
-      "author": "Dllu",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A driverless Waymo Jaguar I-Pace with roof sensors on a San Francisco street"
-    },
-    "img2": {
-      "file": "File:California Highway Patrol Dodge Charger.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/California_Highway_Patrol_Dodge_Charger.jpg",
-      "author": "Tomás Del Coro",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A California Highway Patrol Dodge Charger patrol car on display"
+      "file": "File:Jaguar I-Pace Waymo driverless car in Century City (August 2024).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaguar_I-Pace_Waymo_driverless_car_in_Century_City_%28August_2024%29.jpg",
+      "author": "Alexis Doine",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A white driverless Waymo Jaguar with roof-mounted sensors parked on a city street"
     },
     "hook": "A driverless taxi tried to sneak past the police."
   },
@@ -3024,9 +2727,6 @@
         "h2": "The boring answer"
       },
       "Local Civil Protection officials said it was most likely just a large bird. Specialists pointed to the great blue heron, which can have a wingspan of up to about two metres and looks fairly prehistoric when it flaps.",
-      {
-        "img2": true
-      },
       "Snopes rated one widely shared clip as fake and said its source was unclear. Other viewers suspected some of the footage was made with AI.",
       {
         "quote": "Not a dinosaur. Just a very big bird having a very good week."
@@ -3054,14 +2754,6 @@
       "license": "Public domain",
       "alt": "A great blue heron taking off with its huge wings spread wide"
     },
-    "img2": {
-      "file": "File:Skyline Juárez-El Paso.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline_Juárez-El_Paso.jpg",
-      "author": "Rosalesmx",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The skyline of Ciudad Juárez with El Paso in the distance"
-    },
     "hook": "Is that a pterodactyl over Mexico?"
   },
   {
@@ -3080,9 +2772,6 @@
         "h2": "Enter the kite"
       },
       "Then the explanations arrived. UFO filmmaker Jeremy Corbell, who has promoted a famous jellyfish-shaped object filmed over Iraq, reportedly concluded on November 11 that this one was most likely a tethered octopus-style show kite.",
-      {
-        "img2": true
-      },
       "Former Pentagon UFO investigator Sean Kirkpatrick also reportedly favoured a kite. Other experts suggested high-altitude balloons or military exercises.",
       {
         "quote": "When the UFO guys say kite, it is probably a kite."
@@ -3104,20 +2793,12 @@
       }
     ],
     "img": {
-      "file": "File:Berkeley Kite Festival - Flickr - GregTheBusker.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berkeley_Kite_Festival_-_Flickr_-_GregTheBusker.jpg",
-      "author": "Greg Schechter from San Francisco, USA",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Giant colourful show kites with long trailing tails at a kite festival"
-    },
-    "img2": {
-      "file": "File:Downtown Anchorage, Alaska from Delaney Park.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown_Anchorage,_Alaska_from_Delaney_Park.jpg",
-      "author": "Laura Alier",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "Downtown Anchorage, Alaska, seen from Delaney Park"
+      "file": "File:Octopoda Kite Flying over Railway Sculpture Park, Kaohsiung 20151129.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Octopoda_Kite_Flying_over_Railway_Sculpture_Park%2C_Kaohsiung_20151129.jpg",
+      "author": "玄史生",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A giant pink octopus kite with long trailing tentacles flying in a blue sky"
     },
     "hook": "A 'jellyfish UFO' was filmed near an air base."
   },
@@ -3157,12 +2838,12 @@
       }
     ],
     "img": {
-      "file": "File:Cinnamon black bear (Ursus americanus cinnamomum) Yoho.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_black_bear_(Ursus_americanus_cinnamomum)_Yoho.jpg",
-      "author": "Charles J. Sharp",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A cinnamon-coloured black bear walking through grass"
+      "file": "File:Cinnamon black bear, Soda Butte Creek (18585387596).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_black_bear%2C_Soda_Butte_Creek_%2818585387596%29.jpg",
+      "author": "Yellowstone National Park from Yellowstone NP, USA",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A cinnamon-coloured black bear walking through a grassy clearing at the edge of a forest"
     },
     "img2": {
       "file": "File:A Kansas wheat field, Harvester Combine in action LCCN2012646392.jpg",
@@ -3189,9 +2870,6 @@
         "h2": "Record, or not?"
       },
       "Hegarty shared the catch on Facebook, calling himself a world record holder, and hundreds of people congratulated him.",
-      {
-        "img2": true
-      },
       "Others were less impressed. Critics questioned whether fish from private, well-fed lakes should count, and there has been no confirmed formal international verification of the record.",
       {
         "quote": "She weighs more than a lot of people reading this. Her name is Angelina."
@@ -3213,20 +2891,12 @@
       }
     ],
     "img": {
-      "file": "File:Cyprinus carpio 2021 G2.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyprinus_carpio_2021_G2.jpg",
-      "author": "George Chernilevsky",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A large golden common carp held up out of the water"
-    },
-    "img2": {
-      "file": "File:HUNGARY-Lake Balaton Region.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUNGARY-Lake_Balaton_Region.jpg",
-      "author": "DavidivardiIL",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Hills and water in the Lake Balaton region of Hungary"
+      "file": "File:Common Carp (Cyprinus carpio) (1) (51222524826).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Carp_%28Cyprinus_carpio%29_%281%29_%2851222524826%29.jpg",
+      "author": "USFWS Mountain Prairie",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A large adult common carp shown side-on against a white background"
     },
     "hook": "Meet Angelina. She weighs 52 kilos."
   },
@@ -3246,9 +2916,6 @@
         "h2": "A record that lasted a week"
       },
       "The previous record had been set only a week earlier, on October 3, by British grower Ian Paton with a pumpkin of about 2,857 pounds. Wallace beat it by nearly 300.",
-      {
-        "img2": true
-      },
       "This is not his first giant. Wallace, 60, set a record in 2006 with a 1,502-pound pumpkin and in 2012 became the first grower to break 2,000 pounds. This is his third world record.",
       {
         "quote": "One pumpkin. Heavier than a car. Grown on purpose."
@@ -3270,20 +2937,12 @@
       }
     ],
     "img": {
-      "file": "File:Giant pumpkins linedup.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_pumpkins_linedup.jpg",
-      "author": "Nick Ares",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A row of enormous misshapen giant pumpkins lined up at a festival"
-    },
-    "img2": {
-      "file": "File:TwinsWeighOff.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TwinsWeighOff.jpg",
-      "author": "David.politzer",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Giant pumpkins on pallets at a weigh-off"
+      "file": "File:2009 Circleville Pumpkin Show champions.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2009_Circleville_Pumpkin_Show_champions.jpg",
+      "author": "User:Nyttend",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Enormous prize-winning pumpkins with their weights written on them at a pumpkin show"
     },
     "hook": "This pumpkin weighs more than a car."
   },
@@ -3303,9 +2962,6 @@
         "h2": "How did they get there?"
       },
       "Aubrey posted the discovery on TikTok and it went viral. The host said the home's decorator was a local photographer who takes aerial beach shots and sells them as large prints to vacation rentals.",
-      {
-        "img2": true
-      },
       "The sisters think the photo was taken at Mission Beach or Imperial Beach, during a family trip for their brother's soccer tournament. The host offered them a copy.",
       {
         "quote": "You came for the beach. The beach had already come for you."
@@ -3332,14 +2988,6 @@
       "author": "User Vlastula on en.wikipedia",
       "license": "Public domain",
       "alt": "Mission Beach in San Diego, with sand, surf and beachfront buildings"
-    },
-    "img2": {
-      "file": "File:Mission Beach Boardwalk.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mission_Beach_Boardwalk.jpg",
-      "author": "Blervis",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "The boardwalk along Mission Beach, San Diego"
     },
     "hook": "Their own family photo was hanging in the Airbnb."
   },
@@ -3382,12 +3030,12 @@
       }
     ],
     "img": {
-      "file": "File:Launch of Shenzhou 13.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Launch_of_Shenzhou_13.jpg",
-      "author": "ForrestXYC (edited)",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A Chinese Long March rocket rising into the night sky on a column of flame"
+      "file": "File:Vandenberg launches SpaceX Falcon 9 (181007-F-XJ735-064).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vandenberg_launches_SpaceX_Falcon_9_%28181007-F-XJ735-064%29.jpg",
+      "author": "U.S. Air Force photo by Senior Airman Clayton Wear",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A glowing jellyfish-shaped rocket exhaust plume lit up in the night sky"
     },
     "img2": {
       "file": "File:Kota Kinabalu City Mosque 01.jpg",
@@ -3415,9 +3063,6 @@
         "h2": "A very expensive laundry bag"
       },
       "Peru's National Forest and Wildlife Service, SERFOR, said the spiders were bound for Germany, where exotic tarantulas are prized by collectors.",
-      {
-        "img2": true
-      },
       "One outlet estimated a single tarantula can fetch around 500 euros in Europe, which would put the sock collection at roughly 1.5 million euros. That figure has not been officially confirmed.",
       {
         "quote": "Somewhere in Germany, a collector is still waiting for a very hairy delivery."
@@ -3445,14 +3090,6 @@
       "license": "Public domain",
       "alt": "A Mexican red-knee tarantula with orange-banded legs on a dark background"
     },
-    "img2": {
-      "file": "File:Lima Peru inside Jorge Chavez International Airport.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lima_Peru_inside_Jorge_Chavez_International_Airport.jpg",
-      "author": "VasenkaPhotography",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Inside the terminal of Jorge Chávez International Airport in Lima"
-    },
     "hook": "These socks were moving."
   },
   {
@@ -3471,9 +3108,6 @@
         "h2": "The culprit confesses"
       },
       "The photo had been made by the family's nine-year-old son with an artificial intelligence app. Officers only worked it out after examining the original image on his phone.",
-      {
-        "img2": true
-      },
       "The boy owned up and, according to one report, apologised to the officers. Which app he used has not been reported.",
       {
         "quote": "Two days, a fire crew and a police unit versus one bored kid. The kid won."
@@ -3502,14 +3136,6 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "alt": "A ball python coiled up with its head raised"
     },
-    "img2": {
-      "file": "File:Castelfidardo Porta Vittoria 2020.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Castelfidardo_Porta_Vittoria_2020.jpg",
-      "author": "Ermanon",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Porta Vittoria, a brick gateway into the old town of Castelfidardo"
-    },
     "hook": "Police searched for this python for two days."
   },
   {
@@ -3528,9 +3154,6 @@
         "h2": "The cover-up was worse than the crime"
       },
       "The restaurant confirmed that the woman was an off-duty employee. At first, it said she had gone back, returned the candy and apologised.",
-      {
-        "img2": true
-      },
       "The homeowner disagreed. He said the only apology he got came from the other woman in the video. Sakana then said it had confirmed the employee lied about apologising, and fired her.",
       {
         "quote": "Taking candy from children: bad. Lying to your boss about it: unemployment."
@@ -3552,20 +3175,12 @@
       }
     ],
     "img": {
-      "file": "File:Halloween jack-o-lanterns on porch Seattle.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halloween_jack-o-lanterns_on_porch_Seattle.jpg",
-      "author": "Lianguanlun",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "Carved jack-o'-lanterns lit up on a front porch at night"
-    },
-    "img2": {
-      "file": "File:Trick or Treat New Orleans 2012.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trick_or_Treat_New_Orleans_2012.jpg",
-      "author": "Bart Everson",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Children in costumes trick-or-treating on a city street"
+      "file": "File:Jack-O-Lantern at night.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack-O-Lantern_at_night.jpg",
+      "author": "Alabama Extension",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A grinning carved jack-o'-lantern glowing on a brick step at night"
     },
     "hook": "She emptied the candy bowl. Then she lost her job."
   },
@@ -3605,12 +3220,12 @@
       }
     ],
     "img": {
-      "file": "File:East Abbotsford looking towards Mission.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/East_Abbotsford_looking_towards_Mission.jpg",
-      "author": "Dllu",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A wide view over east Abbotsford, British Columbia, towards Mission and the mountains"
+      "file": "File:Simulation of Motorist Blood-Alcohol Level Test - NARA - 6925433.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simulation_of_Motorist_Blood-Alcohol_Level_Test_-_NARA_-_6925433.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A police officer stands by as a motorist takes a roadside breath-alcohol test beside a car"
     },
     "img2": {
       "file": "File:Breathalyzer training.jpg",
@@ -3637,9 +3252,6 @@
         "h2": "The crew says it was under control"
       },
       "The guest, a military veteran named Jen, was on the trip as part of the program. Founder Jimmy Armel said she was never in real danger, because the crew had the shark under control the whole time.",
-      {
-        "img2": true
-      },
       "Not everyone was reassured. University of Sydney shark researcher Chris Pepin-Neff criticised the attempt to touch the animal.",
       {
         "quote": "The shark was not tagged. The lesson, hopefully, was."
@@ -3661,20 +3273,12 @@
       }
     ],
     "img": {
-      "file": "File:Great white shark, Carcharodon carcharias.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_white_shark,_Carcharodon_carcharias.jpg",
-      "author": "Olga Ernst",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A great white shark swimming near the surface with its mouth slightly open"
-    },
-    "img2": {
-      "file": "File:Tybee-island-lighthouse-se-ga1.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tybee-island-lighthouse-se-ga1.jpg",
-      "author": "Brian Stansberry",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0/",
-      "alt": "The black-and-white Tybee Island Lighthouse in Georgia"
+      "file": "File:Carcharodon carcharias.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carcharodon_carcharias.jpg",
+      "author": "Sharkdiver.com",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A great white shark swimming in clear blue water with its teeth showing"
     },
     "hook": "She reached over the side to pet a great white."
   },
@@ -3694,9 +3298,6 @@
         "h2": "Game over"
       },
       "Police said the 28-year-old driver was arrested for dangerous driving, driving while disqualified, drug-driving and possessing cannabis. The chase reportedly took place in Ripley.",
-      {
-        "img2": true
-      },
       "Reports say he was jailed for 14 months, which means he will miss the real game's release.",
       {
         "quote": "Gamers spotted the HUD showed five wanted stars. GTA 6 has six."
@@ -3718,20 +3319,12 @@
       }
     ],
     "img": {
-      "file": "File:Ashbourne Police Station - Compton Street, Ashbourne - Police cars - Derbyshire Constabulary.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashbourne_Police_Station_-_Compton_Street,_Ashbourne_-_Police_cars_-_Derbyshire_Constabulary.jpg",
-      "author": "Elliott Brown",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "Derbyshire Constabulary police cars parked outside Ashbourne police station"
-    },
-    "img2": {
-      "file": "File:Market Square in Ripley - geograph.org.uk - 4255442.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Market_Square_in_Ripley_-_geograph.org.uk_-_4255442.jpg",
-      "author": "Jonathan Clitheroe",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "The market square in Ripley, Derbyshire"
+      "file": "File:Police car (FH73 OVJ) - 10 August 2025.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Police_car_%28FH73_OVJ%29_-_10_August_2025.jpg",
+      "author": "Aethonatic",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A British police estate car in yellow and blue livery with its blue lights on, parked on a street"
     },
     "hook": "Police turned a real car chase into a GTA video."
   },
@@ -3751,9 +3344,6 @@
         "h2": "Snacks and a spritz"
       },
       "He also found time to eat candy, leaving the wrappers in a BMW, and to spray himself with the owner's cologne.",
-      {
-        "img2": true
-      },
       "He drove the cars to various spots and took the BMW home. That was the mistake: police used the car's tracking system to find it at his house, still wearing its For Sale decal.",
       {
         "quote": "He smelled great. That is about where the good news ended."
@@ -3767,20 +3357,12 @@
       }
     ],
     "img": {
-      "file": "File:Porsche Macan 4 IMG 2153.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Porsche_Macan_4_IMG_2153.jpg",
-      "author": "Alexander-93",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A grey Porsche Macan SUV parked at a car show"
-    },
-    "img2": {
-      "file": "File:Palmyra back from Broad - used car lot, Mid-City New Orleans 1.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palmyra_back_from_Broad_-_used_car_lot,_Mid-City_New_Orleans_1.jpg",
-      "author": "Infrogmation of New Orleans",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Cars lined up for sale on a used car lot"
+      "file": "File:2020 Porsche Macan GTS grey front.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020_Porsche_Macan_GTS_grey_front.jpg",
+      "author": "Throwawayacc222",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A pale grey Porsche Macan SUV parked on a street, seen from the front"
     },
     "hook": "He stole five cars. And the owner's cologne."
   },
@@ -3800,9 +3382,6 @@
         "h2": "The great treat experiment"
       },
       "By the second round, Xena has worked it out. She gives her owner a look and walks off.",
-      {
-        "img2": true
-      },
       "Luna does not walk off. Luna keeps taking every invisible treat offered, chewing and swallowing with complete commitment.",
       {
         "quote": "Xena wants a treat. Luna simply enjoys the idea of one."
@@ -3816,20 +3395,12 @@
       }
     ],
     "img": {
-      "file": "File:Two dogs sitting outdoors.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_dogs_sitting_outdoors.jpg",
-      "author": "Sanskritidubey",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "Two dogs sitting side by side outdoors"
-    },
-    "img2": {
-      "file": "File:They love there treats (try Greenies).JPG",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/They_love_there_treats_(try_Greenies).JPG",
-      "author": "Allie Hajjar",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A dog eagerly looking up at a treat"
+      "file": "File:Two boxer dogs (2004).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_boxer_dogs_%282004%29.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Two boxer dogs lying side by side on the grass"
     },
     "hook": "One dog is still chewing an invisible treat."
   },
@@ -3870,12 +3441,12 @@
       }
     ],
     "img": {
-      "file": "File:Blenheim Palace south view 2016.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim_Palace_south_view_2016.jpg",
-      "author": "DeFacto",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Blenheim Palace seen from the south lawn under a blue sky"
+      "file": "File:Blenheim Palace 6-2008 4.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim_Palace_6-2008_4.jpg",
+      "author": "Jvhertum",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "The columned main front of Blenheim Palace under a blue sky"
     },
     "img2": {
       "file": "File:Gold bullion bars.jpg",
@@ -3919,12 +3490,12 @@
       }
     ],
     "img": {
-      "file": "File:Citibank Chinatown.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citibank_Chinatown.jpg",
-      "author": "Uris",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A Citibank branch with blue signage on a Manhattan street corner"
+      "file": "File:Citibank, Great Neck, New York, Dec 29 2022.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citibank%2C_Great_Neck%2C_New_York%2C_Dec_29_2022.jpg",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A stone-fronted Citibank branch building with columns in Great Neck, New York"
     },
     "img2": {
       "file": "File:Eccles Building (26088200676).jpg",
@@ -3952,9 +3523,6 @@
         "quote": "The county's animal control officer said the raccoon had drunk nearly everything it could reach."
       },
       "When an employee arrived the next morning, the culprit was not hiding or fleeing. It was lying flat out on the bathroom floor, completely unconscious.",
-      {
-        "img2": true
-      },
       "Hanover County Animal Protection and Shelter collected the suspect and, in a rare act of mercy toward a burglar, simply let it sleep it off. After a few hours of rest it had no injuries at all, except what staff described as a probable hangover.",
       "The shelter later joked online about the raccoon's poor life choices and said it hoped the animal had learned that breaking and entering is wrong. Once sober, the raccoon was released back into the wild with no charges filed and, presumably, a pounding headache."
     ],
@@ -3969,20 +3537,12 @@
       }
     ],
     "img": {
-      "file": "File:Raccoon in Central Park (35264).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raccoon_in_Central_Park_%2835264%29.jpg",
-      "author": "Rhododendrites",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A raccoon standing on leaf litter beside a boulder, staring at the camera"
-    },
-    "img2": {
-      "file": "File:Backbar with various bottles.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Backbar_with_various_bottles.jpg",
-      "author": "Stefan Giesbert (www.cocktailpodcast.de)",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Rows of spirit bottles lined up on a lit shelf"
+      "file": "File:Raccoon on Rock Wall (51840728191).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raccoon_on_Rock_Wall_%2851840728191%29.jpg",
+      "author": "ShenandoahNPS",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A raccoon walking along a stone wall in a green forest"
     },
     "hook": "This raccoon drank the whole Scotch shelf."
   },
@@ -4003,9 +3563,6 @@
       },
       "Just as the look-alikes started walking a red carpet, police ordered the crowd to break up. Organisers were fined $500 for holding an unpermitted costume contest, and at least one contestant was led away in handcuffs.",
       {
-        "img2": true
-      },
-      {
         "quote": "Then, out of nowhere, the real Timothée Chalamet walked in, flanked by bodyguards, and posed for photos with his doppelgängers."
       },
       "Undeterred, the contest moved to a nearby playground. More than a dozen hopefuls took to a makeshift stage, and four finalists were quizzed on their French, their plans to improve the world and their intentions toward Kylie Jenner.",
@@ -4018,20 +3575,12 @@
       }
     ],
     "img": {
-      "file": "File:NYC - Washington Square Park - Arch.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYC_-_Washington_Square_Park_-_Arch.jpg",
-      "author": "Jean-Christophe BENOIST",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0/",
-      "alt": "The marble Washington Square Arch in New York under a blue sky"
-    },
-    "img2": {
-      "file": "File:Washington Square Park (51659533217).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Washington_Square_Park_%2851659533217%29.jpg",
-      "author": "ajay_suresh",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "The Washington Square Park fountain with the arch behind it"
+      "file": "File:Washington Square Arch, New York.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Washington_Square_Arch%2C_New_York.jpg",
+      "author": "Marco Almbauer",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "The marble Washington Square Arch in New York under a blue sky with clouds"
     },
     "hook": "Then the real Timothée showed up."
   },
@@ -4054,9 +3603,6 @@
       {
         "quote": "Then the officer holding the lion's head lunged, and the lion pinned the burglar to the ground."
       },
-      {
-        "img2": true
-      },
       "Colleagues rushed in to help, and Thailand's Metropolitan Police Bureau proudly released photos and video of what may be the most festive arrest in history.",
       "Police said the man confessed and told them he stole to fund gambling and drugs. He already had prior convictions for theft. He also, presumably, now has a lifelong fear of parades."
     ],
@@ -4071,20 +3617,12 @@
       }
     ],
     "img": {
-      "file": "File:Danse du lion Paris 13e - Royal Lion Dance.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Danse_du_lion_Paris_13e_-_Royal_Lion_Dance.jpg",
-      "author": "Lasupremevie",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Colourful lion dance costume heads at a Lunar New Year parade"
-    },
-    "img2": {
-      "file": "File:Royal Thai Police, Isuzu D-Max patrol car..jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_Thai_Police%2C_Isuzu_D-Max_patrol_car..jpg",
-      "author": "Manrat Thiusthas",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A Royal Thai Police pickup patrol car parked on a street"
+      "file": "File:Singapore Lion Dance Costume - MIM PHX (2014-02-09 13.30.11 by ksblack99).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Singapore_Lion_Dance_Costume_-_MIM_PHX_%282014-02-09_13.30.11_by_ksblack99%29.jpg",
+      "author": "ksblack99",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A white and red lion dance costume with a big decorated head on display"
     },
     "hook": "Guess who's inside the lion costume."
   },
@@ -4124,12 +3662,12 @@
       }
     ],
     "img": {
-      "file": "File:Washing machine (6912749857).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Washing_machine_%286912749857%29.jpg",
-      "author": "Toms Sk.",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A front-loading washing machine with its round door open"
+      "file": "File:Coin-operated washing machines in Seven Dials Launderette & Dry Cleaners, Brighton.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coin-operated_washing_machines_in_Seven_Dials_Launderette_%26_Dry_Cleaners%2C_Brighton.jpg",
+      "author": "Andy Li",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A row of stainless steel front-loading washing machines in a launderette"
     },
     "img2": {
       "file": "File:Expo 2025 Grand Ring 03.JPG",
@@ -4157,9 +3695,6 @@
         "h2": "Enter the beavers"
       },
       "Before a single excavator arrived, a local beaver family of around eight animals took matters into their own paws. They built at least four dams across a drainage gully soldiers had once dug, with more under construction.",
-      {
-        "img2": true
-      },
       "The resulting network of pools and channels covers about twice the area the human planners had in mind. The head of the protected-area administration said the beavers had created the habitat almost overnight, with no paperwork and at no cost, saving the state the entire 30 million crowns.",
       {
         "quote": "A zoologist pointed out the key difference: beavers can build a dam in a night or two, while people need permits and funding first."
@@ -4177,20 +3712,12 @@
       }
     ],
     "img": {
-      "file": "File:Biber am Fahrländer See.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biber_am_Fahrl%C3%A4nder_See.jpg",
-      "author": "Stephan Sprinz",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "alt": "A wet Eurasian beaver sitting in green grass at the water's edge"
-    },
-    "img2": {
-      "file": "File:Beaver Dam On Rozhdestvenka River.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beaver_Dam_On_Rozhdestvenka_River.jpg",
-      "author": "Eduard Kosarev",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A beaver dam of woven sticks holding back a small river"
+      "file": "File:North American beaver (54500949156).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/North_American_beaver_%2854500949156%29.jpg",
+      "author": "U.S. Fish and Wildlife Service - Midwest Region",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A wet beaver crouched on dry grass at the water's edge"
     },
     "hook": "Beavers finished a 7-year government job overnight."
   },
@@ -4208,9 +3735,6 @@
       "To make it even more absurd, the stolen bars came from KitKat's new Formula 1 range, shaped like tiny racing cars. The thieves made a clean getaway, which feels appropriate.",
       {
         "quote": "In its statement, KitKat said the criminals had taken its famous slogan too literally, and praised their exceptional taste."
-      },
-      {
-        "img2": true
       },
       "When the company went public, neither the truck nor its sweet cargo had been found, and no arrests had been reported. Nobody was hurt.",
       "Nestlé has turned every chocolate fan into a detective. Each bar carries a batch code, and shoppers, shops and wholesalers can scan it to see whether their snack is from the stolen load. If it matches, they get instructions for alerting the company.",
@@ -4234,14 +3758,6 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "alt": "Three unwrapped KitKat Chunky bars cut open to show the wafer"
     },
-    "img2": {
-      "file": "File:A1 arezzo trucks.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A1_arezzo_trucks.jpg",
-      "author": "Federico Cantoni (Jollyroger)",
-      "license": "CC BY-SA 2.5",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
-      "alt": "Lorries on the A1 motorway near Arezzo, Italy"
-    },
     "hook": "413,793 KitKats vanished without a trace."
   },
   {
@@ -4260,9 +3776,6 @@
         "h2": "Blame the 19th century"
       },
       "The tunnels in question were dug in the 1800s, and their dimensions do not match modern standards. Somewhere between the old tunnels and the new trains, nobody checked.",
-      {
-        "img2": true
-      },
       "When the story finally became public in February 2023, the fallout was swift. The president of Renfe and Spain's secretary of state for transport both resigned, after two senior rail officials had already been fired.",
       {
         "quote": "Cantabria's regional president called it a monumental botch, demanded that heads roll, and asked for compensation."
@@ -4280,20 +3793,12 @@
       }
     ],
     "img": {
-      "file": "File:Estación Puente de los Fierros (Asturias).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Estaci%C3%B3n_Puente_de_los_Fierros_%28Asturias%29.jpg",
-      "author": "Savh",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A red-and-white commuter train at a misty mountain station in Asturias, Spain"
-    },
-    "img2": {
-      "file": "File:Cercanías@Nueva Montaña.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cercan%C3%ADas%40Nueva_Monta%C3%B1a.jpg",
-      "author": "LMLM",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A narrow-gauge commuter train pulling into a station in Santander, Cantabria"
+      "file": "File:Bruggwaldtunnel Südportal.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruggwaldtunnel_S%C3%BCdportal.jpg",
+      "author": "Plutowiki",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A commuter train heading towards the mouth of a railway tunnel cut into a wooded hillside"
     },
     "hook": "€258 million of trains. Too big for the tunnels."
   },
@@ -4313,9 +3818,6 @@
         "h2": "Godzilla, UFO or spy?"
       },
       "Social media users dubbed it a Godzilla egg. Other theories included a bomb, an alien craft and something from outer space. It did not help that Japan was already on edge over suspected spy balloons.",
-      {
-        "img2": true
-      },
       "The city eventually concluded it was most likely a foreign-made buoy. An oceanographer in Scotland agreed, telling the BBC he recognised it immediately as the kind of float used to hold ocean instruments.",
       {
         "quote": "He explained that such buoys can drift for decades and lose their markings, and look a lot like old sea mines, minus the spikes."
@@ -4333,20 +3835,12 @@
       }
     ],
     "img": {
-      "file": "File:Nakatajima Sand Dunes 03.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakatajima_Sand_Dunes_03.jpg",
-      "author": "Kubo Michal",
-      "license": "CC BY-SA 2.5",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
-      "alt": "An empty sandy beach and dunes on the Hamamatsu coast"
-    },
-    "img2": {
-      "file": "File:Mooring ball in Portencross car park - geograph.org.uk - 5856123.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mooring_ball_in_Portencross_car_park_-_geograph.org.uk_-_5856123.jpg",
-      "author": "Thomas Nugent",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A large rusty spherical mooring buoy on a seaside lawn"
+      "file": "File:Japanese buoyant mine which drifted from Japanese waters to Fort Stevens beach between Peter Iredale and the South... - NARA - 299675.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_buoyant_mine_which_drifted_from_Japanese_waters_to_Fort_Stevens_beach_between_Peter_Iredale_and_the_South..._-_NARA_-_299675.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A black and white photo of a round sea mine washed up on a sandy beach, with a man bending over it"
     },
     "hook": "A giant metal 'egg' washed up on the beach."
   },
@@ -4367,9 +3861,6 @@
       },
       "The man fought the fine. In April 2021, Vienna's administrative court reduced it to €100 because of his clean record and finances. But the judge firmly rejected his argument that the fart was a protected form of expression.",
       {
-        "img2": true
-      },
-      {
         "quote": "Farts and burps, the ruling said, have no communicative content, and even if they did, they would go beyond the bounds of decency."
       },
       "The court record described in loving detail how he lifted his buttocks before letting go, while his friends laughed and he grinned at the officers.",
@@ -4386,20 +3877,12 @@
       }
     ],
     "img": {
-      "file": "File:Autumnal Serenity in Vienna's Stadtpark (54947442117).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Autumnal_Serenity_in_Vienna%27s_Stadtpark_%2854947442117%29.jpg",
-      "author": "Sandor Somkuti",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "An autumn path lined with park benches and golden trees in Vienna"
-    },
-    "img2": {
-      "file": "File:Polizei VW-Touran 04.JPG",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polizei_VW-Touran_04.JPG",
-      "author": "Plani",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "An Austrian federal police car parked on a Vienna street"
+      "file": "File:Wien 01 Stadtpark ac.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien_01_Stadtpark_ac.jpg",
+      "author": "Gugerell",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A row of wooden park benches beside a path in Vienna's Stadtpark"
     },
     "hook": "A court had to rule: is a fart free speech?"
   },
@@ -4419,9 +3902,6 @@
         "h2": "A bad build"
       },
       "Irvine detectives eventually set up surveillance at a local Target, identified their man and arrested him at the store, all captured on officers' body cameras.",
-      {
-        "img2": true
-      },
       "The department then released photos of the recovered evidence: piles of LEGO figures, including Star Wars characters, alongside bags of durum wheat semolina pasta allegedly used as stand-ins.",
       {
         "quote": "On Facebook, police called it a bad build and warned that any master plan swapping LEGOs for linguine will end up cooked al dente."
@@ -4439,20 +3919,12 @@
       }
     ],
     "img": {
-      "file": "File:Lego bricks.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lego_bricks.jpg",
-      "author": "Benjamin D. Esham (bdesham)",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A colourful jumble of assorted LEGO bricks"
-    },
-    "img2": {
-      "file": "File:(Pasta) by David Adam Kess (pic.2).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg",
-      "author": "David Adam Kess",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "An assortment of uncooked pasta"
+      "file": "File:Lego 2014.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lego_2014.JPG",
+      "author": "Lesekreis",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Piles of green, yellow, red and blue LEGO bricks sorted by colour on a blue baseplate"
     },
     "hook": "$34,000 of LEGO, swapped for pasta."
   },
@@ -4525,9 +3997,6 @@
         "h2": "The great denim stand-off"
       },
       "Chess's governing body said the rule applied equally to everyone, pointing out that another grandmaster had been fined the same day for wearing sports shoes and had simply gone and changed.",
-      {
-        "img2": true
-      },
       "Carlsen at first said he was done with the whole thing and joked he would head somewhere with better weather. Then FIDE relaxed its ban on jeans, and he came back for the blitz event. He made the final, and after three drawn sudden-death games he and his opponent agreed to share the title, a first for an over-the-board world championship.",
       {
         "quote": "The jeans themselves went on eBay a few months later and sold for $36,100, with the money going to charity."
@@ -4545,20 +4014,12 @@
       }
     ],
     "img": {
-      "file": "File:Schachfiguren, König -- 2022 -- 0017.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schachfiguren%2C_K%C3%B6nig_--_2022_--_0017.jpg",
-      "author": "Dietmar Rabich / Wikimedia Commons / \"Schachfiguren, König -- 2022 -- 0017\"",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Wooden chess pieces with the white king in sharp focus"
-    },
-    "img2": {
-      "file": "File:Close-Up of Denim Jeans.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Close-Up_of_Denim_Jeans.jpg",
-      "author": "Partonez",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Close-up of blue denim fabric"
+      "file": "File:Vintage chess pieces (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vintage_chess_pieces_%28Unsplash%29.jpg",
+      "author": "Lou Levit loulevit",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Ornate metal chess pieces lined up on a board in low, moody light"
     },
     "hook": "Thrown out of a world championship for wearing jeans."
   },
@@ -4578,9 +4039,6 @@
         "h2": "Return to sender"
       },
       "On April 16, a worker at an Amazon returns warehouse in Jurupa Valley, California, opened the box and found a cat where the boots should have been. An off-duty employee who rescues cats on the side came in with food and a carrier and took her home.",
-      {
-        "img2": true
-      },
       "Galena had spent roughly six days in the box with no food or water. A vet found her a little thinner and mildly dehydrated but otherwise fine, with normal bloodwork. Her microchip led the vet straight to her owners, who at first assumed the phone call was a prank.",
       {
         "quote": "The owners credited three small miracles: a split seam that let in air, mild weather, and the warehouse worker who took her in."
@@ -4598,20 +4056,12 @@
       }
     ],
     "img": {
-      "file": "File:2020-10-06 18 08 14 A Calico cat in a box in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-10-06_18_08_14_A_Calico_cat_in_a_box_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
-      "author": "Famartin",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A calico cat sitting inside an open cardboard box, looking up"
-    },
-    "img2": {
-      "file": "File:Calico cat, - Assisi, Italy.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calico_cat%2C_-_Assisi%2C_Italy.jpg",
-      "author": "Terragio67",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A calico cat crouching on a stone step in front of a wooden door"
+      "file": "File:Tortoiseshell cat Cindy in a box.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tortoiseshell_cat_Cindy_in_a_box.jpg",
+      "author": "Calicocindy at English Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "A tortoiseshell cat curled up inside an open cardboard box"
     },
     "hook": "They accidentally mailed their cat to Amazon."
   },
@@ -4631,9 +4081,6 @@
         "h2": "The charge sheet"
       },
       "Over his visits, Neil has bent traffic bollards, damaged a sign warning the public about seals, flattened a fence he tried to vault, picked fights with parked cars and smashed through barriers built specifically to keep him off the roads. He enjoys lying in the middle of the street, occasionally bringing an entire town to a halt, and keeps returning to a favourite sidewalk puddle even after rangers relocate him.",
-      {
-        "img2": true
-      },
       "At a news conference in Hobart, a state wildlife official asked fans to give Neil some space, calling his fame a double-edged sword. He warned that people risk loving Neil to death, and asked the public to stop revealing which town the seal is currently in.",
       {
         "quote": "A seal scientist explained that young males practise for adult dominance battles. With no rivals around, Neil practises on cars."
@@ -4647,20 +4094,12 @@
       }
     ],
     "img": {
-      "file": "File:Mirounga leonina.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirounga_leonina.jpg",
-      "author": "Butterfly austral - Serge Ouachée",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A young southern elephant seal lying on snow with its mouth wide open"
-    },
-    "img2": {
-      "file": "File:SouthShetland-2016-Livingston Island (Hannah Point)–Southern elephant seal (Mirounga leonina) 02.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SouthShetland-2016-Livingston_Island_%28Hannah_Point%29%E2%80%93Southern_elephant_seal_%28Mirounga_leonina%29_02.jpg",
-      "author": "Andrew Shiva / Wikipedia",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A mud-caked southern elephant seal yawning widely on a beach"
+      "file": "File:SEAL, ELEPHANT (1-26-08) slo co, ca-01 (2222105692).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SEAL%2C_ELEPHANT_%281-26-08%29_slo_co%2C_ca-01_%282222105692%29.jpg",
+      "author": "ALAN SCHMIERER",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A beach crowded with elephant seals, one rearing up with its mouth open"
     },
     "hook": "Please respect Neil's privacy. Neil is a 1-ton seal."
   },
@@ -4680,9 +4119,6 @@
         "h2": "Rough seas, soggy squash"
       },
       "He wrote the words it's real on both sides of his pumpkin so people watching from the shore would not think it was a prop. Winds of around 35 mph sent waves crashing over the sides, and the pumpkin began taking on water.",
-      {
-        "img2": true
-      },
       "At a stop near Multnomah Falls, he lightened his boat by scooping out more pumpkin flesh with a soup can. He then paddled through the night, because pulling up on a rocky beach risked puncturing the hull.",
       {
         "quote": "Kayakers and a pontoon boat followed him the whole way, just in case the pumpkin gave up before he did."
@@ -4700,20 +4136,12 @@
       }
     ],
     "img": {
-      "file": "File:Giant pumpkins linedup.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant_pumpkins_linedup.jpg",
-      "author": "Nick Ares",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A row of enormous giant pumpkins on pallets at a weigh-off"
-    },
-    "img2": {
-      "file": "File:Columbia River Gorge from the Vista House.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbia_River_Gorge_from_the_Vista_House.jpg",
-      "author": "A Stray Echo",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The Columbia River winding through the forested Columbia River Gorge"
+      "file": "File:West Coast Giant Pumpkin Regatta Finalists.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_Coast_Giant_Pumpkin_Regatta_Finalists.jpg",
+      "author": "AndrewJesse",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Three enormous giant pumpkins on pallets on display at a giant pumpkin regatta"
     },
     "hook": "He paddled 46 miles inside a giant pumpkin."
   },
@@ -4733,9 +4161,6 @@
         "h2": "Rejected"
       },
       "In late January 2024, Guinness World Records turned down his record attempt. The reason: his sticks were not commercially available matches.",
-      {
-        "img2": true
-      },
       "He told French television the rejection had really hurt. The public agreed it was absurd, and after a wave of criticism, Guinness reversed its decision.",
       {
         "quote": "A Guinness records director admitted the organisation had been heavy-handed and said it regretted the distress it had caused."
@@ -4753,20 +4178,12 @@
       }
     ],
     "img": {
-      "file": "File:Eiffel Tower in 2022 02.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eiffel_Tower_in_2022_02.jpg",
-      "author": "Maksim Sokolov (maxergon.com)",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The Eiffel Tower's iron lattice seen from below"
-    },
-    "img2": {
-      "file": "File:Closeup of match stick heads.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Closeup_of_match_stick_heads.jpg",
-      "author": "Subhrajyoti07",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Close-up of red-tipped wooden matchsticks"
+      "file": "File:Matchstick in the Dark (Unsplash).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Matchstick_in_the_Dark_%28Unsplash%29.jpg",
+      "author": "Jamie Street jamie452",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A row of matchsticks bursting into flame against a dark background"
     },
     "hook": "8 years and 706,000 matches. Wrong matches."
   },
@@ -4786,9 +4203,6 @@
         "h2": "The smoking chestnut"
       },
       "Organisers confirmed that a steel conker had been found in the champion's pocket. He denied any wrongdoing.",
-      {
-        "img2": true
-      },
       "The committee investigated, reviewing photos, video and statements from judges and umpires. On October 21 they cleared him, accepting that he carried the metal conker purely to amuse people as part of his King Conker persona.",
       {
         "quote": "The committee's chair said four judges had watched him so closely that cheating was absolutely impossible."
@@ -4806,20 +4220,12 @@
       }
     ],
     "img": {
-      "file": "File:Horse-chestnut conkers (37572638741).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horse-chestnut_conkers_%2837572638741%29.jpg",
-      "author": "stanze (Flickr: stanzebla)",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "A pile of glossy reddish-brown horse chestnut conkers"
-    },
-    "img2": {
-      "file": "File:Conkers, Omagh - geograph.org.uk - 5045776.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Conkers%2C_Omagh_-_geograph.org.uk_-_5045776.jpg",
-      "author": "Kenneth Allen",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "alt": "Spiky green conker cases hanging on a horse chestnut tree"
+      "file": "File:Horse chestnut-1698741.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horse_chestnut-1698741.jpg",
+      "author": "Silvia & Frank",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Two glossy brown conkers, one still in its split spiky shell"
     },
     "hook": "Was the champion's conker made of steel?"
   },
@@ -4839,9 +4245,6 @@
         "h2": "Doing his job"
       },
       "A lift engineer who had just started working at the museum spotted the cans, decided they were trash, and threw them away.",
-      {
-        "img2": true
-      },
       "A curator returning from a short break noticed the artwork was gone and found it in a bin bag full of swept-up litter, just before it was taken away for good. Both cans survived intact.",
       {
         "quote": "A museum spokesperson said there were no hard feelings, and that the engineer was only doing his job."
@@ -4859,20 +4262,12 @@
       }
     ],
     "img": {
-      "file": "File:Lisser Art Museum 2019.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisser_Art_Museum_2019.jpg",
-      "author": "Vysotsky (Wikimedia)",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The brick-and-glass Lisser Art Museum among trees in Lisse, Netherlands"
-    },
-    "img2": {
-      "file": "File:Crushed beer can on asphalt.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crushed_beer_can_on_asphalt.jpg",
-      "author": "Kotivalo",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "A flattened beer can lying on dark asphalt"
+      "file": "File:Overful trash cans (prague).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Overful_trash_cans_%28prague%29.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Overflowing rubbish bins and containers piled with litter on a city street"
     },
     "hook": "A worker thought the artwork was rubbish."
   },
@@ -4892,9 +4287,6 @@
         "h2": "The summer of the salmon hat"
       },
       "In 1987, a female in K pod started wearing salmon on her head. Within months, the trend had spread to the other two pods. Then, almost as suddenly as it began, it vanished, and it was barely seen again for decades.",
-      {
-        "img2": true
-      },
       "The new sighting came during an unusually big chum salmon run, the same week J pod spent a rare ten days in a row being spotted in the area. That may matter, because nobody actually knows why orcas do this. Theories include playing with spare food, saving a snack for later, or some kind of social food-sharing.",
       {
         "quote": "One biologist summed up the science honestly: it is all speculation."
@@ -4919,14 +4311,6 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "alt": "A male orca's tall dorsal fin breaking the surface near a forested shoreline"
     },
-    "img2": {
-      "file": "File:Orcas Edmonds Washington 20240620 0640.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orcas_Edmonds_Washington_20240620_0640.jpg",
-      "author": "NatFee",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "Two orcas surfacing in calm blue water with a sailboat in the distance"
-    },
     "hook": "Orcas are wearing dead salmon as hats again."
   },
   {
@@ -4945,9 +4329,6 @@
         "h2": "Watched around the clock"
       },
       "Four cameras recorded his every move, both to keep an eye on his mental health and to prove he never sneaked up to the surface. Witnesses monitored him day and night.",
-      {
-        "img2": true
-      },
       "A Guinness adjudicator confirmed the record for the longest time living underwater without decompression, beating the previous mark of 100 days. He kept a copy of Jules Verne's Twenty Thousand Leagues Under the Sea by his bed and says he admires Captain Nemo.",
       {
         "quote": "He said the point was to show that the ocean could one day be a place for humans to live."
@@ -4968,14 +4349,6 @@
       "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
       "alt": "A diver swimming toward an underwater research habitat on the seafloor"
     },
-    "img2": {
-      "file": "File:Wall of the Santiago de la Gloria Battery overlooking the bay at Portobelo.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall_of_the_Santiago_de_la_Gloria_Battery_overlooking_the_bay_at_Portobelo.jpg",
-      "author": "Gualberto107",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "A palm tree and old stone fort wall beside a bay on Panama's Caribbean coast"
-    },
     "hook": "He lived 120 days at the bottom of the sea."
   },
   {
@@ -4995,9 +4368,6 @@
       },
       "As luck would have it for everyone except him, members of a regional auto theft task force, known as MADCAT, were watching as he parked. Of all the parking lots in California, he had picked the one where car-theft specialists were literally on duty.",
       {
-        "img2": true
-      },
-      {
         "quote": "Deputies met him right outside the courtroom where his car-theft case was about to be heard."
       },
       "He was arrested before he could set foot in front of the judge. The sheriff's office said the arrest went smoothly.",
@@ -5014,20 +4384,12 @@
       }
     ],
     "img": {
-      "file": "File:Monterey County Courthouse 2.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monterey_County_Courthouse_2.jpg",
-      "author": "McGhiever",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The Monterey County Courthouse in Salinas, California"
-    },
-    "img2": {
-      "file": "File:Monterey County Courthouse 2018 Salinas CA (1).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monterey_County_Courthouse_2018_Salinas_CA_%281%29.jpg",
-      "author": "Sgerbic",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "alt": "The landscaped courtyard of the Monterey County Courthouse"
+      "file": "File:Napa County Criminal Division Courthouse - Napa, California - DSC03174.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napa_County_Criminal_Division_Courthouse_-_Napa%2C_California_-_DSC03174.JPG",
+      "author": "Daderot",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "A modern county criminal courthouse building in Napa, California, under a blue sky"
     },
     "hook": "He drove a stolen car to his car-theft hearing."
   },
@@ -5050,9 +4412,6 @@
       {
         "quote": "Tacos and burritos, the judge wrote, are Mexican-style sandwiches."
       },
-      {
-        "img2": true
-      },
       "Because the agreement never said the sandwiches had to be American-style, the judge concluded the taco shop had been allowed all along, and the whole fight to amend it had been unnecessary.",
       "The owner said he was relieved and expected the new location to open within a few months. The hot dog question, sadly, remains open."
     ],
@@ -5067,20 +4426,12 @@
       }
     ],
     "img": {
-      "file": "File:Tres tacos.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tres_tacos.jpg",
-      "author": "evan p. cordes",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "Three tacos topped with cilantro and salsa on a tray"
-    },
-    "img2": {
-      "file": "File:Cortes del Condado de Allen, Fort Wayne, Indiana, Estados Unidos, 2012-11-12, DD 01.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cortes_del_Condado_de_Allen%2C_Fort_Wayne%2C_Indiana%2C_Estados_Unidos%2C_2012-11-12%2C_DD_01.jpg",
-      "author": "Diego Delso (delso.photo)",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "alt": "The domed Allen County Courthouse in Fort Wayne, Indiana"
+      "file": "File:Beef tacos - Cambridge, MA.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beef_tacos_-_Cambridge%2C_MA.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "alt": "Two beef tacos topped with herbs, sauce and lime wedges on a white plate"
     },
     "hook": "A judge has ruled that tacos are sandwiches."
   },
@@ -5100,9 +4451,6 @@
         "h2": "The great otter manhunt"
       },
       "Teams from the California Department of Fish and Wildlife and the Monterey Bay Aquarium spent weeks trying to catch her. They towed a baited surfboard toward their boat. They tried several kinds of nets. They deployed an underwater trap operated by divers.",
-      {
-        "img2": true
-      },
       "Every time they got close, she simply dived off and swam away. Officials could not net her in open water, and sedating her was off the table because she could drown.",
       {
         "quote": "A local photographer said the failed capture attempts had become almost comical."
@@ -5120,20 +4468,12 @@
       }
     ],
     "img": {
-      "file": "File:Sea-otter-morro-bay 13.jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea-otter-morro-bay_13.jpg",
-      "author": "Mike Baird (bairdphotos.com)",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A California sea otter floating on its back in calm grey water"
-    },
-    "img2": {
-      "file": "File:Steamer Lane (21423069678).jpg",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamer_Lane_%2821423069678%29.jpg",
-      "author": "Henry Zbyszynski",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "alt": "A lone surfer riding a wave at Steamer Lane, Santa Cruz"
+      "file": "File:Sea Otter 841.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sea_Otter_841.jpg",
+      "author": "USFWS Pacific Southwest Region",
+      "license": "Public domain",
+      "license_url": "",
+      "alt": "Sea otter 841 floating on her back in choppy water off Santa Cruz"
     },
     "hook": "Wanted: Otter 841, serial surfboard thief."
   }

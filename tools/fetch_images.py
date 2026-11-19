@@ -30,16 +30,16 @@ OG_W, OG_H = 1200, 630
 
 def fetch(url):
     """Polite download: pauses between files and backs off on 429 (Wikimedia rate limit)."""
-    req = urllib.request.Request(url, headers={"User-Agent": "static-site-build/1.0 (image mirror)"})
-    for attempt in range(8):
+    req = urllib.request.Request(url, headers={"User-Agent": "RetardedNewsCardBuilder/1.0 (https://retardednews.github.io/)"})
+    for attempt in range(10):
         time.sleep(1.5)
         try:
             data = urllib.request.urlopen(req, timeout=60).read()
             break
         except urllib.error.HTTPError as err:
-            if err.code != 429 or attempt == 7:
+            if err.code != 429 or attempt == 9:
                 raise
-            wait = int(err.headers.get("Retry-After") or 0) or 10 * (attempt + 1)
+            wait = int(err.headers.get("Retry-After") or 0) or 30 * (attempt + 1)
             print(f"rate limited, waiting {wait}s")
             time.sleep(wait)
     im = Image.open(io.BytesIO(data))
@@ -90,7 +90,7 @@ def main():
         todo = [p for p in list(paths.values()) + ogs if force or not os.path.exists(p)]
         if not todo:
             continue
-        src = fetch(build._thumb(img, max(widths)))
+        src = fetch(build._thumb(img, 10**9))  # original file: thumbnail renders are rate-limited far harder
         for w, p in paths.items():
             if p in todo:
                 save(resize(src, w), p)
