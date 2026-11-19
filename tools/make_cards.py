@@ -1,7 +1,8 @@
-"""Builds 1080x1350 Facebook image cards: story photo, dark fade, headline, brand tag, photo credit.
+"""Builds 1200x630 share cards: the story's website photo with its one-line hook on top.
 
-Usage:  python tools/make_cards.py SRC_DIR OUT_DIR [slug ...]
-SRC_DIR holds <slug>.jpg source photos (the story's Commons image). Cards are written to OUT_DIR/<slug>.jpg.
+Usage:  python tools/make_cards.py SRC_DIR [slug ...]
+SRC_DIR holds <slug>.jpg source photos (the story's Commons image). Cards go to cards/<slug>.jpg,
+which build.py uses as each article's og:image, so Facebook link posts show the card.
 """
 import json
 import os
@@ -11,10 +12,11 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STORIES = {s["slug"]: s for s in json.load(open(os.path.join(ROOT, "tools", "stories.json"), encoding="utf-8"))}
+OUT = os.path.join(ROOT, "cards")
 F = "C:/Windows/Fonts/"
-W, H = 1080, 1350
+W, H = 1200, 630
 RED = (200, 16, 46)
-PAD = 64
+PAD = 48
 
 
 def font(name, size):
@@ -42,53 +44,50 @@ def cover(img):
     return img.crop((left, top, left + W, top + H))
 
 
-def card(slug, src, out):
-    s = STORIES[slug]
-    base = cover(Image.open(src).convert("RGB"))
-
-    # Dark fade over the lower part so white text stays readable on any photo.
-    fade = Image.new("L", (1, H))
+def shade(base):
+    """Dark fade at the top (hook) and a lighter one at the bottom (tag and credit)."""
+    mask = Image.new("L", (1, H))
     for y in range(H):
-        t = max(0.0, (y - H * 0.30) / (H * 0.55))
-        fade.putpixel((0, y), int(min(1.0, t) * 235))
-    black = Image.new("RGB", (W, H), (0, 0, 0))
-    base = Image.composite(black, base, fade.resize((W, H)))
+        top = max(0.0, 1 - y / (H * 0.55)) * 215
+        bottom = max(0.0, (y - H * 0.78) / (H * 0.22)) * 170
+        mask.putpixel((0, y), int(max(top, bottom)))
+    return Image.composite(Image.new("RGB", (W, H)), base, mask.resize((W, H)))
+
+
+def card(slug, src):
+    s = STORIES[slug]
+    base = shade(cover(Image.open(src).convert("RGB")))
     d = ImageDraw.Draw(base)
 
-    # Headline: shrink until it fits in at most 6 lines.
-    for size in range(72, 40, -4):
+    for size in range(66, 38, -2):  # largest size that fits in two lines
         hf = font("ariblk.ttf", size)
-        lines = wrap(d, s["headline"], hf, W - 2 * PAD)
-        if len(lines) <= 6:
+        lines = wrap(d, s["hook"], hf, W - 2 * PAD)
+        if len(lines) <= 2:
             break
-    lh = int(size * 1.18)
-    credit_f = font("arial.ttf", 22)
-    credit = f"Photo: {s['img']['author']} / {s['img']['license']}, Wikimedia Commons. Illustrative."
-    credit_lines = wrap(d, credit, credit_f, W - 2 * PAD)
-    y = H - PAD - 30 * len(credit_lines) - 24 - lh * len(lines)
+    y = PAD - 6
+    for line in lines:
+        d.text((PAD + 3, y + 3), line, font=hf, fill=(0, 0, 0))  # soft drop shadow
+        d.text((PAD, y), line, font=hf, fill="white")
+        y += int(size * 1.2)
 
-    # Brand tag above the headline.
-    tf = font("ariblk.ttf", 30)
+    tf = font("ariblk.ttf", 24)
     tag = "RETARDED NEWS"
     tw = d.textlength(tag, font=tf)
-    ty = y - 78
-    d.rectangle([PAD, ty, PAD + tw + 36, ty + 52], fill=RED)
-    d.text((PAD + 18, ty + 26), tag, font=tf, fill="white", anchor="lm")
+    d.rectangle([PAD, H - PAD - 42, PAD + tw + 28, H - PAD], fill=RED)
+    d.text((PAD + 14, H - PAD - 21), tag, font=tf, fill="white", anchor="lm")
 
-    for line in lines:
-        d.text((PAD, y), line, font=hf, fill="white")
-        y += lh
-    y += 24
-    for line in credit_lines:
-        d.text((PAD, y), line, font=credit_f, fill=(190, 190, 190))
-        y += 30
-    base.save(out, quality=90)
+    cf = font("arial.ttf", 16)
+    credit = f"Photo: {s['img']['author']} / {s['img']['license']}, Wikimedia Commons (illustrative)"
+    while d.textlength(credit, font=cf) > W - 2 * PAD - tw - 60:
+        credit = credit[:-2]
+    d.text((W - PAD, H - PAD - 21), credit, font=cf, fill=(215, 215, 215), anchor="rm")
+    base.save(os.path.join(OUT, slug + ".jpg"), quality=88)
 
 
 if __name__ == "__main__":
-    src_dir, out_dir, *slugs = sys.argv[1:]
-    os.makedirs(out_dir, exist_ok=True)
-    slugs = slugs or [f[:-4] for f in os.listdir(src_dir) if f.endswith(".jpg")]
+    src_dir, *slugs = sys.argv[1:]
+    os.makedirs(OUT, exist_ok=True)
+    slugs = slugs or [f[:-4] for f in os.listdir(src_dir) if f.endswith(".jpg") and f[:-4] in STORIES]
     for slug in slugs:
-        card(slug, os.path.join(src_dir, slug + ".jpg"), os.path.join(out_dir, slug + ".jpg"))
+        card(slug, os.path.join(src_dir, slug + ".jpg"))
     print(f"{len(slugs)} cards")

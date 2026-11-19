@@ -250,10 +250,16 @@ SITE_URL = "https://retardednews.github.io"
 def og_tags(s):
     """Open Graph tags so Facebook link posts show the headline, dek and picture."""
     img = s["img"]
-    src = _thumb(img, 1280) if img["file"] in IMG_META else img["url"].split("?")[0] + "?width=1280"
+    card = os.path.join(ROOT, "cards", s["slug"] + ".jpg")  # photo + hook, from tools/make_cards.py
+    if os.path.exists(card):
+        src = f"{SITE_URL}/cards/{s['slug']}.jpg?v={asset_version('cards/' + s['slug'] + '.jpg')}"
+        size = [("og:image:width", "1200"), ("og:image:height", "630")]
+    else:
+        src = _thumb(img, 1280) if img["file"] in IMG_META else img["url"].split("?")[0] + "?width=1280"
+        size = []
     tags = [("og:type", "article"), ("og:site_name", SITE), ("og:title", s["headline"]),
             ("og:description", s["dek"]), ("og:url", f"{SITE_URL}/news/{s['slug']}.html"),
-            ("og:image", src), ("og:image:alt", img["alt"])]
+            ("og:image", src), *size, ("og:image:alt", s.get("hook") or img["alt"])]
     out = "".join(f'\n  <meta property="{k}" content="{e(v)}">' for k, v in tags)
     return out + '\n  <meta name="twitter:card" content="summary_large_image">'
 
