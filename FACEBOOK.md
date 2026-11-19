@@ -13,6 +13,8 @@ Make every post as clickbaity as possible. The reader should have to click the l
 ## Schedule
 - One post every 4 hours, 24/7: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 local (UTC+2) — 6 posts a day.
 - Schedule in Meta Business Suite Planner. Fill the next empty slot; never stack two posts in one slot.
+- Start right away: when a new batch of posts is approved, publish the first one immediately (Publish, not Schedule), then schedule the rest one per 4-hour slot after it.
+- No gaps: the page should never go more than 4 hours without a post. Keep the queue booked at least 2 days ahead, and when it's about to run out, add new stories and posts.
 - Never boost a post (paid ad) — dismiss the Boost pop-up with "Maybe later".
 
 ## Limits
