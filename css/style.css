@@ -239,16 +239,16 @@ a { color: inherit; text-decoration: none; }
 .feed {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-flow: dense;  /* backfill the gap a wide card would otherwise leave */
   gap: 36px 28px;
   padding-bottom: 48px;
 }
 
-/* Wide card every so often to break the rhythm */
-.card.wide { grid-column: span 2; display: grid; grid-template-columns: 1.2fr 1fr; gap: 24px; align-items: start; }
+/* First feed story: full-row hero, image left, text right */
+.card.wide { grid-column: 1 / -1; display: grid; grid-template-columns: 1.5fr 1fr; gap: 32px; align-items: center; padding-bottom: 36px; border-bottom: 1px solid var(--rule); }
 .card.wide .thumb { margin: 0; }
-.card.wide img { aspect-ratio: 4 / 3; }
-.card.wide h3 { font-size: 28px; }
+.card.wide img { aspect-ratio: 16 / 9; }
+.card.wide h3 { font-size: clamp(26px, 3vw, 38px); line-height: 1.12; }
+.card.wide p { font-size: 18px; }
 
 /* ---------- Footer ---------- */
 .footer {
@@ -311,7 +311,7 @@ a { color: inherit; text-decoration: none; }
   .lead-side .card { padding-bottom: 20px; border-bottom: 1px solid var(--rule); }
   .lead-side .card:last-child { border-bottom: 0; }
   .feed { grid-template-columns: 1fr; gap: 32px; }
-  .card.wide { grid-column: auto; display: flex; }
+  .card.wide { grid-column: auto; display: flex; padding-bottom: 0; border-bottom: 0; }
   .card.wide .thumb { margin-bottom: 14px; }
   .card.wide img { aspect-ratio: 3 / 2; }
   .card.wide h3 { font-size: 22px; }

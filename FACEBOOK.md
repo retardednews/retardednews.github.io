@@ -10,6 +10,11 @@ Make every post as clickbaity as possible. The reader should have to click the l
 - Keep it short: 1–2 lines, then the link.
 - Use the story's best picture as the image, cropped so it raises a question.
 
+## Schedule
+- One post every 4 hours, 24/7: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 local (UTC+2) — 6 posts a day.
+- Schedule in Meta Business Suite Planner. Fill the next empty slot; never stack two posts in one slot.
+- Never boost a post (paid ad) — dismiss the Boost pop-up with "Maybe later".
+
 ## Limits
 - The tease must match the article. Exaggerate the mystery, not the facts. A misleading hook gets the page flagged.
 - No engagement bait like "Comment YES", "Tag a friend" or "Share if you agree". Facebook demotes posts that ask for reactions or shares.

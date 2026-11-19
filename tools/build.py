@@ -181,7 +181,7 @@ def tag(s, prefix):
 def card(s, prefix="", wide=False):
     """Whole card is one link (the headline's ::after covers it); the tag stays separately clickable."""
     href = f'{prefix}news/{s["slug"]}.html'
-    sizes = "(max-width: 640px) 100vw, (max-width: 960px) 50vw, 760px" if wide else \
+    sizes = "(max-width: 640px) 100vw, (max-width: 960px) 60vw, 720px" if wide else \
             "(max-width: 640px) 100vw, (max-width: 960px) 50vw, 380px"
     return f"""      <article class="card{' wide' if wide else ''}">
         <div class="thumb">{img_tag(s['img'], sizes, 1280 if wide else 960)}</div>
@@ -216,7 +216,7 @@ def lead(main, side, prefix="", hl="h1"):
 
 
 def feed(items, prefix=""):
-    cards = [card(s, prefix, wide=(i % 7 == 0 and len(items) > 2)) for i, s in enumerate(items)]
+    cards = [card(s, prefix, wide=(i == 0 and len(items) > 2)) for i, s in enumerate(items)]
     return '    <section class="feed">\n' + "\n".join(cards) + "\n    </section>\n"
 
 
